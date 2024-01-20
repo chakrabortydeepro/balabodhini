@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS National Museum Delhi 57.106/220</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>New Delhi</settlement>
+                            <region>Delhi</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>National Museum</institution>
+                        <repository>Manuscripts Department</repository>
+                        <collection>1200 Sharada Manuscripts</collection>
+                        <idno>220</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">M<g rend="subscript">2a</g></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <!--<title xml:lang="sa" type="commentary">[title of commentary]</title>-->
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit>lepanīyaḥ yatvaṃ vā āpadyate anyasminn ākārādau svare
+                                pare<lb/>ka ā<unclear reason="overwriting">ccha</unclear>yāhaka iha
+                                kayiha akāre utvasyoktatvā<lb/>d anya iti vispaṣṭārtham || ābhobhyām
+                                evam eva svare ||<!-- Kātantra 1.5.10 --></incipit>
+                            <rubric source="folio 35r">iti paṇḍitabhaṭṭaśrījagaddharavirahi
+                                bālabodhinyāṃ kāta<lb/>ntralaghuvṛttau nipātapādaṣ ṣaṣṭhaḥ ||
+                                ||<lb/>|| || sandhiprakaraṇaṃ samāptam || <lb/>oṃ namaḥ sarasvatyai
+                                || oṃ dhāvibhaktivarjam arthavalliṅgam ||</rubric>
+                            <explicit>|| kartur ā<lb/>yis salopaś ca ||<!-- Kātantra 3.2.8 --><pb
+                                    n="98r"/><!-- I am leaving some lines --><lb n="20"/>vācarati
+                                aśvati ver lopo pṛktasyeti valopaḥ ya<lb n="21"/>di ver lopa ity
+                                atra kṛcgrahaṇaṃ vartate | tadā valopo tra
+                                va<!-- the verso is blank --></explicit>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="98" unit="folios"/><!-- including one blank page -->
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>good</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <handNote scope="major" script="śāradā" medium="black ink">
+                                <p>either by the scribe or a second hand</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>The handlist of the National Museum reads: "A paper manuscript of the
+                                Balabodhini by Pandit Jagaddhar Bhatt, a commentary on the Katantra
+                                school of grammar by Sri Sarvavarma of Bengal. This system of
+                                grammar was prevalent in Kashmir and Bengal. A commentary at irregular intervals running.                           
+                            The sutras have been
+                                attempted on a pale surface. Ms is incomplete. A commentary at
+                                irregular intervals is running and it is found in the margin or in
+                                the space below the attached text. Some of the folios are torn at
+                                the base. Good condition. Size 9 1/2 X 6 1/2"</p>
+                            <p>the first folio is paginated as 25</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate>not found</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition>[how it was acquired] in 1957</acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2022-09-01" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone n="1r" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="1" type="prakaraṇa">
+
+               
+            </div>
+        </body>
+    </text>
+</TEI>

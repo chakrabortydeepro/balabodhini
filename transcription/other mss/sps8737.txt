@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Srinagar SPS Library 8737</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>Srinagar</settlement>
+                            <region>Kashmir</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>Sri Pratap Singh Library</institution>
+                        <repository>Sri Pratap Singh Library</repository>
+                        <collection/>
+                        <idno>8737</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">SPS1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <!--<title xml:lang="sa" type="commentary">[title of commentary]</title>-->
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit>vadhāvaty upagame ca paścāt prayoga eva | nakṣatradarśanaṃ <lb
+                                    n="2"/>tāvat pa(?)ṭhati | etat tāvad alaṃ bhavantam aparaṃ
+                                pṛcchāmi <lb n="3"/>
+                                <gap n="3" unit="char"/>he hūtkārair viṣavahnivegagurubhir dardahya
+                                    <lb n="4"/>
+                                <gap n="3/4" unit="char"/> mī yattadoḥ siddhayos tūpayoge kāmaca<lb
+                                    n="4"/>raḥ <gap n="3/4" unit="char"/>dāti tāvad
+                                    <unclear>bhaṅge</unclear> dadāti yāvat bhaṅge <lb n="5"/>
+                                    tāva<gap n="3" unit="char"/>detadbhyaḥ parimāṇe vantup
+                                    dṛgdṛśa<lb n="6"/>dṛkṣava<gap n="3" unit="char"/>dasyātvam
+                                namassvastisvāhāsvadhādyās sa<gap n="3" unit="char"/>pi dṛśyante |
+                                namāṃsi ta āyudhā<lb n="7"/>ya iya<gap n="3" unit="char"/>t sarīyā
+                                svastaye vāyum upa<unclear>va</unclear>va[?]<lb n="8"/>hai svāhā<gap
+                                    n="3" unit="char"/>bhāvasau imaṃ yyajñaṃ sudhayā ya<lb n="9"
+                                />dadante | nanu trailokya[?]dā<lb n="10"/>ṇanipuṇe parameśvare |
+                                siddhe pi tatpraṇītatvaṃ <lb n="11"/> vedānāṃ nāvakalpate
+                                prativacane kāma[??]a</incipit>
+                            <!--<rubric source="folio 35r"></rubric>-->
+                            <explicit><lb n="15"/><gap reason="damage"/>ti puṃsi saṃjñāyāṃ ghaḥ ||
+                                sami duvaḥ || saṃśabde <lb n="16"/><gap reason="damage"/>patāpe ity
+                                asya ghañ bhavati saṃdūyate sminni<lb n="17"/><gap reason="damage"
+                                />dāvaḥ <unclear unit="char" n="2"/>ptaḥ || ||</explicit>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="98" unit="folios"/><!-- including one blank page -->
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>good</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>Size 19 x 16.3 cms"</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate>not found</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-01-16" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone n="1r" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="1" type="prakaraṇa"> </div>
+        </body>
+    </text>
+</TEI>
