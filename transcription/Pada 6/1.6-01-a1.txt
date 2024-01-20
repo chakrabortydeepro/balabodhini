@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Provisional Edition</title>
+                <title type="alt">Jagaddhara's Bālabodhinī</title>
+                <editor>Deepro Chakraborty</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Deepro Chakraborty</authority>
+                <date calendar="Gregorian">2021</date>
+                <publisher>Deepro Chakraborty</publisher>
+                <pubPlace>Edmonton</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <idno type="siglum">L<g rend="superscript">Ed</g></idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>This is a provisionary critical edition of the text, currently
+                            still under active revision, based on xx manuscript witnesses and four
+                            printed sources.</summary>
+
+                        <msItem n="1" defective="false">
+
+                            <author xml:lang="sa" role="author">Śarvavarman</author>
+                            <author xml:lang="sa" role="commentator">Jagaddhara</author>
+
+                            <title xml:lang="sa">Kātantra</title>
+                            <title xml:lang="sa" type="commentary">Bālabodhinī</title>
+
+                            <textLang mainLang="sa-Latn">Sanskrit in IAST
+                                transliteration.</textLang>
+
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="xml">
+                            <supportDesc material="digital">
+                                <extent>
+                                    <measure quantity="18" unit="sūtras">With commentary.</measure>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" when="2024">2024 AD</origDate>
+                            <origPlace>Edmonton</origPlace>
+                        </origin>
+                    </history>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <change when="2024-01-09">
+                <persName>Deepro Chakraborty</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text xml:lang="sa-Latn">
+        <body>
+
+            <div n="1" type="prakaraṇa">
+
+                <head>[1. Sandhiprakaraṇa]</head>
+
+                <div n="1.6" type="pāda">
+                    <head>[1.6 nipātapāda]</head>
+
+                    <l style="sūtra" xml:id="KS-1.6.1">ca vā hā haiva no haṃ ho tatā ho ho aho atho
+                        nipāto 'vyayam || </l>
+
+                    <p xml:id="BB-1.6.1-1" style="stream1">nipāto 'vyayam iti pratyekaṃ sambadhyate |
+                        ca vā hā aha eva no haṃ ho aho atho | eṣām ekādaśānāṃ śabdānām ekaiko
+                        nipātasaṃjño bhavati | avyayasaṃjñaś ca prayojanam odantā | a i u ā nipātāḥ
+                        | avyayāc cetyādi | nipatanti paraniṣṭheṣv artheṣv iti nipātāḥ | nāsti vyayo
+                        'syeti | avyayam iti | saṃjñayor arthānusandhānād anye 'pi | iva | vinā nānā
+                        pṛthak | hi ruk | tājak | dhik jhak | ṛte | he | hai re | are | hare | aye
+                        |haye | ayi aṅga | kaccit | ahnāya | kam | śam | tūṣṇīm | joṣam | evaṃ | āṃ
+                        | a i u āāḥ | atha | uta | kuvit iti | it | saha | samam | sākam | sārdham |
+                        satrā | sajūḥ svasti | alam | namaḥ | svāhā | svadhā vaṣaṭ | voṣaṭ | śrauṣaṭ
+                        | divā | doṣā | sāyaṃ | naktaṃ | addhā | nūnaṃ | ciraṃ | cirāya | laghu |
+                        kṣipraṃ | drutaṃ | śīghraṃ | bāḍhaṃ | dhruvaṃ | ativelam | bhṛśam |
+                        atimātram | nitāntam | satatam | ajasram | anāratam | aniśam | nityaṃ |
+                        tūrṇam | āśu | īṣat | nanu | tu nu kuku hi | vai vāva khalu kila | vata |
+                        hanta | prāyaḥ | māṅ | māsma | nañ | tañ suṣṭhu | duṣṭhu | yāvatā | yāvat |
+                        tāvatā | tāvat | cit svit | yadi | cet | net | nahi | nakim | mākim samprati
+                        | māsma | kimu | kintu | yaduta | ahaha | ityādayaḥ </p>
+
+
+
+                </div>
+                <!-- end of pāda 6 -->
+            </div>
+            <!-- end of Sandhiprakaraṇa -->
+        </body>
+    </text>
+</TEI>

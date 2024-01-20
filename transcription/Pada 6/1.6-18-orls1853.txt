@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Srinagar ORL 1853</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>Srinagar</settlement>
+                            <region>Kashmir</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>Oriental Research Library</institution>
+                        <repository>Manuscripts Department</repository>
+                        <collection>Sanskrit Manuscripts</collection>
+                        <idno>1853</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">S<g rend="subscript">8</g></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <!--<title xml:lang="sa" type="commentary">[title of commentary]</title>-->
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit source="folio 1v">oṃ svastiśrīgaṇeśāya namaḥ || namo gurave ||
+                                oṃ namaś śivāyaniśśeṣakleśapraśamaśāline
+                                triguṇagranthidurbhedabhavabandhavibhedine || || diśi diśy
+                                amṛtadravaṃ sravantyaḥ prathayantaḥ kṛtināṃ dṛśaḥ prasādam | viṣadaḥ
+                                prasaranti yasya gāvaḥ sa mahātmā jayati dvijādhirājaḥ ||</incipit>
+                            <rubric/>
+                            <explicit source="464">samāptā ceyaṃ bālabodhinīkātantravṛttiḥ
+                                ||<lb/>ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajāḥ <lb/>rjanayitrīṃ
+                                svarūpām ajo hy eko juṣamāṇo nu<lb/>śete jahāty enāṃ bhuktabhogām
+                                ajo nyaḥ ||</explicit>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="464" unit="folios"/>
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height>23.8</height>
+                                        <width>16.8</width>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>good</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <handNote scope="major" script="śāradā" medium="black ink">
+                                <p>either by the scribe or a second hand</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>contains marginal glosses</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate>not found</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2024-01-09" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone n="1r" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="1" type="prakaraṇa">
+
+
+                <div n="6" type="pāda">
+
+                    <milestone unit="folio" n="25r10" facs="pdf p.26 right"/>
+
+
+                    <l style="sūtra" xml:id="KS-1.6.1">ca va hā haiva no haṃ ho tatā ho ho aho atho
+                        nipāto vya<lb n="11"/>yam || </l>
+
+                    <p xml:id="BB-1.6.1-1" style="stream1">nipāto vyayam iti pratyekaṃ sambadhyate
+                            <space type="pause"/> ca vā <lb n="12"/>hā aha eva no haṃ ho aho atho
+                            <space type="pause"/> eṣā<lb n="13"/>m ekādaśānāṃ śabdānām ekaiko
+                        nipātasaṃjño bha<lb n="14"/>vati <space type="pause"/> avyayasaṃjñaś ca
+                        prayojanam odantā <space type="pause"/> a i <lb n="15"/>u ā nipātāḥ <space
+                            type="pause"/> avyayāc cetyādi <space type="pause"/> nipatanti pa<lb
+                            n="16"/>raniṣṭheṣv artheṣv iti nipātāḥ <space type="pause"/> nāsti vyayo
+                        syeti <space type="pause"/> a<lb n="17"/>vyayam iti <space type="pause"/>
+                        saṃjñayor arthānusandhānād anye pi <space type="pause"/> iva <lb n="18"
+                        />vinā nānā pṛthak <space type="pause"/> hi ruk <space type="pause"/> tājak
+                            <space type="pause"/> dhik <lb n="18"/>jhak <space type="pause"/> ṛte
+                            <space type="pause"/> he <space type="pause"/> hai re <space
+                            type="pause"/> are <space type="pause"/> hare <space type="pause"/> aye
+                            <space type="pause"/>haye <space type="pause"/> ayi <lb n="19"/>aṅga
+                            <space type="pause"/> kaccit <space type="pause"/> ahnāya <space
+                            type="pause"/> kam <space type="pause"/> śam <space type="pause"/>
+                        tūṣṇīm | <pb facs="pdf p.27" n="25v"/><lb n="1"/>joṣam <space type="pause"/>
+                        evaṃ <space type="pause"/> āṃ <space type="pause"/> a i u āāḥ <space
+                            type="pause"/> atha <space type="pause"/> uta <space type="pause"/>
+                        kuvit i<lb n="2"/>ti <space type="pause"/> it <space type="pause"/> saha
+                            <space type="pause"/> samam <space type="pause"/> sākam <space
+                            type="pause"/> sārdham <space type="pause"/> satrā <space type="pause"/>
+                        sajūḥ <lb n="3"/>svasti <space type="pause"/> alam <space type="pause"/>
+                        namaḥ <space type="pause"/> svāhā <space type="pause"/> svadhā vaṣaṭ <space
+                            type="pause"/> voṣaṭ <space type="pause"/> śrau<lb n="4"/>ṣaṭ <space
+                            type="pause"/> divā <space type="pause"/> doṣā <space type="pause"/>
+                        sāyaṃ <space type="pause"/> naktaṃ <space type="pause"/> addhā <space
+                            type="pause"/> nūnaṃ <space type="pause"/> ciraṃ <space type="pause"/>
+                            ci<lb n="5"/>rāya <space type="pause"/> laghu <space type="pause"/>
+                        kṣipraṃ <space type="pause"/> drutaṃ <space type="pause"/> śīghraṃ <space
+                            type="pause"/> bāḍhaṃ <space type="pause"/> dhruvaṃ <space type="pause"
+                        /> ativela<lb n="6"/>m <space type="pause"/> bhṛśam <space type="pause"/>
+                        atimātram <space type="pause"/> nitāntam <space type="pause"/> satatam
+                            <space type="pause"/> ajasram <space type="pause"/> anāratam <space
+                            type="pause"/> aniśam <space type="pause"/> nityaṃ <space type="pause"/>
+                            tūrṇa<lb n="7"/>m <space type="pause"/> āśu <space type="pause"/> īṣat
+                            <space type="pause"/> nanu <space type="pause"/> tu nu kuku hi <space
+                            type="pause"/> vai vāva khalu <lb n="8"/>kila <space type="pause"/> vata
+                            <space type="pause"/> hanta <space type="pause"/> prāyaḥ <space
+                            type="pause"/> māṅ <space type="pause"/> māsma <space type="pause"/> nañ
+                            <space type="pause"/> tañ <lb n="9"/>suṣṭhu <space type="pause"/> duṣṭhu
+                            <space type="pause"/> yāvatā <space type="pause"/> yāvat <space
+                            type="pause"/> tāvatā <space type="pause"/> tāvat <space type="pause"/>
+                        cit <lb n="10"/>svit <space type="pause"/> yadi <space type="pause"/> cet
+                            <space type="pause"/> net <space type="pause"/> nahi <space type="pause"
+                        /> nakim <space type="pause"/> mākim <lb n="11"/> samprati <space
+                            type="pause"/> māsma <space type="pause"/> kimu <space type="pause"/>
+                        kintu <space type="pause"/> yaduta <space type="pause"/> ahaha <space
+                            type="pause"/> ityā<lb n="12"/>dayaḥ </p>
+
+                    <p xml:id="BB-1.6.1-2" style="stream1">paratantrārthābhidhāyitvān nipātāḥ santo
+                            <lb n="13"/>vyayasaṃjñāḥ <space type="pause"/> iha tu cādiyoge ca <space
+                            type="pause"/> odantā <space type="pause"/> a i u <lb n="14"/>ā nipātā
+                        iti <space type="pause"/> prayojanadvayāpekṣayā <space type="pause"/> ekā<lb
+                            n="15"/>daśaiva lakṣitāḥ <space type="pause"/>
+                        paraniṣṭhārthavācitvābhāvāc ca <lb n="16"/>sattvavācinām avyayatvaṃ nāsti
+                            <space type="pause"/> asthāne 'yaṃ caḫ pa<lb n="17"/>ṭhitaḥ <space
+                            type="pause"/> hir yasmād arthe <space type="pause"/> iti <space
+                            type="pause"/> yadi syād a'vyayāc ce<lb n="18"/>ti <space type="pause"/>
+                        silopo bhavet <space type="pause"/> eṣāṃ kecit sambadhyamānā<lb n="19"/>t
+                        paścād eva prayujyamānāḥ svārthābhidhāne kṣamante || <pb facs="pdf p.27"
+                            n="26r"/><lb n="1"/>na khalu ca dhavaś ca khadira iti prayukte <space
+                            type="pause"/> dhavakhadira<lb n="2"/>yos samuccayo gamyate | na ca vā
+                        vrīhibhir vā yavair iti <lb n="3"/>vikalpaḥ <space type="pause"/> vā
+                        tṛtīyāsaptamyor ityādau <space type="pause"/>
+                    </p>
+
+                    <l style="sūtra" xml:id="KS-1.6.2">antas svaḥ prātaḥ punar adho 'py ahaḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.3">
+                        praparāniniruddussaṃvyavānuparyabhyadhipratisvāṅatyapyapopasargāḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.4">anvādyāḥ karmapravacanīyāḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.5">parakārye vikāryādiḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.6">pūrve kārye tya iṣyate || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.7">kvacit pūrvaparau sarvau || </l>
+
+                    <l style="sūtra" xml:id="KS-1.6.8">saṃsāryaṃ yogasādhanam || </l>
+
+                </div>
+                <!-- end of chapter 6 of Book 1 -->
+            </div>
+        </body>
+    </text>
+</TEI>
