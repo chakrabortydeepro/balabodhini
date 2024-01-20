@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS National Museum Delhi 57.106/1224</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>New Delhi</settlement>
+                            <region>Delhi</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>National Museum</institution>
+                        <repository>Manuscripts Department</repository>
+                        <collection>1200 Sharada Manuscripts</collection>
+                        <idno>57.106/1224</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">M<g rend="subscript">3</g></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <title xml:lang="sa" type="commentary">Bālabodhinīnyāsa</title>
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit/>
+                            <rubric/>
+                            <explicit/>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="4" unit="folios"/>
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>last folio is faded</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>incomplete</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate>not found</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-03-14" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone n="1r" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="1" type="prakaraṇa">
+
+                <div n="1.1" type="pāda">
+
+                    <milestone unit="folio" n="1v1"/>
+
+                    <p xml:id="incipit"><pb n="1v"/><lb n="1"/>oṃ namo bhagavate vāsudevāya || namaḥ
+                        śivāya ||</p>
+
+                    <l xml:id="BBP-1.1.1.1.1"> yo nirmāti bibharti saṃharati ca krīḍānukampādibhir
+                        <caesura/>
+                         nirdeha<lb n="2"/>s trijagatpramāṇapariṣatkhyāto yadicchāṃ vinā
+                        <caesura/>
+                         dhātuṃ śaknuvate kadā cana phalaṃ karmāṇi no kutra cid
+                        <caesura/>
+                         vikhyā<lb n="3"/>taḥ
+                        <note type="gloss" place="right margin">vyākhyātair iti viśeṣeṇa
+                            khyātaiḥ</note>
+                         parameśvaraḥ sa tanutād vāgvaibhavaṃ<del rend="|| above">ma</del> vo
+                        vibhuḥ 1 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.2">vidyātīrthavihāraśālini paraṃ śrīśāradāsaṃ<lb n="4"
+                        />śraye
+                        <caesura/>
+                         kauvīryā harito lalāṭatilake kāśmīradeśe bhaye
+                        <caesura/>
+                         yaḥ śrīpadmapuraṃ purandarapuraproditprabhaṃ <lb n="5"/>bhāsate
+                        <caesura/>
+                         tatrācāryavaro babhūva bhagavān somaḥ sa somaprabhaḥ 2 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.3">yas siddhāmṛtaśambhudarśitamahāvidyaḥ <lb n="6"/>satāṃ
+                        mastakaḥ
+                        <caesura/>
+                         śāpānugrahatas tatāna paramaḥ somas tadīye 'nvaye
+                        <caesura/>
+                         vidyāvān avatārakaḥ samucitaḥ <lb n="7"
+                                />sūryoday<subst><del>o</del><add>e</add></subst> rbodaye
+                        <caesura/>
+                         dhenūnāṃ pradadau sahasram amalaṃ cakre yaśaś candrikām 3 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.4">tatputraḥ sa manoharo gu<lb n="8"/>ruvaro yajñair
+                        mahādakṣiṇair
+                        <caesura/>
+                         indratvagrahaśaṅkayā surapateḥ bh<subst><del>i</del><add>ī</add></subst>tiṃ
+                        tatāna sphuṭam
+                        <caesura/>
+                         tatputraḥ sa ca mo<lb n="9"/>cakaḥ samabhavad vedāntasiddhāntavid
+                        <caesura/>
+                         dhyāyaṃ dhyāyam iyāya devasadanaṃ devaṃ mṛḍānīpatim 4 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.5"><lb n="10"/>sa śrīmān udapādi yodhakagurur yaddīkṣayā
+                        bhūbhujaḥ
+                        <caesura/>
+                         prājyaṃ rājyam apāstavairinikarāḥ samya<lb n="11"/>k ciraṃ cakrire
+                        <caesura/>
+                         bhrātā yasya babhūva sarvaviditaḥ śrīkaṇṭharājānakaḥ
+                        <caesura/>
+                         śāpānugrahakṛd vicāracaturo <lb n="12"/>yaḥ siddhatāṃ śiśriye 5 || </l>
+
+                    <l xml:id="BBP-1.1.1.1.6">yodhācāryajano rjuno jani mahālakṣmīnivāso yato
+                        <caesura/>
+                         jātā haṃ śitika<lb n="13"/>ṇṭhako nv ayam ahaṃ prāpa guroḥ śrīvarāt
+                        <caesura/>
+                         nānāśāstravinirṇayāya bahuśas tīrthāntarāṇy abhramaṃ <add place="below"
+                            >|</add>
+                        <caesura/>
+                         pū<lb n="14"/>jāṃ gūrjaranāthamahmadasuratrāṇād a<del>pa</del>vāpaṃ parām 6
+                        ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.7">śrīgorakṣapure dhigamya vibudhān tarkaṃ <lb n="15"
+                        />paraṃ karkaśaṃ
+                        <caesura/>
+                         śrīnāthād adhikāśi śeṣaracitaṃ mīmāṃsayā māṃsalam
+                        <caesura/>
+                         bhāṣyaṃ śrīvaradeśvarāc ca <lb n="16"/>jayinā kaśmīrabhūmībhujā
+                        <caesura/>
+                         śrīkaṇṭhena mahodareṇa ca yataḥ saṃprārthito smi svayam 7 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.8"><lb n="17"/>yo bālabodhinyabhidhāṃ budhendro
+                        <caesura/>
+                         jagaddharo yaṃ vitatāna vṛttim
+                        <caesura/>
+                         tannaptṛkanyātanayātanūjo
+                        <caesura/>
+                         vyākhyāmi <lb n="18"/>tāṃ śrīśitikaṇṭhako lpam 8 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.9">tatsaṃprārthanayānayā nayavidāṃ durge 'pi mārge mayā
+                        <caesura/>
+                         cāpalyaṃ yad a<lb n="19"/>kāri tat kṛtadhiyo yūyaṃ kṣamadhvaṃ budhāḥ
+                        <caesura/>
+                         hāraṃ hāram ahārya mohamahitaṃ śabdārthayoḥ sa<del><unclear reason="erased"
+                                >budhāḥ</unclear></del>
+                        <caesura/>
+                         kāraṃ kāra<lb n="20"/>m idaṃ bhavadbhir abhito rakṣyaṃ gṛhītakṣaṇaiḥ 9
+                        ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.10">grāme grāme grahārān maṭha<del>ra</del>dharaṇiyutān
+                        karmaṭhebhyaḥ
+                        <note type="gloss" place="right margin">karmaśīlas tu karmaṭha ity
+                            a<lb/>maraḥ kaṭhena proktam abhidhīyate iti kaṭhaḥ kaṭhacako<lb/>rluk
+                            ity anena tasya luk</note>
+                        <lb n="21"/>kaṭhebhyaḥ
+                        <caesura/>
+                         satebhyo yo vyatārīd r<subst><del>ī</del><add>i</add></subst>pugurunagarīr
+                        yo garīyān abhaitsīt
+                        <caesura/>
+                         akṣāṇyakṣīṇaśaktir vivahṛti<lb n="22"/>caturo yo vyajaiṣīc ca tasmin
+                        <caesura/>
+                         bhūjānau hassanākhye bhu<subst><del>vasa</del><add place="above">vam
+                                a</add></subst>vati mayā tanyate grantha eṣaḥ 10 ||</l>
+
+                    <l xml:id="BBP-1.1.1.1.11">sarvakṣmā<lb n="23"
+                        />patimaulihāritanuvaprājyasvarājyaḥ paraṃ
+                        <caesura/>
+                         tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
+                        <caesura/>
+                        <lb n="24"/>kaśmīrādhipatiḥ kṛpājalanidhir vikhyātakīrtiś citaṃ
+                        <caesura/>
+                         jīyād dhaidaraśāhisūnur anaghaḥ kandarpa<lb n="25"/>darpāpahaḥ 11 ||</l>
+
+
+                    <p xml:id="BBP-1.1.1.1.12"> sadācārānumitaśruti
+                        <note type="gloss" place="top-margin"><metamark>1</metamark>yasmin deśe ya
+                                ācāraḥ<metamark>1</metamark>
+                            <metamark>3</metamark>śrutismṛtyavirodhena<metamark>3</metamark>
+                            <metamark>2</metamark>pāramparyakramāgataḥ<metamark>2</metamark>
+                            <metamark>4</metamark>sadācāraḥ sa ucyate<metamark>4</metamark></note>
+                         pratipāditakartavyatākaṃ prāripsitaprabandhapratibandhaka<lb n="26"
+                        />vighnaughavighātakārakaṃ namaskāraṃ parameśva<add place="above"
+                        >ra</add>gocaraṃ praṇināya granthakāraḥ || namaḥ śivāya ||</p>
+
+                    <!-- Bālabodhinī begins -->
+
+
+                    <l xml:id="BB-1.1.1.1"><lb n="27"/>oṁ namaḥ śivāya
+                        niśśeṣa<del>e</del>kleśapraśamaśāline <space type="pause"/>
+                        <caesura/>
+                         triguṇagranthidurbhedabhavabandhavibhedine ||</l>
+
+
+                    <p xml:id="BBP-1.1.1.1-1">
+                        <lb n="28"/>śivāya parameśvarāya namo stv iti samanvayaḥ <space type="pause"
+                        /> atra yady api yatrānyat kriyāpadaṃ nāsti tatrāsti bha<lb n="29"
+                        />vatīparaḥ prayoktavyau iti vacanād
+                            astīt<subst><del>i</del><add>y</add></subst> asyādhyāhāraprayogaḥ
+                        prāpnoti tathāpi bahutaraduḥkhāna<pb n="1v"/><lb n="1"
+                        /><!--nubandhitve kṛtijanyatve ca satīṣṭasādhanatāyāṃ vidhāv
+                        anumatyādāv arthe pañcamī | parasmaipadaprathamapuruṣaikavacanānto 'stir
+                        itarapadārthasaṃsarge
+                        parapadārthaniṣṭhātyantābhāvaprayogitāvacchedakadharmaśūnyatālakṣaṇayā
+                        yogyatayā sambandhanīyaḥ | tathā ca prayogaḥ |
+                        <lg type="quote">
+                            <l>trilokyām iha kas trātas tritāpyā nopatāpitaḥ |</l>
+                            <l>tasmai namo 'stu te yas tvaṃ tannirvāṇāmṛtahrada </l>
+                        </lg>
+                         iti ||--></p>
+
+                    <p xml:id="BBP-1.1.1.1-2">
+                        <!--nanu namaś śabdena svāpakarṣabodhanānukūlo
+                        vyāpāraviśeṣo dyotyate | svasyāpakarṣaś cānyotkarṣe sati bhavati | sa eva
+                        katham ity ata āha niśśeṣakleṣapraśamaśālina iti | niśśeṣāḥ sūkṣmā asūkṣmāś
+                        ca ye kleśāḥ pañcāvidyāsmitārāgadveṣābhiniveśās teṣāṃ yaḥ praśamas
+                        traikālikābhāvas tena śālī ślāghyaśīlas tasmai | parameśvare kleśānām
+                        atyantābhāvaḥ samasti | na svātmani | iti parameśvarasyotkarṣavattvān
+                        namaskaraṇīyatvam ity arthaḥ | kleśaśabdasyopalakṣaṇatayā
+                        karmavipākāśayagrahaṇe kleśakarmavipākāśayair aparāmṛṣṭāyeśvarāya namo 'stv
+                        ity arthaḥ sampadyate | yad vā, kleśaśabdena traya eva rāgadveṣamohā ucyante
+                        | asmitābhiniveśayor atraivāntarbhāvavacanāt | śāḍṛ ślāghāyām ity asya
+                        bhauvādikasyātmanepadino rūpam | nāmnyajātau ṇinir iti ṇiniḥ ||--></p>
+
+                    <p xml:id="BBP-1.1.1.1-3">
+                        <!--nanu parameśvarasya kleśātyantābhāvo 'stu | kiṃ
+                        tāvatā namasyatām upayāti | yāvatā yasya yāvat susamīhitadāyitvaṃ nāvasīyate
+                        tāvat taṃ ko 'pi na namasyatīty ata āha
+                        triguṇagrandhidurbhedabhavabandhavibhedine iti | trayas tritvasaṅkhyākāḥ |
+                        ye guṇāḥ prītyaprītiviṣādātmakāḥ sattvarajastamaḥpadārthāḥ ta eva
+                        paramatattvasaṅkocadāyitvād granthir iva granthis triguṇā eva
+                        triguṇagranthis triguṇīkṛtagranthir iti yāvat | madhyapadalopī samāsaḥ |
+                        tena durbhedo durvāro yo bhavo dehendriyaviṣayasambandharūpaḥ saṃsāraḥ sa
+                        eva bandho bandhanaṃ taṃ vibhettuṃ śīlam asyeti tathā tasmai | yathā
+                        viracitatriguṇagranthir bandho bhettum aśakyas tathāyam api saṃsāras tasyāpi
+                        bhedakāyety arthaḥ | paramakāruṇikāt parameśvarād anyena kenacit kadācit
+                        kathañcit paramapuruṣārthatām upagato 'tigahanasaṃsārabhedaḥ kartuṃ na
+                        śakyate iti tadvidhāyinaḥ parameśvarasyaivāvaśyaṃ praṇatir vidheyā | yāvad
+                        asau kadācit kathañcin mamāpi saṃsāraṃ bhetsyatīti bhāvaḥ |
+                        namassvastītyādinā caturthī | durbheda ity atreṣaddussuṣvityādinā karmaṇi
+                        khal | bandha iti bhāve ghañ ||--></p>
+
+                    <p xml:id="BBP-1.1.1.1-4">
+                        <!--yad vā, śivāya nama ity atra
+                        muktiphalakaśabdavyutpattirūpaśivadāyitvam asya granthasyācireṇa kālena
+                        samastīti prakāśayitum ādyaśloke śivapadaṃ prayuyuje bhaṭṭajagaddharaḥ
+                        ||--></p>
+
+                    <p xml:id="BBP-1.1.1.1-5">
+                        <!--yad vā, śivāya paramaśivāya namo 'stu | nanu
+                        kimarthaṃ paramaśiva eva namasyaḥ | yāvatā brahmādayo 'py asmaduttīrṇās
+                        santi te 'pi namaskārakaraṇayogyā iti | nety āha | niśśeṣāḥ samastā ye
+                        kleśaṃ prānti pūrayantīti kleśaprāḥ | māyādayaḥ | teṣāṃ śamaḥ |
+                        atyantocchedaḥ | tena śālī ślāghyaśīlaḥ | māyādayo 'pi brahmādīnāṃ vidyante
+                        | na tu paramaśivasyeti | sa eva bhagavān
+                        anavacchinnaprakāśānandasvātantryaparamārthaḥ paramaśiva eva namasyaḥ |
+                        yasyaiśvaryaleśakaṇikābhir īśvarībhūtatvaṃ brahmādīnāṃ samastīty arthaḥ |
+                        prā pūraṇe ity asmād āto 'nupasargād ḍa iti ḍapratyayaḥ |--></p>
+
+                    <p xml:id="BBP-1.1.1.1-6">
+                        <!--yad vā, śāliñśabdo vantvartham āha | tatrabhavadbhiṣ
+                        ṭīkākārair uktatvāt |--></p>
+
+                    <p xml:id="BBP-1.1.1.1-7">
+                        <!--nanu parama--><pb n="2r"/><lb n="1"/>śvarasya māyādyabhāve pi kuto hetor
+                            namaskāryatvam<space type="pause"/> ity ata āha triguṇetyādi <space
+                            type="pause"/> triguṇānāṃ granthas triguṇagranthaḥ <lb n="2"/>sa vidyate
+                        yeṣāṃ te triguṇagranthinaḥ paramatattvānabhijñāḥ <space type="pause"/> teṣāṃ
+                        yo durbhedo bhavo niścitaparamaśivarūpa<lb n="3"/>viśeṣaḥ kṣettrajñas tasya
+                        bandha svarūpāparijñānaṃ tasya vibhedī vināśikāraḥ <space type="pause"/>
+                        yaiḥ kṣettrajñasya paramaśivatvaṃ <lb n="4"/>na paryanvajñāyi teṣāṃ
+                        kṣettrajñe paramaśivatvaṃ bodhayati paramaśiva iti <space type="pause"/> sa
+                        eva namasya ity arthaḥ | bhedaśabdo <lb n="5"/>viśeṣakaḥ <space type="pause"/>
+                        <lg type="quote">
+                            <l>bhedo dvaidhe viśeṣe syād upajāpe vidaraṇe </l>
+                        </lg>
+                         iti | bhavo vidyate yasya sa bhavaḥ | arśāditvād acpra<lb n="6"/>tyayaḥ
+                        |</p>
+
+                    <p xml:id="BBP-1.1.1.1-8"> yad vā <space type="pause"/> trayo guṇās triguṇās te
+                            <del>va</del>eva grantho dhanaṃ yasya sa triguṇagranthī <space
+                            type="pause"/> tathā <space type="pause"/> bhava devādayaḥ
+                            sthāvarākrā<lb n="7"/>ntā<add place="below">ḥ</add>
+                        <space type="pause"/> māyātattvāntarālavartinaś caturdaśaprakārā<add
+                            place="below">ḥ</add>
+                        <space type="pause"/> teṣāṃ bandhaḥ śubhāśubhavāsanātmakaṃ kārmaṃ malaṃ
+                        tasya vibhedī <space type="pause"/>
+                        <lb n="8"
+                        />apūrṇamanyatābhinnavedyaprathāśubhāśubhavāsanākāraṇa<space/>vamāyīyakārmamalasambhave
+                        pi devādī<lb n="9"/>nāṃ saṃsṛtikāraṇaṃ kārmaṃ malam | tad uktam |
+                        <lg type="quote">
+                            <l>devādīnāṃ ca sarveṣāṃ bhavināṃ trividhaṃ malam <space type="pause"
+                                /></l>
+                            <l>tathāpi kā<lb n="10"/>rmam evaikaṃ mukhyaṃ saṃsārakāraṇam |</l>
+                        </lg>
+                         iti |
+                        <lg type="quote">
+                            <l>śāstradraviṇayor granthaḥ | </l>
+                        </lg>
+                    </p>
+
+                    <p xml:id="BBP-1.1.1.1-9"> yad vā<space type="pause"/> niśśeṣā<add place="below"
+                            >ḥ</add> samastā ye kleśaprā <lb n="11"/>jagataḥ kaṣṭapradā andhakādayo
+                        surāḥ tān śyati <space type="pause"/> śo tanūkaraṇe <space type="pause"/>
+                        niśśeṣapraśaś cāsau m_śālī | maśabdaś candra<lb n="12"/>vācakaḥ |
+                        <lg type="quote">
+                            <l>maś śivaḥ candramā vedhā mā lakṣmī ca nigadyate <space type="pause"
+                                /></l>
+                        </lg>
+                         iti vacanāt <space type="pause"/> mena candreṇa śālate maśālī <lb n="13"
+                        />candramaulaya ity arthaḥ |</p>
+
+                    <p xml:id="BBP-1.1.1.1-10"> yad vā <space type="pause"/> śivāya parameśvarāya
+                        namaḥ karomīti sambandhaḥ | namu prahvatve bhāve ity asmā<lb n="14"/>d
+                        asunpratyayānto namaḥśabdo nāvyayaḥ <space type="pause"/> tasya karmatve
+                        karomīti padaṃ prayoktavyaṃ | kṛbhvastayaḥ kriyāsāmānyavā<lb n="15"/>cina
+                        iti vacanāt karoteḥ prathamaparityāge kāraṇābhāvāt
+                            prāthamyenāvilambopa<del>pa</del>sthikatvā sarva<lb n="16"
+                        />dhātvarthānvayāyitvāc ca | śivāya kiṃ viśiṣṭāya niḥśeṣakleśapraśamaśāline
+                            <space type="pause"/> niḥśeṣāṃ viśve<lb n="17"/>ṣāṃ saṃsārakhinnānāṃ yaḥ
+                        kleśaḥ duḥkha<del>ṃ</del>m ekaviṃśatiprakāraṃ tasya yaḥ praśamaḥ prakarṣeṇa
+                        śāntiḥ tena <lb n="18"/>śālī utkarṣavān tasmai
+                        samānādhikaraṇaduḥkhaprāgabhābhāvāsahavṛttiduḥkhadhvaṃsāyety arthaḥ |
+                        <lg type="quote">
+                            <l><lb n="19"/>kleśo duḥkhe 'pi rāgādau vyavasāye pi ca kvacit | </l>
+                        </lg>
+                         atra pramāṇam ātmakālābhyāṃ vṛttidhvarmatvāt pradīpavad i<lb n="20"/>tyādi
+                        | anyac ca <space type="pause"/> kiṃ viśiṣṭāya
+                        triguṇagranthidurbhedabhavabandhavibhedine | triyaḥ tritvasaṃkhyākāḥ guṇā
+                            ni<lb n="21"/>tyajñānecchāprayatnā yasya sa triguṇaḥ <space type="pause"
+                        /> tathā granthivad granthināmadheyo<pc> </pc>vyādhivad durbhedo duḥkhena
+                        nivāryo yo bha<lb n="22"/>vabandhaḥ saṃsāranidānaṃ dṛḍhabhūmikaṃ savāsanaṃ
+                        mithyājñānaṃ tasya vibhedī avaśyaṃ nāśako na tūpekṣakaḥ <space type="pause"/>
+                        <lb n="23"/>bandha ity atra tu badhyate neneti karaṇe ghañ <space
+                            type="pause"/> vibhedīty āvaśyake ṇiniḥ | īśvarasya dehādyabhāvāt |
+                            sukhā<lb n="24"/>dīnām asiddheḥ sāmānyaguṇānāṃ saṃyogakādīnāṃ
+                        atrānupoyugāt traya eva nityajñānecchāprayatnāḥ <lb n="25"/>saṅgatāḥ | yat
+                        tu kaiścij jñānakriyecchāprayatnadharmāḥ santi īśvare ity uktam atra yatno
+                        vidheyaḥ |</p>
+
+                    <p xml:id="BBP-1.1.1.1-11"> nanu śivasadbhāve pra<lb n="26"/>māṇavirahāt kasya
+                        namaskaraṇīyatvam <space type="pause"/> ucyate <space type="pause"/>
+                        anumānāgamau atra pramāṇau bhavataḥ <space type="pause"/> tathā hi adṛ<lb
+                            n="27"/>ṣṭadvārakopādānagocarakṛtyājanyāni samavetāny
+                            adṛṣṭaprāgabhāvavyāpya<pc> </pc>prāgābhāvāpratiyogyupā<lb n="28"
+                        />dānagocarā parokṣajñānacikīrṣā kṛtimajjāni samavetatve sati
+                        prāgabhāvapratiyogitvāt <space type="pause"/> yad evaṃ <lb n="29"/>tad evaṃ
+                            <space type="pause"/> yathā ghaṭas tathā caitāni tasmād
+                        adṛṣṭaprāgabhāvetyādi |
+                        <lg type="quote">
+                            <l>viśvataścakṣur uta viśvatomukho viśvato<lb n="30"/>bāhur uta
+                                viśvataspāt <space type="pause"/></l>
+                            <l>saṃ bāhubhyāṃ dhamati saṃ pat<subst><del>i</del></subst>attraiḥ
+                                dyāvābhūmīr janayan deva eka </l>
+                        </lg>
+                         iti | tathā ca li<lb n="31"/>ṅgapurāṇe
+                        <lg type="quote">
+                            <l>apāṇipādodarapārśvajihvo hy atīndriyo vyāpi susūkṣma ekaḥ <space
+                                    type="pause"/></l>
+                            <l>paśyaty acakṣuḥ sa śṛṇo<lb n="32"/>ty akarṇo na cāsya buddhaṃ na ca
+                                buddhir asti |</l>
+                            <l>sa veda sarvaṃ na ca tasya vettā tam āhur agryaṃ puruṣaṃ mahāntam
+                            </l>
+                        </lg>
+                         iti | </p>
+
+                    <p xml:id="BBP-1.1.1.1-12"><lb n="33"/>atra vṛttyanuprāsādayo 'laṅkārāḥ <space
+                            type="pause"/> śivaprabhāvakhyāpanenā <space/>kartuḥ śivaṃ prati
+                        ratyākhyo bhāvo bhivyajate iti |</p>
+
+
+
+                </div>
+                <!-- end of Pāda 1 -->
+            </div>
+        </body>
+    </text>
+</TEI>

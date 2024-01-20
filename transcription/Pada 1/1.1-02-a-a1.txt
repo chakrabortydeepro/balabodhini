@@ -1,0 +1,618 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Provisional Edition Only BB</title>
+                <title type="alt">Jagaddhara's Bālabodhinī</title>
+                <editor>Deepro Chakraborty</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Deepro Chakraborty</authority>
+                <date calendar="Gregorian">2023</date>
+                <publisher>Deepro Chakraborty</publisher>
+                <pubPlace>Edmonton</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <idno type="siglum">LL<g rend="superscript">Ed</g></idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>This is a provisionary critical edition of the text, currently
+                            still under active revision, based on xx manuscript witnesses and four
+                            printed sources.</summary>
+
+                        <msItem n="1" defective="false">
+
+                            <author xml:lang="sa" role="author">Śarvavarman</author>
+                            <author xml:lang="sa" role="commentator">Jagaddhara</author>
+
+                            <title xml:lang="sa">Kātantra</title>
+                            <title xml:lang="sa" type="commentary">Bālabodhinī</title>
+
+                            <textLang mainLang="sa-Latn">Sanskrit in IAST
+                                transliteration.</textLang>
+
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="xml">
+                            <supportDesc material="digital">
+                                <extent>
+                                    <measure quantity="18" unit="sūtras">With commentary.</measure>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" when="2021">2021 AD</origDate>
+                            <origPlace>Edmonton</origPlace>
+                        </origin>
+                    </history>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <change when="2021-06-14">
+                <persName>Deepro Chakraborty</persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text xml:lang="sa-Latn">
+        <body>
+
+            <div n="1" type="prakaraṇa">
+
+                <head>[Sandhiprakaraṇa]</head>
+
+                <div n="1.1" type="pāda">
+                    <head>[Pāda 1]</head>
+
+                    <p xml:id="incipit"/>
+
+
+                    <!-- Bālabodhinī begins -->
+
+
+                    <l xml:id="BB-1.1.1.1"><label>BB 1.1.1.1</label><anchor n="BB-1.1.1.1-t"/>oṁ |
+                        namaś śivāya niśśeṣakleśapraśamaśāline |
+                        <caesura/>
+                         triguṇagranthidurbhedabhavabandhavibhedine ||</l>
+
+                    <ab corresp="#BB-1.1.1.1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.1.1-t">Obeisance to Śiva, possessor of complete
+                                cessation of afflictions and destroyer of the bondage from worldly
+                                existence, which is hard to expunge and consists of the
+                                three-threaded (<foreign>sattva</foreign>, <foreign>rajas</foreign>
+                                and <foreign>tamas</foreign>) knot. </item>
+                        </list>
+                    </ab>
+
+
+                    <l xml:id="BB-1.1.1.2"><label>BB 1.1.1.2</label><anchor n="BB-1.1.1.2-t"/>diśi
+                        diśy amṛtadravaṃ sravantyaḫ
+                        <caesura/>
+                         prathayantyaẖ kṛtināṃ dṛśaḫ prasādam |
+                        <caesura/>
+                         viśadāḫ prasaranti yasya gāvas
+                        <caesura/>
+                         sa mahātmā jayati dvijādhirājaḥ ||</l>
+
+                    <ab corresp="#BB-1.1.1.2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.1.2-t">The lord of the twice-borns, the great
+                                soul, whose splendid rays (or speech) proceed, emitting the fluid of
+                                ambrosia in every direction and spreading the clarity of the vision
+                                of the virtuous ones, excels. </item>
+                        </list>
+                    </ab>
+
+
+
+                    <l xml:id="BB-1.1.1.3"><label>BB 1.1.1.3</label><anchor n="BB-1.1.1.3-t"
+                        />svasutasya śiśor yaśodharasya
+                        <caesura/>
+                         smaraṇārthaṃ vihito mayā śramo 'yam |
+                        <caesura/>
+                         upayogam iyād yadi prasaṅgād
+                        <caesura/>
+                         aparatrāpi tato bhaved avandhyaḥ ||</l>
+
+                    <ab corresp="#BB-1.1.1.3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.1.3-t">I made this effort for my own little son
+                                Yaśodhara's memorization. if it incidentally finds use elsewhere too
+                                it would not be fruitless. </item>
+                        </list>
+                    </ab>
+
+
+
+                    <l xml:id="BB-1.1.1.4"><label>BB 1.1.1.4</label><anchor n="BB-1.1.1.4-t"/>iha
+                        yuktyanugānavadyahṛdyakramadṛbdhāẖ kṛtināṃ harantu vācaḥ |
+                        <caesura/>
+                         matijāḍyalavaṃ lavaṅgajātīphalapotāsavilāsam āsajantyaḥ ||</l>
+
+                    <ab corresp="#BB-1.1.1.4" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.1.4-t">Here, let the words— coherent,
+                                irreproachable, and connected through a pleasant succession— remove
+                                (even) a fraction of mental stagnation of those who are diligent,
+                                while holding onto the allure of cloves, nutmegs and camphor.
+                            </item>
+                        </list>
+                    </ab>
+
+
+
+                    <!-- Kātantra begins -->
+
+                    <l style="sūtra" xml:id="KS-1.1.1">
+                        <label>KS 1.1.1</label><hi>siddho varṇasamāmnāyaḥ ||1.1.1||</hi>
+                    </l>
+
+                    <ab corresp="#KS-1.1.1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.1-t">The traditional inventory of speech sounds
+                                    (<foreign>varṇa</foreign>) is well-established. </item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.1"><label>BB 1.1.1</label><anchor n="BB-1.1.1-t"/>asti
+                        siddhakramo varṇānām akārādīnāṃ samāmnāyaḥ pāṭho mātṛkārūpaḥ | asti ca
+                        pāṇininā sve tantre pratyāhārārtham aparathā sādhitakramaḥ | tatrāniyame
+                        prāpte niyamaẖ kriyate | iha tantre siddhakrama eva varṇapāṭho
+                        vakṣyamāṇasvarādisaṃjñānām āśrayatvena grāhyo, na sādhitakrama iti seyam
+                        aniyame niyamaḥ paribhāṣā | akṣarāṇāṃ varṇasaṃjñāpy ata eva
+                        varṇaśabdoccāraṇād boddhavyā | a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au svarāḥ | ka kha
+                        ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha
+                        ma ya ra la va śa ṣa sa ha aṃ aḥ ẖka ḫpa vyañjanāni | prayojanaṃ sarvatra
+                        ||</p>
+
+                    <ab corresp="#BB-1.1.1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.1-t">The traditional inventory or reading of the
+                                speech sounds starting from <foreign>a</foreign> has a
+                                well-established order in the form of the regular alphabetical order
+                                    (<foreign>Mātṛkā</foreign>). There is also a different one,
+                                whose order was constructed by Pāṇini in his own system for the sake
+                                of abbreviation (<foreign>pratyāhāra</foreign>). Since under those
+                                circumstances, such a lack of regulation has occurred, a restriction
+                                is being made. Here in the system (<foreign>Kātantra</foreign>),
+                                only the reading of the sounds in the well-established order
+                                    (<foreign>siddhakrama</foreign>) and not the one in the
+                                constructed order (<foreign>sādhitakrama</foreign>) must be
+                                considered as the base for the terms such as
+                                    <foreign>svara</foreign>, etc., which are about to be mentioned;
+                                hence this is a metarule that is a regulation for the lack of
+                                regulation. The letters (<foreign>akṣara</foreign>) have the
+                                designation <foreign>varṇa</foreign>, which is understandable by the
+                                very utterance of the word <foreign>varṇa</foreign> (in the sūtra).
+                                The vowels (<foreign>svara</foreign>) are: <foreign>a ā i ī u ū ṛ ṝ
+                                    ḷ ḹ e ai o au</foreign>. The consonants
+                                    (<foreign>vyañjana</foreign>) are: <foreign>k kh g gh ṅ c ch j
+                                    jh ñ ṭ ṭh ḍ ḍh ṇ t th d dh n p ph b bh m y r l v ś ṣ s h ṃ ḥ ẖ
+                                    ḫ</foreign>. The application (of the sūtra) is everywhere.
+                            </item>
+                        </list>
+                    </ab>
+
+                    <l style="sūtra" xml:id="KS-1.1.2">
+                        <label>KS 1.1.2</label><anchor n="KS-1.1.2-t"/><hi>tatra caturdaśādau svarāḥ
+                            ||1.1.2||</hi></l>
+
+
+                    <ab corresp="#KS-1.1.2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.2-t">In that (sound inventory), the fourteen
+                                [speech sounds] in the beginning are vowels
+                                    (<foreign>svara</foreign>).</item>
+                        </list>
+                    </ab>
+
+
+                    <p xml:id="BB-1.1.2-1"><label>BB 1.1.2</label><anchor n="BB-1.1.2-1-t"/> tatra
+                        mātṛkārūpe varṇapāṭhe, ādau ye caturdaśa varṇāḥ, te svarasaṃjñā bhavanti | a
+                        ā i ī u ū ṛ ṝ ḷ ḹ e ai o au | prayojanaṃ, <hi>ro re lopaṃ svaraś ca pūrvo
+                            dīrgha </hi><metamark function="source">[Kā.Sū. 1.5.17]</metamark>
+                        ityādi | vī rauti || </p>
+
+                    <ab corresp="#BB-1.1.2-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.2-1-t">In the reading of the speech sounds, that
+                                is in the regular alphabetical order, the fourteen sounds in the
+                                beginning are called vowels— <foreign>a ā i ī u ū ṛ ṝ ḷ ḹ e ai o
+                                    au</foreign>. The application is in rules like <foreign><hi>ro
+                                        re lopaṃ svaraś ca pūrvo dīrghaḥ</hi> (1.5.17)</foreign>,
+                                    “<foreign>r</foreign> followed by <foreign>r</foreign> undergoes
+                                deletion and the preceding vowel is lengthened”. (E.g.) <foreign>vī
+                                    rauti</foreign> (&#60; <foreign>vir + rauti</foreign>, “a bird
+                                calls”).</item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.2-2"><anchor n="BB-1.1.2-2-t"/>dātṝjjvāśayatoṣita iti
+                        vaktavye, dātḹjjvāśayatoṣita iti bālena śaktivaikalyād yad apabhāṣitam, tad
+                        anyo yadānukaroti, bālo dātḹjjvāśayatoṣita ity āheti, tadānukaraṇe nāsti
+                        doṣa iti smaraṇāt sādhu bhavati | tatsthasya ḹkārasya svarasaṃjñārthaḥ
+                        ḹkārasya pāṭhaḥ | tenātra svarāt parasya vyañjanasya vyañjane pare dvirbhāvo
+                        vaktavya iti ḹkārāt parasya jakārasya dvirbhāvaḥ | evaṃ mātḹr ity abravīc
+                        chiśur ityādau svaratve sati ḹkārasya nāmitvān <hi>nāmiparo ram</hi>
+                        <metamark function="source">[Kā.Sū. 1.5.12]</metamark> iti ḹkārāt parasya
+                        visarjanīyasya rephaḥ | </p>
+
+                    <ab corresp="#BB-1.1.2-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.2-2-t">When
+                                    <foreign>dātṝjjvāśayatoṣitaḥ</foreign>, “gratified by the
+                                donor’s sincere intention,” is to be said, a child mispronounces it
+                                as <foreign>dātḹjjvāśayatoṣitaḥ</foreign> due to his incapability.
+                                When another person imitates it, by saying, “The boy says,
+                                    <foreign>dātḹjjvāśayatoṣitaḥ</foreign>” then it is all right
+                                because traditionally there is nothing wrong with imitation. The
+                                reading of the sound <foreign>ḹ</foreign> stands for the designation
+                                of the sound <foreign>ḹ</foreign> occurring there (in the word
+                                    <foreign>dātḹjjvāśayatoṣitaḥ</foreign>) as a vowel. That is why,
+                                here, according to the rule that prescribes the doubling of a
+                                consonant preceded by a vowel and followed by a consonant, there is
+                                doubling of the sound <foreign>j</foreign> preceded by
+                                    <foreign>ḹ</foreign>. Thus, in (a sentence) like, <foreign>mātḹr
+                                    iti abravīc chiśuḥ</foreign>, “the child said,
+                                    <foreign>mātḹḥ</foreign>,” <foreign>ḥ</foreign>
+                                    (<foreign>visarjanīya</foreign>) preceded by
+                                    <foreign>ḹ</foreign> turns into <foreign>r</foreign> by the rule
+                                        <foreign><hi>nāmiparo ram</hi> (1.5.12)</foreign>,
+                                    “<foreign>ḥ</foreign> preceded by a <foreign>nāmin</foreign>
+                                turns into <foreign>r</foreign>,” because <foreign>ḹ</foreign> is a
+                                    <foreign>nāmin</foreign>, since it is a vowel. </item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.2-3"><anchor n="BB-1.1.2-3-t"/>tatraśabda uttaratra
+                        saṃjñāsamāveśārthaḥ svarasamānasaṃjñe krameṇa mā bhūtām iti |
+                        savarṇādisaṃjñānāṃ tu saṃjñino nirdekṣyanta eva ||</p>
+
+                    <ab corresp="#BB-1.1.2-3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.2-3-t">The word <foreign>tatra</foreign>, “there”
+                                (in this <foreign>sūtra</foreign>) is for the sake of a
+                                co-designation in the following one so that the designations vowel
+                                    (<foreign>svara</foreign>) and monophthong
+                                    (<foreign>samāna</foreign>) must not apply in a sequence. The
+                                designata (referents) that are designated as homogenous sound
+                                    <foreign>savarṇa</foreign> etc., however, will be directly
+                                referred to. </item>
+                        </list>
+                    </ab>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.3">
+                        <label>KS 1.1.3</label><anchor n="KS-1.1.3-t"/><hi>daśa samānāḥ
+                            ||1.1.3||</hi>
+                    </l>
+
+                    <l corresp="#KS-1.1.3"><label>anuvṛtti</label><ref target="#KS-1.1.2"
+                            >tatra</ref>
+                        <ref target="#KS-1.1.2">ādau</ref></l>
+
+                    <ab corresp="#KS-1.1.3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.3-t">[In that sound inventory,] the ten [in the
+                                beginning] are the monophthongs (<foreign>samāna</foreign>).</item>
+                        </list>
+                    </ab>
+
+
+                    <p xml:id="BB-1.1.3"><label>BB 1.1.3</label><anchor n="BB-1.1.3-t"/>tatrādāv ity
+                        eva | tatra mātṛkārūpe varṇapāṭhe, ādau ye daśa varṇās te samānasaṃjñā
+                        bhavanti | a ā i ī u ū ṛ ṝ ḷ ḹ | prayojanam, <hi>samānas savarṇe
+                            dīrghībhavati paraś ca lopam </hi><metamark function="source">[Kā.Sū.
+                            1.2.1]</metamark> ityādi | śivāptiḥ ||</p>
+
+                    <ab corresp="#BB-1.1.3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.3-t">Only (the words) <foreign>tatra</foreign>
+                                and <foreign>ādau</foreign> are (to be supplied). In the reading of
+                                the speech sounds in the regular alphabetical order
+                                    (<foreign>mātṛkā</foreign>), the ten sounds that are in the
+                                beginning are designated as monophthongs
+                                (<foreign>samāna</foreign>)— <foreign>a ā i ī u ū ṛ ṝ ḷ ḹ</foreign>.
+                                The application is in rules like <foreign>samānas savarṇe
+                                    dīrghībhavati paraś ca lopam (1.2.1)</foreign>, “A monophthong
+                                followed by a homogeneous sound becomes long and the latter gets
+                                deleted”. [E.g.] <foreign>śivāptiḥ</foreign>, “attaining Śiva”.
+                            </item>
+                        </list>
+                    </ab>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.4">
+                        <label>KS 1.1.4</label><anchor n="KS-1.1.4-t"/><hi>teṣāṃ dvau dvāv
+                            anyonyasya savarṇau ||1.1.4||</hi>
+                    </l>
+
+                    <ab corresp="#KS-1.1.4" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.4-t">Among them, within each pair, both are
+                                homogeneous (<foreign>savarṇa</foreign>) with each other.</item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.4-1"><label>BB 1.1.4</label><anchor n="BB-1.1.4-1-t"
+                            /><hi>teṣāṃ</hi> daśānāṃ samānānāṃ madhyād yau <hi>dvau dvau</hi>
+                        varṇau, tā<hi>v anyonyasya</hi> parasparaṃ <hi>savarṇa</hi>saṃjñau bhavataḥ
+                        | akārasya ākāraḥ savarṇaḥ | ākārasya akāraḥ savarṇaḥ | evaṃ sarvatra |
+                        pūrvam eva prayojanam |</p>
+
+                    <ab corresp="#BB-1.1.4-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-1-t">Among the ten monophthongs, within each
+                                pair, the two sounds are termed homogeneous
+                                    <foreign>(savarṇa)</foreign> with each other. The homogeneous
+                                sound of <foreign>a</foreign> is <foreign>ā</foreign>. The
+                                homogeneous sound of <foreign>ā</foreign> is <foreign>a</foreign>.
+                                Thus it happens everywhere. The application is just as in the
+                                previous <foreign>sūtra</foreign>.</item>
+                        </list>
+                    </ab>
+
+
+                    <p xml:id="BB-1.1.4-2">
+                        <anchor n="BB-1.1.4-2-t"/>samānau varṇau savarṇāv ity anvarthasaṃjñāvijñānād
+                        dvayor hrasvayor dvayoś ca dīrghayor anyonyaṃ sāvarṇyam | tena mamātra
+                        dṛḍhāsthetyādau dīrghaparalopau bhavataḥ | </p>
+
+                    <ab corresp="#BB-1.1.4-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-2-t">By understanding it
+                                    (<foreign>savarṇa</foreign>) to be a self-explanatory term that
+                                denotes two similar sounds as homogeneous, homogeneity occurs
+                                between two short or two long vowels as well. Therefore, in cases
+                                such as <foreign>mamātra (mama + atra)</foreign>, “my here”, or
+                                    <foreign>dṛḍhāsthā (dṛḍhā + āsthā)</foreign>, “firm regard”,
+                                lengthening and deletion of the latter vowel take place. </item>
+                        </list>
+                    </ab>
+
+
+                    <p xml:id="BB-1.1.4-3"><anchor n="BB-1.1.4-3-t"/>nanv eka evāsau varṇo dvir
+                        uccāryate | naitau dvau na savarṇau | sati hi bhede dvitvaṃ samānavarṇatvaṃ
+                        ca bhavati | yad āhuḥ, yatra kiñcit sāmānyaṃ kaścic ca viśeṣaḥ, sa viṣayaḥ
+                        sadṛśatāyā iti | tat katham atra dvayoḥ savarṇatvam |</p>
+
+                    <ab corresp="#BB-1.1.4-3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-3-t">No doubt, it is only one sound uttered
+                                twice. These are not two; nor are they homogeneous because duality
+                                and similarity between sounds occur when there is a difference. As
+                                it is said, similarity exists within the domain where there is a
+                                certain degree of commonality and a certain degree of specificity.
+                                Therefore, how come homogeneity exists for those two in this case?
+                            </item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.4-4"><anchor n="BB-1.1.4-4-t"/>ucyate, yatraiko 'kāra udāttaḥ
+                        svarito vā aparas tv anudāttaḥ, tatra svarabhedāt sati dvaidhe tāvad eṣa na
+                        doṣaḥ | yatrāpy eko 'kāras sānunāsiko dvitīyo niranunāsikas tatrāpi bhedād
+                        eva na doṣaḥ | evam ikārādiṣu jñeyam | tathā coktam |
+                        <lg type="quote">
+                            <l> hrasvadīrghaplutatvāc ca traisvaryopanayena ca | </l>
+                            <l> ānunāsikyabhedāc cāpy akāro 'ṣṭādaśātmakaḥ ||</l>
+                        </lg>
+                         iti | yatra tv abhedas tatrāpi kvacid bhedāropeṇa dvitvaṃ sadṛśatvaṃ ca
+                        dṛśyate | yathā yuddhe 'rjuno 'rjuna iva prathitapratāpa ityādau | tadvad
+                        ihāpi bhaviṣyati | atha vā, uccārakālādikṛtaḥ sūkṣmo viśeṣo 'vaśyambhāvī |
+                        tam āśritya dvayos savarṇatvaṃ bhaviṣyati |</p>
+
+                    <ab corresp="#BB-1.1.4-4" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-4-t">It is said: There is no problem when one
+                                    <foreign>a</foreign> is acute or circumflex, and the other is
+                                grave because there exists a difference due to the variation in
+                                pitch accent. Even when one <foreign>a</foreign> is nasalized and
+                                the other is non-nasalized, due to the very difference, there is no
+                                problem either. Thus it should be understood as <foreign>i</foreign>
+                                and so on. So it is stated: <l>Because of short, long, and prolonged
+                                    variations and the application of three pitch accents, as well
+                                    as the contrast in terms of nasality, the sound
+                                        <foreign>a</foreign> is of eighteen kinds.</l> However, even
+                                in cases where there is no difference, in some instances, due to the
+                                imputation of difference, duality and similarity are observed. Just
+                                as, “in the battle, Arjuna has renowned glory like Arjuna”,
+                                similarly it will happen here as well. Or else, due to factors like
+                                pronunciation timing and so on, a subtle distinction is bound to
+                                occur. Depending on that (the distinction), there will be
+                                homogeneity of the two. </item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.4-5" style="stream1"><anchor n="BB-1.1.4-5-t"/>ata eva
+                        vyañjanānām api samānasthānānāṃ śvāsanādaghoṣādibhede 'pi sāvarṇyam | tena
+                        vaktā bhaktetyādāv asavarṇe dhuṭi cavargasya kir ucyamānaḥ pṛcchati
+                        ujjhatītyādau savarṇe nāsti | evam antassthānām apy ānunāsikyabhinnānāṃ
+                        savarṇatvam | tenānusvārasyāntassthāyām antaratamas sānunāsika eva
+                        parasavarṇo vakṣyate | saym̐yantā | savm̐vatsaraḥ | talm̐lokam |</p>
+
+                    <ab corresp="#BB-1.1.4-5" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-5-t">Consequently, there is homogeneity of
+                                consonants that have the same place of articulation even though
+                                there can be differences in terms of breathing
+                                    (<foreign>śvāsa</foreign>), vibrating (<foreign>nāda</foreign>),
+                                voicing (<foreign>ghoṣa</foreign>), etc. Therefore, a
+                                    <foreign>k</foreign>-set (velar stops) replacement of the
+                                    <foreign>c</foreign>-set (palatal stops/affricates) sounds
+                                preceding a non-homogenous obstruent (<foreign>dhuṭ</foreign>)—as it
+                                happens in words like <foreign>vaktā</foreign>, “speaker”, or
+                                    <foreign>bhaktā</foreign>, “worshipper”,—does not occur when a
+                                homogeneous obstruent follows as in words like
+                                    <foreign>pṛcchati</foreign> “asks” or <foreign>ujjhati</foreign>
+                                “abandons”. The same way, homogeneity also occurs for the
+                                approximants, which are distinguished in terms of nasalisation. By
+                                that (homogeneity of the approximants), it will be explained that
+                                when followed by an approximant, an <foreign>anusvāra</foreign> is
+                                replaced by the closest nasalized realization (of the approximant)
+                                itself, which is homogeneous with the following sound (the
+                                approximant). [E.g.] <foreign>saỹyantā</foreign> “controller”,
+                                    <foreign>saṽvatsaraḥ</foreign> “a year”,
+                                    <foreign>tal̃lokam</foreign> “their world”.</item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.4-6" style="stream1"><anchor n="BB-1.1.4-6-t"/>
+                        <hi>ṛdupadhāc cākḷpicṛter i</hi>ti <metamark function="source">[Kā.Sū.
+                            4.2.24]</metamark> kḷpi pratiṣedha ṛkāraḷkārayor anyonyaṃ sāvarṇyaṃ
+                        jñāpayati | sati hi tasmiṃs taparas tatkālasya savarṇasya grāhaka iti
+                        mātrikeṇa ṛkāreṇa mātrika eva ḷkāre gṛhīte ṛdupadhāt kyab vidhīyamāna
+                        ḷdupadhād api syād iti kḷpi pratiṣedho 'rthavān bhavati | cikḷpsati |
+                            <hi>kṛpū sāmarthye</hi>
+                        <metamark function="source">[Kātantra Dhātupāṭha 1.488]</metamark>| ūkāraḥ
+                            <hi>svaratisūtisūyatidhūñbhya ūdanubandhebhya</hi>
+                        <metamark function="source">[Kā.Sū. 4.6.83]</metamark> itīḍvikalpārthaḥ |
+                        kṛp | kalpitum icchati | <hi>dhātor vā karmaṇa</hi>
+                        <metamark function="source">[Kā.Sū. 3.2.4]</metamark> iti san | nakāraḥ
+                            <hi>sany avarṇasye</hi><metamark function="source">[Kā.Sū.
+                            3.3.26]</metamark>ty arthaḥ | <hi>kṛpe ro la</hi>
+                        <metamark function="source">[Kā.Sū. 3.6.97]</metamark>iti ṛkāre raśruter
+                        laśrutiḥ | kḷpsa iti sannantasya <hi>caṇ parokṣe</hi>ti <metamark
+                            function="source">[Kā.Sū. 3.3.7]</metamark> dvirvacanam |
+                            <hi>abhyāsasyādivyañjanam i</hi>ti <metamark function="source">[Kā.Sū.
+                            3.3.9]</metamark> palopaḥ | svaras savarṇasya grāhaka iti ṛkāreṇa
+                        gṛhītasya ḷkārasya <hi>akāra ṛvarṇasye</hi><metamark function="source"
+                            >[Kā.Sū. 3.3.16]</metamark>ty akāraḥ | tasya <hi>sany
+                            avarṇasye</hi><metamark function="source">[Kā.Sū. 3.3.26]</metamark>ti
+                        itvam | <hi>kavargasya cavarga</hi>
+                        <metamark function="source">[Kā.Sū. 3.3.13]</metamark> iti kasya caḥ |
+                        cikḷpsaśabdāt <hi>te dhātava</hi>
+                        <metamark function="source">[Kā.Sū. 3.2.16]</metamark> iti dhātusaṃjñāyāṃ
+                        satyāṃ vartamānā ti | an vikaraṇaḥ | tasyāsandhyakṣaralopaḥ |</p>
+
+                    <ab corresp="#BB-1.1.4-6" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.4-6-t">In the rule <foreign><hi>ṛdupadhāc
+                                        cākḷpicṛteḥ (4.2.24)</hi></foreign>, the prohibition (of
+                                using the suffix <foreign>kyap</foreign>) with the verb
+                                    <foreign>kḷp</foreign> indicates the homogeneity between
+                                    <foreign>ṛ</foreign> and <foreign>ḷ</foreign>. That is why the
+                                prohibition in the verb <foreign>kḷp</foreign> is meaningful: when
+                                the suffix <foreign>kyap</foreign> is prescribed after a verb that
+                                has <foreign>ṛT</foreign> (a short <foreign>ṛ</foreign>) as its
+                                penultimate sound, it is also applied to a verb with
+                                    <foreign>ḷT</foreign> (short <foreign>ḷ</foreign>) as its
+                                penultimate sound. This is because a sound followed by
+                                    <foreign>T</foreign> is representative of its homogeneous sounds
+                                that have the same length. Consequently, a monomoraic
+                                    <foreign>ḷ</foreign> can be exactly represented by a monomoraic
+                                    <foreign>ṛ</foreign>. <foreign>cikḷpsati</foreign>, “wants to be
+                                competent”. <foreign>kḷpŪ</foreign> = to be competent
+                                    (<foreign>Dhātupāṭha 1.488</foreign>). According to the rule
+                                        <foreign><hi>svaratisūtisūyatidhūñbhya ūDanubandhebhyaḥ
+                                        (4.6.83)</hi></foreign>, <foreign>Ū</foreign> is for the
+                                purpose of an optional <foreign>iṬ</foreign>. So it is
+                                    <foreign>kṛp</foreign>. <foreign>SaN</foreign> stands for
+                                    <foreign>kalpitum icchati</foreign>, “wants to be competent”,
+                                according to the rule <foreign><hi>dhātor vā karmaṇaḥ…
+                                    (3.2.4)</hi></foreign>. The <foreign>N</foreign> is for the
+                                purpose of the rule <foreign><hi>saNy avarṇasya
+                                    (3.3.26)</hi></foreign>. According to the rule,
+                                        <foreign><hi>kṛpe ro laḥ (3.6.97)</hi></foreign>, a lateral
+                                sound occurs in the place of the rhotic in <foreign>ṛ</foreign>.
+                                    <foreign>Kḷpsa</foreign>, suffixed by <foreign>saN</foreign>,
+                                undergoes reduplication according to the rule
+                                        <foreign><hi>caṇparokṣā… (3.3.7)</hi></foreign>. The
+                                deletion of <foreign>p</foreign> occurs according to the rule
+                                        <foreign><hi>abhyāsasyādivyañjanam… (3.3.9)</hi></foreign>.
+                                Following the maxim that a vowel represents its homogenous sounds,
+                                    <foreign>ḷ</foreign> represented by <foreign>ṛ</foreign> turns
+                                into an <foreign>a</foreign> according to the rule
+                                        <foreign><hi>akāra ṛvarṇasya (3.3.16)</hi></foreign>. In the
+                                place of that, an <foreign>i</foreign> occurs according to the rule
+                                        <foreign><hi>sany avarṇasya (3.3.26)</hi></foreign>. In the
+                                place of <foreign>k</foreign>, <foreign>c</foreign> occurs according
+                                to the rule <foreign><hi>kavargasya cavargaḥ
+                                (3.3.13)</hi></foreign>. After the word
+                                <foreign>cikḷpsa-</foreign>—as it is designated as a verbal stem
+                                according to the rule <foreign><hi>te dhātavaḥ
+                                    (3.2.16)</hi></foreign>—the present ending <foreign>ti</foreign>
+                                occurs. The <foreign>vikaraṇa</foreign> (conjugational affix)
+                                    <foreign>aN</foreign> is elided by the rule
+                                        <foreign><hi>asandhyakṣara... (3.6.40)</hi></foreign></item>
+                        </list>
+                    </ab>
+
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.5">
+                        <label>KS 1.1.5</label><anchor n="KS-1.1.5-t"/>
+                        <hi>pūrvo hrasvaḥ ||1.1.5||</hi></l>
+
+                    <l corresp="#KS-1.1.5"><label>anuvṛtti</label><ref target="#KS-1.1.4">dvau
+                            dvau</ref> > dvayor dvayoḥ</l>
+
+                    <ab corresp="#KS-1.1.5" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.5-t">The first [of each pair] is 'short'
+                                    <foreign>(hrasva)</foreign>.</item>
+                        </list>
+                    </ab>
+
+
+                    <p xml:id="BB-1.1.5-1" style="stream1"><label>BB 1.1.5</label><anchor
+                            n="BB-1.1.5-1-t"/>dvau dvāv ity arthavaśāt ṣaṣṭhyantaṃ sambadhyate |
+                        dvayor dvayos savarṇayor yo yaḥ pūrvas sa hrasvasaṃjño bhavati | a i u ṛ ḷ |
+                        prayojanaṃ <hi>hrasvo 'mbārthānām i</hi><metamark function="source">[Kā.Sū.
+                            2.1.40]</metamark>tyādi | he amba |</p>
+
+                    <ab corresp="#BB-1.1.5-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.5-1-t">According to the context, the phrase
+                                    <foreign>"dvau dvau"</foreign> (each pair) is syntactically
+                                connected with the genitive ending. In every pair of homogeneous
+                                sounds, whichever is the first, is termed short
+                                    <foreign>(hrasva)</foreign>: <foreign>a i u ṛ ḷ</foreign>.
+                                Application: <foreign>hrasvo 'mbārthānām (2.1.40)</foreign> (in the
+                                words <foreign>ambā</foreign> and its synonyms which are designated
+                                as <foreign>śraddhā</foreign>, the final vowel becomes short in
+                                vocative singular) etc. [E.g.] <foreign>he amba</foreign> (o
+                                mother!).</item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.5-2" style="stream1"><anchor n="BB-1.1.5-2-t"/>saṃjñārthavaśāt
+                        kvacil laghusaṃjñayāpi vyavahāraḥ | <hi>nāminaś copadhāyā laghor
+                            i</hi><metamark function="source">[Kā.Sū. 2.1.40]</metamark>ti
+                        prayojanam | veditā ||</p>
+
+                    <ab corresp="#BB-1.1.5-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.5-2-t">In some cases, for terminological
+                                purposes, the term 'light' <foreign>(laghu)</foreign> is also used.
+                                Application: <foreign>nāminaś copadhāyā laghoḥ (3.5.2)</foreign> (In
+                                a verb root, guṇa-substitution occurs in a penultimate
+                                    <foreign>nāmin</foreign> vowel that is light
+                                    <foreign>(laghu)</foreign>. [E.g.] <foreign>veditā</foreign>
+                                (knower). </item>
+                        </list>
+                    </ab>
+
+
+
+                </div>
+                <!-- end of pāda 1 -->
+            </div>
+            <!-- end of Sandhiprakaraṇa -->
+        </body>
+    </text>
+</TEI>

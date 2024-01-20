@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Srinagar ORL 836.1</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>Srinagar</settlement>
+                            <region>Kashmir</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>Oriental Research Library</institution>
+                        <repository>Manuscripts Department</repository>
+                        <collection>Sanskrit Manuscripts</collection>
+                        <idno>836</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">S<g rend="subscript">2</g></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <!--<title xml:lang="sa" type="commentary">[title of commentary]</title>-->
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit source="1v1-3"><lb n="1"/><g ref="#Sharada-Sign-Siddham"/>
+                                svasti || oṃ namas sarasvatyai || oṃ namaś śivābhyām || <lb n="2"
+                                />namaś śivāya niśśeṣakleśapraśamaśāline
+                                    triguṇagranthidurbhedabha<lb n="3"/>vabandhavibhedine
+                                ||</incipit>
+                            <rubric/>
+                            <explicit source="331v"> iiti mitamatibālabodhanārthaṃ pa<gap/><lb n="2"
+                                />tavakrapathair mayā vacobhiḥ | laghulalitapadā vyadhāyi vṛttir mṛdusa<gap/>
+                                <lb n="3"/>khalu bālabodhinīyam || = || = || = || iti
+                                    paṇḍitabhaṭṭajagaddhara<gap/><lb n="4"/>tāyāṃ bālabodhinyāṃ
+                                vṛttau kṛtprakaraṇe dhātusambandhapādaṣ ṣaṣṭhaḥ || = || <lb n="5"
+                                />samāpteyaṃ bālabodhinī vṛttiḥ || = || kṛtiḥ
+                                    śrījagaddharabhaṭṭasye<gap/><lb n="6"/>vam || granthasahasrāṇi
+                                dvādaśa || = || granthasahasrāṇi 12-- | <lb n="7"/>oṃ namaḥ
+                                śrīgaṇeśāya namaḥ || oṃ namaẖ kumārāya || = || gurupa<gap/><lb n="8"
+                                />jaḫ puñjebhyo namaḥ || = || = || = || = || = || = || = || =
+                                ||</explicit>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="331" unit="folios"/>
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height>22</height>
+                                        <width>15</width>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>damaged, some folios are torn</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink"
+                                resp="Lambodara">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <handNote scope="major" script="śāradā" medium="black ink">
+                                <p>either by the scribe or a second hand</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>a
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>contains marginal glosses</p>
+                            <p>contains other texts after the Bālabodhinī</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Saptarṣi Saṃvat">69</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-01-31" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone n="1r" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="1" type="prakaraṇa">
+
+                <div n="1.1" type="pāda">
+
+                    <p xml:id="BBP-1.1.1.1.12">
+                        <note place="first page"><pb/><lb n="1"/>
+                            <lg type="quote">
+                                <l><supplied>mi</supplied>taṃ dadāti hi pitā mitaṃ bhrātā mitaṃ
+                                        sutaḥ<space type="pause"/></l>
+                                <l>amitasya tu dātātaṃ bhartāraṃ kā na pūjayet </l>
+                            </lg>
+                        </note>
+                        <note place="second page"><pb/><lb n="1"/>antarlāpikā
+                            <lg type="quot">
+                                <l><lb n="2"/>kaḥ sandigdhas tripuraripuṇā kaś ca karṇasya hantā</l>
+                                <l>nadyāḥ kulaṃ vighaṭayati kaḥ kaḥ parastrīrataś ca <space
+                                        type="pause"/></l>
+                                <l>kas sannadho bhavati samare bhūṣaṇaṃ kiṃ ku<lb n="3"/>cānāṃ</l>
+                                <l>kiṃ dussaṅgād bhavati mahatāṃ mānapūjāpahāraḥ ||</l>
+                            </lg>
+                            <lg type="quote">
+                                <l><lb n="4"/>kā sā buddhir madanamathituḥ prāṇināṃ prāṇanaṃ kiṃ</l>
+                                <l>ko vā bhaṭṭajalādhiduhituḥ kāminīnāṃ priyaḥ kaḥ <space
+                                        type="pause"/></l>
+                                <l>kā vā mṛgyā bahubhi<unclear>rigadhaḥ</unclear> kṣi<lb n="5"/><gap
+                                        unit="char" n="2"/>kaś ca sandhau</l>
+                                <l>kasmai kupyaty asurajanatā muktaye kaś ca mantraḥ ||</l>
+                            </lg>
+                             oṁ anntaṃ aḥ kumā ar āya <space/> on namaḥ kumārāya bahirlāpikā
+                            <lg type="quote">
+                                <l><lb n="6"/><unclear reason="damage">kena</unclear> krauñco
+                                    vibhinnaẖ kam avanatavatā ke dineśasya tīkṣṇā</l>
+                                <l>antasthādyakṣaraṃ kiṃ dvijakulam adhikaṃ vakti kāṃ jātim agryām
+                                        <space type="pause"/></l>
+                                <l>bhṛtyānāṃ kutra bhaktiḥ <supplied>ki</supplied><lb n="7"/>m
+                                    ucitam ajayan kṣmāṃ kimarthaṃ narendrāḥ </l>
+                                <l>kasmai bhaktā ajasraṃ pravidadhati manaḥ svāmine
+                                            śaṅka<subst><del>ye ca</del><add place="below"
+                                            >rāya</add></subst> ||</l>
+                            </lg>
+                            <lg type="quote">
+                                <l><lb n="8"/><gap reason="damage"/>hau <gap reason="damage"
+                                    />aititāvakaguṇaśreṇī nareśā'niśaṃ </l>
+                                <l>tvadvidveṣi yaśaḥ prasāri malinaṃ kiṃ cāmalaṃ tvadyaśaḥ </l>
+                                <l>eti śrotrapathaṃ na kasya tilakaṃ <lb n="9"/><gap reason="damage"
+                                    /></l>
+                                <l>kāñcī yatphalakaṇṭhavat kanakavat kāśmīravat kīravat </l>
+                            </lg>
+                        </note>
+                        <note place="fourth page">
+                            <lg type="quote">
+                                <l><pb/><lb n="1"/>svarā dvāviṃśatiś caiva sparśānāṃ
+                                    pañcaviṃśatiḥ</l>
+                                <l>yādayaś ca smṛtā aṣṭau catvāraś ca yamāḥ smṛtāḥ <space
+                                        type="pause"/></l>
+                                <l>anusvāro visargaś ca ẖkaḥḫpau iti parāśrayau </l>
+                                <l>ta ete gaditā va<lb n="2"/>rṇās triṣaṣṭir iha sūribhiḥ </l>
+                            </lg>
+                        </note>
+                        <note place="sixth page">
+                            <lg type="quote">
+                                <l><pb/><lb n="1"/>maraṇe yādṛśī jantor bhāvanā yasya jāyate <space
+                                        type="pause"/></l>
+                                <l>tādṛśaṃ labhate janma bhūyo pi svakarmabhiḥ </l>
+                                <lg type="quote">
+                                    <l><lb n="2"/>pradhānakarmaṇy ākhyeye lādīn āhur dvikarmaṇaḥ</l>
+                                    <l>apradhadhāne duhādīnāṃ ṇyante kartuś ca karmaṇi </l>
+                                </lg>
+                            </lg>
+                        </note>
+                        <note place="seventh page">
+                            <lg type="quote">
+                                <l><pb/><cb n="1"/><lb n="1"/>bhūminindāpraśaṃsāsu nityayoge
+                                    tiśāyane </l>
+                                <l>saṃsarge sti vivakṣāyāṃ bhavanti matubādayaḥ </l>
+                            </lg>
+                        </note>
+                        <note place="eighth page">
+                            <lg type="quote">
+                                <l><pb/><lb n="1"/>hrasyate hīyate dīrghākṣepayā hrasvaḥ <lb n="2"
+                                    />dṛghyate </l>
+                                <l/>
+                            </lg>
+                             hrasvam atītya yātīti dīrghaḥ <space type="pause"/><lb n="3"/> plavate
+                            hrasvadīrghāv utplutyeti plutaḥ <space type="pause"/><lb n="4"/> upāṃśūr
+                            uccāryamānaḥ śabdaḥ śvāsaḥ <lb n="5"/>sphuṭam abhihitaś śabdo nādaḥ <lb
+                                n="6"/>atisphuṭam udīritaś śabdo ghoṣaḥ <cb n="2"/><lb n="1"/>kvacid
+                            arthavaśādviruktivacanaliṅgapariṇāmaḥ </note>
+                        <note place="tenth page">
+                            <lg type="quote">
+                                <l><pb/><lb n="1"/>tumbikā tṛṇakāṣṭhaṃ ca tailaṃ jalasamāgame </l>
+                                <l>ūrdhvasthāne samāyānti rephāṇām īdṛśī gatiḥ </l>
+                                <l>agre repho hy adho jātiḥ paścād rephasya cordhvatā <space
+                                        type="pause"/></l>
+                                <l>hasānām ardhvam ādhāti svarāṇāṃ paridhāvati</l>
+                            </lg>
+                        </note>
+                        <note place="twelfth page">
+                            <lg type="quote">
+                                <l><pb/><lb n="1"/>siṃhāvalokanaṃ caiva maṇḍūkaplutayas tathā <space
+                                        type="pause"/></l>
+                                <l>kākadṛṣṭiś ca vijñeyā hy anuvṛttis tridhā matā </l>
+                                <l>sāmānyaśāstrato nūnaṃ viśeṣo balavān bhavet <space type="pause"
+                                    /></l>
+                                <l>pūrveṇa pūrvabādho vā prayaśo dṛśyatām iha</l>
+                            </lg>
+                        </note>
+                        <note place="thirteenth page" style="text rotated clockwise"><lb n="1"
+                            />pañca kleśāḥ || avidyā asmitā rāgadveṣābhiniveśāḥ pañca kleśāḥ ||
+                            tatra <add place="below">|</add> aniyāśuciduḥkhānātmasu viparītajñānam
+                            avidyā | bhinnayoḥ <lb n="2"/>prakṛtipuruṣayor ekatvapratītir asmitā |
+                            sukheṣv āsakti rāgaḥ | duḥkheṣv aprīti dveṣaḥ | ananubhūtād api
+                            maraṇādes trāso 'bhiniveśaḥ || anyathā <lb n="3"/>atathavastuni tatheti
+                            khyātir avidyā | dṛgdarśanaśaktāv ekātmatā sukhānuśayī rāgaḥ |
+                            duḥkhānuśāyo dveṣaḥ | svarasavahī viduṣo pi tathā rūḍho <lb n="4"
+                            />bhiniveśaḥ | trayo guṇāḥ satvādaya eva guṇā rajjavaḥ <space
+                                type="pause"/> namaḥ kāyavāṅmanasāṃ prahṛtaṃ samārādhanīyaṃ prati
+                            samārādhyakasya nyagbhāvaḥ ||</note>
+                        <note place="thirteenth page" style="rotated">
+                            <lg>
+                                <l><lb n="1"/>madanavādanavādanavāsanā<lb n="2"/>yatanayā
+                                    tanayāmbudheḥ</l>
+                                <l><lb n="3"/>akṛta vai kṛtavaikṛtavai<unclear reason="overwriting"
+                                        >śasā <lb n="4"/>sakamalā kamalā kamalāghavam</unclear></l>
+                            </lg>
+                        </note>
+                        <note place="thirteenth page" style="text rotated clockwise">yady api
+                            yatrānyat kriyāpadaṃ na śrūyate tatrastīti laṭparaḥ prayoktavya iti
+                            vacanād astīty a<unclear reason="overwriting">syā</unclear>dhyāhāras
+                            tathāpīṣṭasādhanatāyāṃ vidhāv anumatyā<lb n="2"/>dāv arthe pañcamī || </note>
+                        <note place="thirteenth page" style="text rotated clockwise">tantryante
+                            vyutpādyante 'nena śabdā iti tantraṃ vyākaraṇaśāstraṃ</note>
+                        <lb n="1"/>sadācārānumitaśrutipratipāditakartavyatākaṃ prāripsita<lb n="2"
+                        />prabandhapratibandhakavighnaughavighātakārakaṃ namaskāraṃ <lb n="3"
+                        />parameśvaragocaraṃ praṇināya granthakāraḥ namaḥ śivāyeti | <note
+                            type="gloss" place="bottom-margin">svāpakarṣatvaparotkarṣatvalakṣaṇaṃ
+                            namaskāratvam</note>
+                    </p>
+
+
+                    <p xml:id="incipit"><pb n="1v"/><lb n="1"/><g ref="#sharada-sign-siddham"/>
+                        svasti || oṃ namas sarasvatyai || oṃ namaś śivābhyām ||</p>
+
+
+                    <l xml:id="BB-1.1.1.1"><lb n="2"/>namaś śivāya niśśeṣakleśapraśamaśāline | <note
+                            type="gloss" place="top-margin"><gap/>rāgadveṣā'bhiniveśāḥ <unclear
+                                reason="damage">pañca kleśāḥ</unclear></note>
+                        <note type="gloss" place="top-margin">niḥśeṣāś ca te kleśāḥ
+                            pañcāvidyāsmitārāgadveṣābhiniveśas teṣāṃ praśamane śālate iti |</note>
+                        <caesura/>
+                         triguṇagranthidurbbhedabha<lb n="3"/>vabandhavibhedine <g
+                            ref="#sharada-section-mark-1"/>|| </l>
+
+                    <p xml:id="BBP-1.1.1.1-1" style="gloss on top-margin">oṁ namaḥ śivāyetyādi |
+                            <add place="above">śivāya</add> parameśvarāya namo stv iti
+                        sambandhaḥ atra yady api ya<gap unit="char" n="3"/><lb/>yāpadaṃ na śrūyate |
+                        tatrāstir bhavant<subst><del>i</del><add>ī</add></subst>paraḥ prayoktavya
+                        iti vacanād astīty asyādhyā<gap unit="char" n="5"/><lb/>ḥ prāpnoti <space
+                            type="pause"/> tathāpi ba<lb/><gap unit="char" n="1"
+                        />taraduẖkhānanubandhitve kṛ<lb/>tijanyatve satīṣṭasādha<gap unit="char"
+                            n="1"/><lb/>tāyāṃ vidhāv anumatyā<lb/><gap unit="char" n="3"/>
+                            pañcamī <space type="pause"/> parasmaipa<lb/><gap unit="char" n="2"
+                            />thamapuruṣaikavaca<lb/><gap unit="char" n="1"/>nto 'stir
+                            itarapadārtha<lb/><gap unit="char" n="1"/>sarge
+                        parapadārthani<lb/>ṣṭhātyantābhāvaprayo<lb/>gitāvacchedakadharmaśū<lb/>nyatālakṣaṇayā
+                        yogyata<lb/>yā sambandhanīyaḥ <space type="pause"/> ta<lb/>thā ca
+                        prayogaḥ ||
+                        <lg type="quote">
+                            <l>trilo<lb/>kyām iha kas trātās tri<lb/>tāpyā nopatāpitaḥ </l>
+                            <l><lb/>tasmai namo stu te yas tvaṃ <lb/>tannirvāṇāmṛtahrada </l>
+                        </lg>
+                        <lb/>iti ||</p>
+
+                    <p xml:id="BBP-1.1.1.1-2" style="gloss on left-margin"> nanu namaś śabdena
+                        <lb/>svāpakarṣabodhanānu<lb/>kūlo vyāpā<del><unclear reason="crossed out"
+                                >va</unclear></del>ravi<lb/>śeṣo dyotyate | svasyā<lb/>pakarṣaś
+                        catotkarṣe <lb/>sati bhavati <space type="pause"/> sa <lb/>eva katham ity
+                        ata ā<lb/>ha || niśśeṣakleṣa<lb/>praśamaśāline iti ||
+                                niśśe<subst><del>śā</del><add place="above">ṣā</add></subst>ḥ sūkṣmā
+                        <lb/>asūkṣmāś ca ye kleśāḥ <lb/>s teṣāṃ yaḥ pra<lb/>śamas
+                        traikā<lb/>likābhāvas tena śālī ślāghyaśīlas tasmai | parameśvare kleśānām
+                        atyantābhāvaḥ <lb/>samasti | na svātmani iti parameśvarasyotkarṣavattvān
+                        namaskaraṇīyatvam ity a<unclear reason="damage">rthaḥ |
+                            kleśaśabdasyopala</unclear><lb/>kṣaṇatayā karmavipākāśayagrahaṇe
+                        kleśakarmavipākāśayair aparā<damage/> ṇinir iti ṇiniḥ |</p>
+
+                    <p xml:id="BBP-1.1.1.1-3" style="gloss on top margin of the next page"> nanu
+                        parameśvarasya kleśātyantābhāvo stu | kiṃ tāvatā na<lb/><damage/>payāti |
+                        yāvatā yasya yāvat susamīhitadāyitvaṃ nāvasīyate tāvat taṃ ko pi na
+                        na<lb/><damage/>ty ata āha <damage/>guṇagrandhidurbhedabhavabandhavibhedine
+                        | iti | trayas tri<unclear reason="overwriting">tva</unclear>tasaṅkhyākā ye
+                        gu<lb/>ṇāḥ prītyaprītiviṣādātmakāḥ satvarajastamaḥpadārthās ta eva
+                        paramatattvasaṅkocadāyi<lb/>tvād granthir iva granthis triguṇā eva
+                        triguṇagranthis triguṇīkṛtagranthir iti yāvat <space type="pause"/>
+                        madhya<lb/>padalopī samāsa<lb/>s tena durbhedo durvāro <lb/>yo bhavo
+                        dehendriyavi<lb/>ṣayasambandharūpaḥ <lb/>sāraḥ sa eva bandho
+                        <damage/><lb/>ndhanaṃ taṃ vibhettuṃ śīla<damage/>syeti | tathā tasmai | </p>
+
+
+                    <l xml:id="BB-1.1.1.2">diśi diśy amṛtadravaṃ sravantyaḫ
+                        <caesura/>
+                         prathayantya kṛtināṃ dṛ<lb n="4"/>śaḫ prasādam </l>
+                    <l xml:id="BBverse2b">viśadāḥ prasaranti yasya gāvas
+                        <caesura/>
+                         sa mahātmā jayati dvijā<lb n="5"/>dhirājaḥ ||</l>
+
+
+                    <l xml:id="BB-1.1.1.3">svasutasya <note type="gloss" place="above"
+                                >vyākaraṇavidyā<unclear>vyāmanāsanarthaḥ śiśuḥ na tu
+                                tandhayaḥ</unclear></note> śiśor yaśodharasya
+                        <caesura/>
+                         smaraṇārthaṃ vihito mayā śramo <lb n="6"/>yam |
+                        <caesura/>
+                         upayogam iyād yadi prasaṅgād <note type="gloss" place="above">aniṣṭāpattiḥ
+                            prasaṅgaḥ</note>
+                        <caesura/>
+                         aparatrāpi tato bhaved avandhyaḥ </l>
+
+                    <l xml:id="BB-1.1.1.4">i<lb n="7"/>ha yuktyanugānavadyahṛdyakramadṛbdhāẖ kṛtināṃ
+                        harantu vācaḥ |
+                        <caesura/>
+                         mati<gap unit="char" n="3"/><lb n="8"/>vaṃ lavaṅgajātīphalapūtāḥ savilāsam
+                        āsṛjantyaḥ ||</l>
+
+
+                    <lg type="sūtra" xml:id="KS-1.1.1">
+                        <l>|| oṁ siddho varṇa<lb n="9"/>samāmnāyaḥ ||</l>
+                    </lg>
+
+                    <p xml:id="BB-1.1.1">|| asti siddhakramo varṇānām akārādīnāṃ samāmnāya<lb n="10"
+                        />ḫ pāṭho mātṛkārūpaḥ | asti ca pāṇininā sve tantre pratyāhārārtham aparathā
+                        sādhitakramaḥ <space type="pause"/> tatrāniyame prāpte niyamaḥ kriyate iha
+                        tantre siddhakrama <lb n="11"/>eva varṇapāṭho vakṣyamāṇasvarādisaṃjñānām
+                        āśrayatvena grāhyaḥ <space type="pause"/> na sā<lb n="12"/>dhitakrama iti
+                        seyam aniyame niyamaḥ paribhāṣā | akṣarāṇām api <lb n="13"/>varṇasaṃjñāta
+                        eva varṇaśabdoccāraṇād boddhavyā <g ref="#sharada-section-mark-2"/>|| a ā i
+                        ī u ū ṛ ṝ <lb n="14"/>ḷ ḹ e ai o au svarāḥ | <note type="gloss"
+                            place="bottom-margin">svaryante śabdyante vyañjanāny ebhir iti
+                            svarāḥ</note> ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta <lb
+                            n="15"/>tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha aṃ aḥ ẖka
+                        pa iti vyañjanāni </p>
+
+                    <lg type="sūtra" xml:id="KS-1.1.2">
+                        <l><lb n="16"/>|| tatra caturdaśādau svarāḥ ||</l>
+                    </lg>
+
+                    <p xml:id="BB-1.1.2-1">|| tatra prasiddhe mātṛkārūpe varṇasamāmnāye <lb n="17"
+                        />ādau ye caturdaśa varṇāḥ te svarasaṃjñā bhavanti svarāḥ <unclear
+                            unit="char" extent="2"/> a ā i ī <pb facs="pdf p.8 right" n="2r"/>u ū ṛ
+                            <unclear reason="damaged">ṝ</unclear> ḷ ḹ e ai o au svarasṃjñayā kva
+                        prayojanaṃ | ro re lopaṃ <lb n="2"/>svaraś ca pūrvo dīrgham ityādi || vī
+                        rauti || </p>
+
+                    <p xml:id="BB-1.1.2-2">dātṝjjvāśayatoṣita iti vaktavye <lb n="3"/><unclear
+                            reason="damage">dā</unclear>tḹjvāṣayatoṣita iti bālena śakti <note
+                            type="gloss" place="right-margin">prakaṭava<lb/>rṇoccāraṇaṃ
+                            śa<lb/>ktiḥ</note> vaikalyād yad apabhāṣitaṃ<add place="below">|</add>
+                        tad a<lb n="4"/><unclear reason="damage">nyo ya</unclear>dānukaroti <add
+                            place="below">|</add> bālo dātḹjjvāśayatoṣita ity āheti <add
+                            place="below">|</add> tadānuka<lb n="5"/><unclear reason="damage"
+                            >ra</unclear>ṇe nāsti doṣa iti smaraṇāt tat sādhu bhavati <add
+                            place="below">|</add> tatsthasya ḹkārasya svara<lb n="6"/>saṃjñārthaḫ
+                        pāṭhaḥ | tenātra svarāt parasya vyañjanasya vyañjane pare dvirbhāvo vaktavya
+                            <lb n="7"/>iti <add place="below">||</add> ḹkārāt svarāt parasya
+                        jakārasya dvirbhāvaḥ <add place="below">||</add> evaṃ mātḹr ity abravī<lb
+                            n="8"/>c chiśur ityādau <add place="below">||</add> svaratve sati <add
+                            place="below">|</add> ḹkārasya nāmitvān nāmiparo ram iti ḹ<lb n="9"
+                            />kā<unclear reason="damage">rā</unclear>t parasya visarjanīyasya rephaḥ
+                        | </p>
+
+                    <p xml:id="BB-1.1.2-3">tatraśabda uttaratra saṃjñāsamāveśā<lb n="10"/><unclear
+                            reason="damage">rthaḥ</unclear> svarasamānasaṃjñe krameṇa mā bhūtām iti
+                        savarṇādisaṃjñānāṃ saṃ<lb n="11"/><unclear reason="damage">jñi</unclear>no
+                        nirdikṣyanta eva ||</p>
+
+
+                    <lg type="sūtra" xml:id="KS-1.1.3">
+                        <l>|| daśa samānāḥ || <note type="gloss" place="right-margin">samānanam iti
+                                samānaḥ</note>
+                        </l>
+                    </lg>
+
+                    <p xml:id="BB-1.1.3">tatrādāv ity evānuvartate tatra <lb n="12"/>mātṛkārūpe
+                        varṇapāṭhe ādau ye daśa varṇās te samānasaṃjñā bhavanti sa<lb n="13"
+                            /><unclear reason="damage">mā</unclear>nā 10 <space type="pause"/> a ā i
+                        ī u ū ṛ ṝ ḷ ḹ prayojanaṃ samānaḥ savarṇe dīrghī<lb n="15"/>bhavati paraś ca
+                        lopam ityādi śivāptiḥ ||</p>
+
+
+
+                    <lg type="sūtra" xml:id="KS-1.1.4">
+                        <l>teṣāṃ dvau dvāv anyonyasya savarṇau ||</l>
+                    </lg>
+
+                    <p xml:id="BB-1.1.4-1"><lb n="16"/><gap reason="damage"/>ṣāṃ daśānāṃ samānānāṃ
+                        yau dvau dvau varṇau tayor anyonyaṃ parasparaṃ savarṇasaṃ<lb n="17"/><gap
+                            reason="damage"/> akārasya ākāras savarṇaḥ ākārasya akāraḥ savarṇaḥ <lb
+                            n="18"/>evam ikārasyāpi jñeya<del>ṃ</del>m evam eva<unclear
+                            reason="eccentric_ductus"/>m eva prayojanam <space type="pause"/>
+                        udaaharaṇaṃ ca </p>
+
+                    <p xml:id="BB-1.1.4-2">
+                        <lb n="19"/>samānau varṇau savarṇāv ity a<g ref="#sharada-separator"
+                            />'nvarthasaṃjñāvijñānāt<g ref="#sharada-separator"/> dvayo<g
+                            ref="#sharada-separator"/>r hrasvayo<g ref="#sharada-separator"/>r
+                            dvayo<g ref="#sharada-separator"/>ś ca<g ref="#sharada-separator"/>
+                            dī<pb facs="pdf p.9" n="2v"/><lb n="1"/>rghayor a<note place="above"
+                            >ca</note>nyonyaṃ sāvarṇyam <space type="pause"/> tena mamātra
+                        dṛḍhāsthetyādau dīrghaparalopau bhava<lb n="2"/>taḥ </p>
+
+                    <p xml:id="BB-1.1.4-3">nanv eka evāsau dvir uccāryate | naitau dvau savarṇau
+                        sati hi bhede dvitvaṃ sa<lb n="3"/>mānavarṇatvaṃ ca bhavati | yad āhuḥ |
+                        yatra kiñcit sāmānyaṃ kaścic ca viśe<lb n="4"/>ṣaḥ | sa viṣayaḥ sadṛśatāyā
+                        iti tat katham atra dvayos savarṇatvam </p>
+
+                    <p xml:id="BB-1.1.4-4"><lb n="5"/>ucyate | yatra eka udāttaḥ, svarito vā, aparas
+                        tv anudāttaḥ | <subst><del>ya</del><add place="above">ta</add></subst>tra
+                            svara<lb n="6"/>bhedāt sati dvaidhe tāvad eṣa na doṣaḥ | yatrāpy eka
+                        akāras sānunāsiko dvi<lb n="7"/>tīyo niranunāsikaḥ tatrāpi bhedād eva na
+                        doṣaḥ evam ikārādiṣu <lb n="8"/>jñeyam <space type="pause"/> tathā coktam ||
+                        <lg type="quote">
+                            <l> hrasvadīrghaplutatvāc ca traisvaryopanayena ca | </l>
+                            <l> ā<lb n="9"/>nunāsikyabhedāc cāpy akāro ṣṭādaśātmakaḥ |</l>
+                        </lg>
+                         iti | yatra tv abhedas tatrāpi <lb n="10"/>kvacid bhedāropeṇa dvitvaṃ
+                        sadṛśatvaṃ ca dṛśyate | yathā yuddhe rjuno rju<unclear reason="damage">na
+                            i</unclear><lb n="11"/>va prathitapratāpo bhīmo pi bhīma iva vairiṣu
+                        bhīmakarmetyādau <note type="gloss" place="left-margin">nyogradha<add
+                                place="below">va</add>rtinam a<lb/>thādhipatiṃ kurū<add
+                                place="right">ṇā</add><lb/>m upraśanārtha<lb/>m adhija<lb/>gmatur
+                            ādare<lb/>ṇa</note> tadvad ihā<lb n="12"/>pi bhavati | atha vā ||<note
+                            type="gloss" place="above">ekakāl<unclear cert="low">īnam tataḥ |
+                                atra</unclear></note> uccārakālādikṛtas sūkṣmo viśeṣo vaśyaṃbhāvī
+                            ta<lb n="13"/>m āśritya dvayoḥ savarṇatvaṃ bhaviṣyati |</p>
+
+                    <p xml:id="BB-1.1.4-5">ata eva vyañjanānām api samāna<lb n="14"/>sthānānāṃ
+                        śvāsanādaghoṣādibhede saty api sāvarṇyam | tena vaktā bhakte<lb n="15"
+                        />tyādāv asavarṇe dhuṭi cavargasya kir ucyamānaḥ pṛcchati ujjhatītyādau <lb
+                            n="16"/>savarṇe nāsti | evam antasthānām apy ānunāsikyabhinnānāṃ
+                        savarṇatvaṃ bhava<lb n="17"/>ti | tenānusārasyāntasthāyām antaratamas
+                        sānunāsika eva parasavarṇo <lb n="18"/>vakṣyate saym̐yantā savm̐vatsaraḥ
+                        talm̐lokam |</p>
+
+                    <p xml:id="BB-1.1.4-6"> ṛdupadhāc cākḷpicṛter iti kḷ<pb facs="pdf p.9 right"
+                            n="3r"/><lb n="1"/>pi pratiṣedha ṛkāralkārayor anyonyaṃ sāvarṇyaṃ
+                        jñāpayati || sati hi ta<lb n="2"/>smiṃs taparas tatkālasya savarṇasya
+                        grāhaka iti mātrikeṇa ṛkāreṇa|| <lb n="3"/>mātrike eva ḷkāre gṛhīte<g
+                            ref="#sharada-separator"/> ṛdupadhāt kyab vidhīyamāna<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/> ḷdupadhā<lb
+                            n="4"/>d api syād iti kḷpi pratiṣedho rthavān bhavati | cikḷpsati | kṛpū
+                            sāma<lb n="5"/>rthye <space type="pause"/> ūkāraḥ
+                        svaritisūtisūyatidhūñbhya ūdanubandhebhya iti iḍvika<lb n="6"/>lpārthaḥ
+                            <space type="pause"/> kṛp <space type="pause"/> kalpitum icchati dhātor
+                        vā karmaṇa iti san <space type="pause"/> nakāras sa<lb n="7"
+                                /><damage><supplied>ny ava</supplied></damage>rṇasyety arthaḥ | kṛpe
+                        ro la iti ṛkāre raśruter laśrutiḥ | kḷpsa iti <note type="gloss"
+                            place="right-margin">arthavaśād vibhaktivacana<lb/>pariṇāmaḥ</note><lb
+                            n="8"/><damage><supplied>sa</supplied></damage>nnantasya caṇ parokṣeti
+                        dvirvacanam <space type="pause"/> abhyāsasyādivyañjanam ity anādi<lb n="9"
+                        />vyañjanalopaḥ <space type="pause"/> svaras savarṇasya grāhaka iti ṛkāreṇa
+                        gṛhītasya ḷkā<lb n="10"/>rasya akāra ṛvarṇasyety akāraḥ <space type="pause"
+                        /> tasya sany avarṇasyeti itvam | kavargasya <lb n="11"/>cavarga iti kasya
+                        caḥ <space type="pause"/> cikḷpsaśabdāt_ te dhātava iti dhātusaṃjñāyāṃ sa<lb
+                            n="12"/><gap reason="damage"/>rta ti | anvi tasya asandhyakṣaralopaḥ
+                        ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.5">
+                        <hi rend="rubricated">pūrvo hrasvaḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.5-1" style="stream1">dvau dvāv ity artha<lb n="13"/><gap
+                            reason="damage"/>āt ṣaṣṭhyantaṃ sambadhyate || dvayor dvayos savarṇayoḥ
+                        yo yaḥ pūrvaḥ sa hrasvasaṃjño <lb n="14"/><gap reason="damage"/>vati <space
+                            type="pause"/> hrasvaḥ 5 <space type="pause"/> a i u ṛ ḷ || prayojanaṃ
+                        hrasvo mbārthānām ityādi he a<lb n="15"/>mba</p>
+
+                    <p xml:id="BB-1.1.5-2" style="stream1">saṃjñārthavaśāt kvacil laghusaṃjñayā
+                        vyavahāraḥ | nāminaś copadhāyā lagho<lb n="16"/><gap reason="damage"
+                        />yojanam || veditā ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.6">
+                        <hi rend="rubricated">paro dīrghaḥ svaraḥ </hi> ||</l>
+
+                    <p xml:id="BB-1.1.6-1" style="stream1">hrasva ity arthavaśā<lb n="17"/><gap
+                            reason="damage"/>m anuvartate | hrasvād anyaḥ svaro dīrghasaṃjño bhavati
+                        ā ī ū ṝ <lb n="18"/><gap reason="damage"/>yojanaṃ dīrgham āmi sanāv ityādi |
+                        vṛkṣāṇām <space type="pause"/> agnī<pb facs="pdf p.10 left" n="3v"/><lb
+                            n="1"/>nām <space type="pause"/> nṝṇām ||</p>
+
+                    <p xml:id="BB-1.1.6-2" style="stream1">sandhyakṣarāṇāṃ dīrghatve prayojanaṃ | ro
+                        re lopa<damage><supplied>ṃ sva</supplied></damage>raś ca pūrvo dī<lb n="2"
+                        />rgham ityādi || rave raśmiḥ | svai rakṣā | go rajjuḥ | dyau ramyā | atra
+                        nāmiparo ram i<lb n="3"/>ti ratve kṛte, rephasya lope kṛte|| parjanyaval
+                        lakṣaṇapravṛttyā, ekārādīnā<lb n="4"/>m ekārādaya eva dīrghā bhavanti ||
+                        asati sandhyakṣarāṇāṃ dīrgha<gap reason="damage"/>ti<lb n="5"/>ri atinu
+                        ityādau || hrasvavat sthānasāvarṇyād ekāraikārayoḥ īkā<gap reason="damage"/>
+                            okā<lb n="6"/>raukārayoś ca ūkāro dīrghau syātām ||</p>
+
+                    <p xml:id="BB-1.1.6-3" style="stream1"> tālvoṣṭhavat kaṇṭho pi sandhyakṣa<gap
+                            reason="damage"/>
+                        <lb n="7"/>sthānam iti tatsājātyād ākāro 'pi dīrghas syād iti na vācyam |
+                            <gap reason="damage"/><lb n="8"/>vyapadeśā bhavantīti
+                        tālavyauṣṭhabhāgayoḥ bhūyastvāt tālavyauṣṭhyāv ī<gap reason="damage"/><lb
+                            n="9"/>v eva syātām || adhyardha<note place="above">ḍaḍh</note>mātrā
+                        tālavyā edaitoḥ || oṣṭhyā odautoḥ ardha<gap reason="damage"/><lb n="10"
+                        />traiva kaṇṭhyaiveti śikṣāvidaḥ |</p>
+
+                    <p xml:id="BB-1.1.6-4" style="stream1">tathā rāyam icchaty ātmanaḥ raiyati
+                            nā<gap reason="damage"/><lb n="11"/>tmecchāyām iti yin ikāranakārau yiny
+                        avarṇasyetyarthau rā ivā<gap reason="damage"/><lb n="12"/>rati raiyate
+                        kartur āyis salopaś cety āyiḥ ikāra āyyantāc cety a<gap reason="damage"/>
+                        <lb n="13"/>nāmivyañjanāntād āyer iti ādilopaḥ te dhātava iti
+                            dhātusaṃjñā<gap reason="damage"/>
+                        <lb n="14"/>satyāṃ yin_ vartamānāparasmaipadaprathamaikavacanaṃ ti <gap
+                            reason="damage"/>āyyantāc ceti <lb n="15"/>ātmanepadaprathamaikavacanaṃ
+                        te <space type="pause"/> atrāpi nāmyantānāṃ yaṇāyīti i<gap reason="damage"
+                            /><lb n="16"/>ro dīrghaḥ syāt |</p>
+
+                    <p xml:id="BB-1.1.6-5" style="stream1">te cchātrāḥ te chātrāḥ śriyai cchannaḥ
+                        śriyai channaḥ no ccha<gap reason="damage"/>
+                        <lb n="17"/>chadma tau cchātau tau chātau ityādau dīrghāt padāntād vā chasya
+                        dvirbhāvaḥ <gap reason="damage"/></p>
+
+                    <p xml:id="BB-1.1.6-6" style="stream1"><gap reason="damage"/><lb n="18"/>py
+                        arthavaśād gurusaṃjñayā<add place="below">pi</add> kvacid vyavahā<unclear
+                            reason="damage">raḥ prayojanaṃ gu</unclear>roś ca <gap reason="damage"/>
+                        <pb facs="pdf p.10 right" n="4r"/><lb n="1"/>seṭa ityaadi || īhā | edhā |
+                        nāmyāder gurumato nṛccha iti <subst><del>prati</del><add place="above"
+                                >ṛcchi</add></subst> pratiṣedha<lb n="2"/>s saṃyoge pare laghor api
+                        gurusaṃjñāṃ jñāpayati tena rakṣā hiṃsā ity atra <lb n="3"/>apratyayaḥ <g
+                            ref="#sharada-section-mark-1"/> ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.7">
+                        <hi rend="rubricated">avarṇavarjo nāmī</hi> ||</l>
+
+                    <p xml:id="BB-1.1.7" style="stream1"> svara ity eva varṇaśabdasya jātya<lb n="4"
+                        />rthatvād avarṇam akārajātim akārākārau varjayitvā śiṣṭaḥ svaro nā<lb n="5"
+                        />misaṃjño bhavati i ī u ū ṛ ṝ ḷ ḹ e ai o au prayojanaṃ nāminaḥ <lb n="6"
+                        />svare ityādi dadhinī ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.8"> || <hi rend="rubricated">ekārādīni
+                            sandhyakṣarāṇi</hi> ||</l>
+
+                    <p xml:id="BB-1.1.8-1" style="stream1">|| ekāra ādi<lb n="7"/>r yeṣāṃ tāni
+                        svarānuvṛttyā catvāry eva varṇāni sandhyakṣarasaṃjñāni bhavanti pra<lb n="8"
+                        />yojanaṃ sandhyakṣarāntānām ākāro vikaraṇe ityādi <space type="pause"/> deṅ
+                            <space type="pause"/> daip <space type="pause"/> do | dā<lb n="9"/>tā ||
+                        aukārasya sandhyakṣarasaṃjñayā āruttare ca vṛddhir iti vṛddhisaṃjñā au<lb
+                            n="10"/>pagavaḥ ||</p>
+
+                    <p xml:id="BB-1.1.8-2" style="stream1">śuklavāsasam ānayety atra<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/>
+                        yathopalakṣaṇabhūtasyāpi vāsasa <lb n="11"/>ānayanaṃ tadvad ekārasyāpi
+                        saṃjñā bhavati || evaṃ gargādirājādiprabhṛ<lb n="12"/>tiṣv
+                        ādiśabdaparigṛhītānāṃ gargādirājādiśabdānāṃ kāryitvaṃ jñeyam ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.9">
+                        <hi rend="rubricated"> || <lb n="13"/>kādīni vyañjanāni </hi>||</l>
+
+                    <p xml:id="BB-1.1.9-1" style="stream1">kakāra ādir yeṣāṃ tāni varṇāni
+                            vyañjana<lb n="14"/>saṃjñāni bhavanti ka kha ga gha ṅa ca cha ja jha ña
+                        ṭa ṭha ḍa ḍha ṇa ta tha da dha na <lb n="15"/>pa pha ba bha ma ya ra la va
+                        śa ṣa sa ha aṃ aḥ ẖka <add place="above">ḫpa</add>ḫ prayojanaṃ | vyañjanam
+                            a<g ref="#sharada-separator"/>sva<lb n="16"/>ram ityādi | tvam atra |
+                        tvaṃ rahaḥ || yaḥ kṣīṇaḥ | kaẖ kartā | kaḫ pāti || </p>
+
+                    <p xml:id="BB-1.1.9-2" style="stream1">mūrtiḥ kṣīṇā ga<lb n="17"/>ti<g
+                            ref="#sharada-separator"/>ẖ kaṣṭā bhītiḫ pūrṇā<g
+                            ref="#sharada-separator"/> hariṃ smara<g ref="#sharada-separator"/>
+                        ityādāv a<g ref="#sharada-separator"/>savarṇe ikārasya yatvaṃ prāptaṃ <lb
+                            n="18"/>visarjanīyādīnāṃ vyañjanatvān nāsti vyañjane sandhiniṣedhasya
+                            vakṣyamāna<pb facs="pdf p.11 left" n="4v"/><lb n="1"/>tvāt <space
+                            type="pause"/> anusvārasya <add place="above">ca</add> vyañjanatvā<space
+                            type="pause"/><space type="pause"/>d bhinnajātīyais svarair avyavahitāni
+                            vyañjanā<lb n="2"/>ni saṃyoga<g ref="#sharada-separator"/> ity
+                        anusvārasakārasamudāye saṃyoge pare<g ref="#sharada-separator"/> hiṃsety
+                            atre<g ref="#sharada-separator"/>kāra<lb n="3"/>sya<g
+                            ref="#sharada-separator"/> gurutvād guroś ca niṣṭhāyām ity apratyayaḥ
+                        |</p>
+
+                    <p xml:id="BB-1.1.9-3" style="stream1">ihāpy upalakṣaṇabhūtasya <lb n="4"
+                        />kakārasyāpi prāgvat saṃjñā ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.10">
+                        <hi rend="rubricated">|| te vargāḥ pañca pañcaśaḥ ||</hi></l>
+
+                    <p xml:id="BB-1.1.10" style="stream1">yan mukhaṃ sa <lb n="5"/>candra itivad
+                        rūpakāśrayaṇena kādīnīty asya te vargā ity anena bhinnaliṅge<lb n="6"/>nāpy
+                        anvayaḥ yāni kādīni te pañca vargāḥ pañcaśaḥ pañcabhiḥ pañcabhir a<lb n="7"
+                        />kṣarair veditavyāḥ <space type="pause"/> prāthamyāt prādhānyāc ca
+                        kacataṭapair vargāṇāṃ vyapadeśaḥ <lb n="8"/>ka kha ga gha ṅa kavargaḥ <space
+                            type="pause"/> ca cha ja jha ña cavargaḥ <space type="pause"/> ṭa ṭha ḍa
+                        ḍha ṇa ṭavargaḥ <lb n="9"/>ta tha da dha na tavargaḥ <space type="pause"/>
+                        pa pha ba bha ma pavargaḥ prayojanaṃ vargye vargāntaḥ | yantā ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.11"><lb n="10"/>|| <hi rend="rubricated"
+                            >vargāṇāṃ prathamadvitīyāś śaṣasāś cāghoṣāḥ ||</hi></l>
+
+                    <p xml:id="BB-1.1.11" style="stream1">|| vargāṇāṃ ye prathama<lb n="11"/>s tathā
+                        dvitīyāś śaṣasāś ca te aghoṣasaṃjñā bhavanti ka kha ca cha ṭa ṭha ta tha <lb
+                            n="12"/>pa pha śa ṣa sa prayojanaṃ aghoṣe prathama ityādi | dṛṣatkalpa
+                        icchā sa<lb n="13"/>mitsu || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.12"><hi rend="rubricated">|| ghoṣavanto 'nye
+                            ||</hi></l>
+
+                    <p xml:id="BB-1.1.12-1" style="stream1">aghoṣā iti pañcamyantaṃ sambadhyate
+                            aghoṣe<lb n="14"/>bhyo ye nye vyañjanasaṃjñakā varṇās te ghoṣavatsaṃjñā
+                        bhavanti ga gha ṅa ja <lb n="15"/>jha ña ḍa ḍha ṇa da dha na ba bha ma ya ra
+                        la va ha <space type="pause"/> prayojanaṃ, akāro dīrgham ityā<lb n="16"/>di
+                        devābhyām ||</p>
+
+                    <p xml:id="BB-1.1.12-2" style="stream1">visarjanīyasya saty api vyañjanatve
+                        varṇasamāmnāya i<lb n="17"/>ti jñāpakād ghoṣavatsaṃjñā nāsti || yady api
+                        syāt | akāro dīrgham iti <lb n="18"/>dīrghas syāt ||
+                        jihvāmūlīyayopadhmānīyayor api bahiraṅgatvena || asi<pb
+                            facs="pdf p.11 right" n="5r"/><lb n="1"/>ddhaṃ bahiraṅgam antaraṅge ity
+                        asiddhatvāt || anusvārasya ca prayojanā'bhāvā<lb n="2"/>t | na hy
+                            anusvārādi<pc> </pc>vibhaktir asti || yasyāṃ dīrghas syāt || </p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.13">||<hi rend="rubricated">anunāsikā ṅa<lb
+                                n="3"/>ñaṇanamāḥ</hi> ||</l>
+
+
+                </div>
+                <!-- end of Pāda 1 -->
+            </div>
+        </body>
+    </text>
+</TEI>
