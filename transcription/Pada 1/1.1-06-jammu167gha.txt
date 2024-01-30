@@ -443,6 +443,25 @@
                     <l style="sūtra" xml:id="KS-1.1.13"><hi rend="rubricated">anunāsikā ṅañaṇanamāḥ
                                 <space type="pause"/></hi></l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanama<pc> </pc>varṇṇā
+                        anunāsikasaṃjñā bhavaṃti <space type="pause"/> prayojana<lb n="8"/>m ato ṃto
+                        nusvāro nunāsikāṃtasyetyādi <space type="pause"/> baṃbaṇyate <space
+                            type="pause"/> taṃta<subst><del>ṇya</del><add place="above"
+                            >nya</add></subst>te <space type="pause"/> caṃkramyate <space
+                            type="pause"/> yaṃyamyate <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvāt
+                            prā<lb n="9"/>ṅbhyām_ ity atra <space type="pause"/> dhuṭāṃ tṛtīyo nāsti
+                            <space type="pause"/> yācñā yajña ityādau cajoẖ kagau dhuḍ
+                        ghānubaṃdhayor iti cajoḥ kagau na bhavataḥ <space type="pause"/> anugato
+                            nāsikā<pb facs="pdf p.12" n="5v"/><lb n="1"/>m anunāsika iti
+                            saṃjñārthaparyālocanayā<pc> </pc>nunāsikyasyānusvārasyāpy anunāsikatvād
+                        asati dhuṭtve araṃstetyādau sijlopābhāvaḥ </p>
+                    
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><lb n="2"/>aṃtasthā yaralavāḥ <space
+                            type="pause"/></l>
+
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

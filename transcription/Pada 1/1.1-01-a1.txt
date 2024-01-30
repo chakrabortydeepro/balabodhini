@@ -2568,12 +2568,12 @@
 
                     <ab corresp="#BB-1.1.11" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.11-t">Those which are the first and second sounds
+                            <item corresp="#BB-1.1.11-t">Those sounds which are the first and second
                                 of the classes of stops as well as <foreign>ś</foreign>,
                                     <foreign>ṣ</foreign> and <foreign>s</foreign> are termed
                                 voiceless (<foreign>aghoṣa</foreign>): <foreign>k, kh, c, ch, ṭ, ṭh,
                                     t, th, p, ph, ś, ṣ</foreign> and <foreign>s</foreign>. The
-                                application is in rules like <foreign><hi>aghoṣe prathama
+                                application is in rules like <foreign><hi>aghoṣe prathamaḥ
                                         (2.3.61)</hi></foreign> “when an obstruent
                                     (<foreign>dhuṭ</foreign>) is followed by a voiceless sound
                                     (<foreign>aghoṣa</foreign>) of a suffix, it turns into the first
@@ -2702,7 +2702,7 @@
 
                     <!-- nyāsa -->
 
-                    <p xml:id="BBP-1.1.12-1" style="stream2"><label>BBP 1.1.10</label>ghoṣo vidyate
+                    <p xml:id="BBP-1.1.12-1" style="stream2"><label>BBP 1.1.12</label>ghoṣo vidyate
                         yeṣām iti | tad asyāstīti mantvādyā iti saṃsaṅge vantuḥ | yat tu pañcikādau
                         atiśāyane vantur uktas tan na ghaṭate, saṃsaṅga eva vantor ucitatvāt | yathā
                         rūpavān paṭa iti ghoṣo hi varṇadharmaḥ | anyaśabdāj jas | jas sarva īm |
@@ -2746,9 +2746,46 @@
                         pṛthag yogārambhāt | aghoṣaghoṣavatsaṃjñayoś caikavarṇaviṣayatvena
                         viruddhatvāt | svarāṇāṃ cāpy eṣā saṃjñā na bhavati, aprastutatvāt || </p>
 
-                    <l style="sūtra" xml:id="KS-1.1.13"> ||1.1.13|| anunāsikā ṅañaṇanamāḥ ||</l>
+                    <!-- Sūtra -->
 
-                    <l style="sūtra" xml:id="KS-1.1.14"> ||1.1.14|| antaḥsthā yaralavāḥ ||</l>
+                    <l style="sūtra" xml:id="KS-1.1.13">
+                        <hi>anunāsikā ṅañaṇanamāḥ ||1.1.13||</hi>
+                    </l>
+
+                    <!-- Nyāsa -->
+
+                    <p xml:id="BBP-1.1.13-1" style="stream2"><label>BBP 1.1.13</label>ṇasa kauṭilye
+                        | nasata iti vuṇtṛcāv iti vuṇ | yad vā, ṇāsṛśabde dantyāntaḥ | nāsate śabdaṃ
+                        karotīti vuṇ | akādeśaḥ | upadhādīrghaḥ | āp | ke pratyaya itītvam | anugatā
+                        nāsikā yeṣv iti vigrahaḥ | svaro hrasva iti yogavibhāgān nāsikāśabdasya
+                        hrasvaḥ | yad vā, anuśado mukhāpekṣayā paścādarthe | anu paścān nāsikā
+                        sthānam uccāraṇaṃ yeṣām ity anunāsikāḥ | pūrvaṃ mukhasthānam uccāraṇaṃ
+                        paścān nāsikāsthānam |</p>
+
+                    <p xml:id="BBP-1.1.13-2" style="stream2">bambhaṇyata ityādi | etad ato 'nta ity
+                        atra sādhayiṣyatīti na sādhyate | evam anyatrāpi jñeyam |</p>
+
+                    <p xml:id="BBP-1.1.13-3" style="stream2">sūtre ṇanamā eva nirdeṣṭum ucitāḥ, na
+                        tu ṅañau prayojanādarśanād iti nety āha, ṅañayor ityādi | prāṅbhyām ity
+                        atreti | prapūrvaḥ anca gati prakarṣeṇāñcati pūjayatīti kvip | akkrāncer iti
+                        niṣedhārambhasāmarthyād anidanubandhānām ity anuṣaṅgalopo na bhavati | bhyām
+                        | saṃyogāntalopo na bhavati | tiryaṅṅ ityādinirdeśāt | tena cavargadṛgādīnāṃ
+                        ceti casya gatve vargye vargānta iti nasya ṅakāre vargānte ca kṛte
+                        saṃyogāntasya lopaḥ | vargānte kṛte dhuṭāṃ tṛtīya iti gasya tṛtīyābhāvaḥ |
+                        ṅakārasyānunāsikatvena dhuḍvyañjanam ity anena dhuṭtvābhāvāt | anyathā so
+                        'pi syāt | ñakārodāharaṇam āha | yācñetyādi | yāca yā | yaja de | tavargaś
+                        ca ṭavargeti vargānto ñakāraḥ | anunāsikatvena ñakārasya dhuḍvyañjanam ity
+                        anena dhuṭtvābhāvāc cajoẖ kagāv ity anena prāptayoḥ kakāragakārayor abhāvaḥ
+                        | nanu cavargasya kir asavarṇa iti niṣedhasāmarthyāc cajoẖ kagāv ity anena
+                        katvaṃ na bhaviṣyatīti cet satyaṃ | ya evaṃ vijñātuṃ na śaknoti tam uddiśya
+                        katvābhāvaḥ | prayojanāyopanyāsīti na kaścid doṣaḥ |</p>
+
+                    <p xml:id="BBP-1.1.13-4" style="stream2"> nāsikyasyeti | nāsikāyāṃ bhava iti yaḥ
+                        | araṃstetyādāv iti ramu krīḍāyām | adyatanī ta | aḍāgamaḥ | sic | dhuṭaś ca
+                        dhuṭīti sico lopo na bhavati || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
+                            ||</hi></l>
 
                     <l style="sūtra" xml:id="KS-1.1.15"> ||1.1.15|| ūṣmāṇāḥ śaṣasahāḥ ||</l>
 

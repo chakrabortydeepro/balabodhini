@@ -2202,8 +2202,55 @@
                             type="pause"/> svarāṇāṃ cāpy eṣā saṃjñā na bhavati <space type="pause"/>
                         aprastutatvāt || </p>
 
-                    <l style="sūtra" xml:id="KS-1.1.13">|| <hi rend="rubricated">anunāsikā
-                            ṅañaṇanamāḥ ||</hi></l>
+                    <l style="sūtra" xml:id="KS-1.1.13">|| anunāsikā ṅañaṇanamāḥ ||</l>
+
+                    <p xml:id="BBP-1.1.13-1" style="stream2"> ṇasa kau<lb n="10"/>ṭilye <space
+                            type="pause"/> nasata iti vuṇtṛcāv iti vuṇ <space type="pause"/> yad vā
+                            <space type="pause"/> ṇāsṛśabde dantyāntaḥ <lb n="11"/>nāsate śabdaṃ
+                        karotīti vuṇ <space type="pause"/> akādeśaḥ <space type="pause"/>
+                        upadhādīrghaḥ <space type="pause"/> āp <space type="pause"/> ke <lb n="12"
+                        />pratyaya itītvam <space type="pause"/> anugatā nāsikā yeṣv iti vigrahaḥ
+                            <space type="pause"/> svaro hra<lb n="13"/>sva iti yogavibhāgān
+                        nāsikāśabdasya hrasvaḥ <space type="pause"/> yad vā <space type="pause"/>
+                        anuśabdo <lb n="14"/>mukhāpekṣayā paścādarthe <space type="pause"/> anu
+                        paścān nāsikāsthānam uccāraṇaṃ <lb n="15"/>yeṣām ity anunāsikāḥ <space
+                            type="pause"/> pūrvaṃ mukhasthānam uccāraṇaṃ paścān nāsi<lb n="16"
+                        />kāsthānam _</p>
+
+                    <p xml:id="BBP-1.1.13-2" style="stream2">bambhaṇyata ityādi <space type="pause"
+                        /> etad ato nta ity atra sādhayiṣyatī<lb n="17"/>ti na sādhyate <space
+                            type="pause"/> evam anyatrāpi jñeyaṃ <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.13-3" style="stream2">sūtre ṇanamā eva nirdeṣṭu<lb n="18"/>m
+                        ucitaḥ <space type="pause"/> na tu nañau prayojanādarśanād iti nety āha
+                            <space type="pause"/> ṅañayo<lb n="19"/>r ityādi <space type="pause"/>
+                        prāṅbhyām ity atreti <space type="pause"/> prapūrvaḥ anca gati
+                            prakarṣeṇāñca<lb n="20"/>ti <space type="pause"/> pūjayatīti kvip <space
+                            type="pause"/> akruncer iti niṣedhārambhasāmarthyā<lb n="21"/>d
+                        anidanubandhanām ity anuṣaṅgalopo na bhavati <space type="pause"/> bhyām
+                            <space type="pause"/> saṃyogānta<lb n="22"/>lopo na bhavati <space
+                            type="pause"/> tiryaṅṅ ityādinirdeśāt <space type="pause"/> tena
+                        cavargadṛgādīnāṃ <lb n="23"/>ceti <space type="pause"/> casya gatve <space
+                            type="pause"/> vargye vargānta iti nasya ṅakāre vargānte ca kṛte <lb
+                            n="24"/>saṃyogāntasya lopaḥ <space type="pause"/> vargānte kṛte dhuṭāṃ
+                        tṛtīya iti gasya tṛtī<lb n="25"/>yasyābhāvaḥ <space type="pause"/>
+                        ṅakārasyānunāsikatvena dhuḍvyañjanam ity anena <pb facs="pdf p.33" n="16v"
+                            /><lb n="1"/>dhuṭtvābhāvāt <space type="pause"/> anyathā so pi syāt |
+                        ñakārodāharaṇam āha <space type="pause"/> yācñetyādi | <lb n="2"/>yāca yā |
+                        yaja de | tavargaś ca ṭavargeti vargānto ñakāraḥ <space type="pause"/>
+                            anunāsikatve<lb n="3"/>na ñakārasya dhuḍvyañjanam ity anena
+                        dhuṭtvābhāvāc cajoẖ kagāv ity anena prāptayoḥ <lb n="4"/>kakāragakārayor
+                        abhāvaḥ | nanu cavargasya kir asavarṇe iti niṣedhasā<lb n="5"/>marthyāc
+                        cajocchāgāv ity anena katvaṃ na bhaviṣyatīti cet satyaṃ ya evaṃ vijñātuṃ <lb
+                            n="6"/>na śaknoti tam uddiśya katvābhāvaḥ <space type="pause"/>
+                        prayojanāyopanyāsīti na kaścid do<lb n="7"/>ṣaḥ <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.13-4" style="stream2"> nāsikyasyeti nāsikāyāṃ bhavaḥ iti yaḥ
+                            <space type="pause"/> araṃstetyādāv iti | rama <lb n="8"/>krī | adyatanī
+                        ta | aḍāgamaḥ <space type="pause"/> sic | dhuṭaś ca dhuṭīti sico lopo na
+                            bha<lb n="9"/>vati || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"> antasthā yaralavāḥ ||</l>
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

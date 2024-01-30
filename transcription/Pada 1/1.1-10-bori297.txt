@@ -345,6 +345,22 @@
 
                     <l style="sūtra" xml:id="KS-1.1.13"><lb n="12"/>anunāsikā ṅañaṇanamāḥ ||</l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">|| ṅañaṇanamā varṇā anunā<lb n="13"
+                        />sikasaṃjñā bhavanti | ṅa ña ṇa na ma <space type="pause"
+                        />anunāsikasaṃjñayā prayo|<lb n="14"/><gap reason="damage" unit="char"
+                            extent="1"/>naṃ ato nto nusvāro nunāsikāntasyetyādi || bambhaṇyate
+                            tantanyate<lb n="15"/><gap reason="damage"/>myate | </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatve dhuṭtvābhāvāt
+                        prāṅbhyām ity atra dhuṭāṃ tṛ<lb n="16"/>tīya iti tṛtīyo nāsti | yācñā yajña
+                        ityādau cajoẖ kagau dhuḍ ghā<lb n="17"/>nubandhayor iti cajoẖ kagau na
+                        bhavataḥ || anugato nāsikām anunā<lb n="18"/>sika iti
+                        saṃjñārthaparyālocanayā nāsikyasyānusvārasyānunā<lb n="19"/>sikatvād asati
+                        dhuṭtve araṃstetyādau dhuṭaś ca dhuṭīti sijlopābhā<gap reason="damage"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><pb n="5v"/><lb n="1"/>antasthā yaralavāḥ
+                        ||</l>
+
 
                 </div>
                 <!-- end of pāda 1 -->

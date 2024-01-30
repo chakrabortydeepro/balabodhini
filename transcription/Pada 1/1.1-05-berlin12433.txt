@@ -3044,13 +3044,13 @@
                             n="1"/>ti tayor ghoṣavatsaṃjñā na bhavatīti <space type="pause"/> ata
                         eva vṛttikṛtā vyañjanasaṃjñakā varṇā <lb n="2"/>ity uktam <space
                             type="pause"/> varṇasthānitayā tv anayor varṇavyapadeśo gauṇaḥ <space
-                            type="pause"/></p> 
-                    
-                    <p xml:id="BBP-1.1.12-5" style="stream2">yathānusvārasya gho<lb n="3"/>ṣavadvyapadeśe
-                        prayojanābhāvān neyaṃ saṃjñety āha <space type="pause"/> anusvārasya cetyādi
-                            <space type="pause"/> prayo<lb n="4"/>janābhāvam eva prakaṭayati <space
-                            type="pause"/> na hītyādi <space type="pause"/> vastutaḥ <space
-                            type="pause"/> anyagrahaṇaṃ sukhārtham <lb n="5"/> na
+                            type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.12-5" style="stream2">yathānusvārasya gho<lb n="3"
+                        />ṣavadvyapadeśe prayojanābhāvān neyaṃ saṃjñety āha <space type="pause"/>
+                        anusvārasya cetyādi <space type="pause"/> prayo<lb n="4"/>janābhāvam eva
+                        prakaṭayati <space type="pause"/> na hītyādi <space type="pause"/> vastutaḥ
+                            <space type="pause"/> anyagrahaṇaṃ sukhārtham <lb n="5"/> na
                             cānantarāṇā<del>ṃ</del>m aghoṣāṇām evaiṣā saṃjñā syād iti vācyam <space
                             type="pause"/> pṛthag yogā<lb n="6"/>rambhāt <space type="pause"/>
                         aghoṣaghoṣavatsaṃjñayoś caikavarṇaviṣayatvena viruddhatvāt <space
@@ -3059,6 +3059,58 @@
 
                     <l style="sūtra" xml:id="KS-1.1.13">|| <hi rend="rubricated">anunāsikā ṅaña<lb
                                 n="8"/>ṇanamāḥ ||</hi></l>
+
+                    <p xml:id="BBP-1.1.13-1" style="stream2">|| ṇasa kauṭilye nasata iti vuṇtṛcāv
+                        iti vuṇ <space type="pause"/> yad vā <lb n="9"/><add place="left"
+                        >nā</add>sṛśabde dantyāntaḥ <space type="pause"/> nāsate śabdaṃ karotīti vuṇ
+                            <space type="pause"/> akā<del>rā</del>deśaḥ <space type="pause"/>
+                            upadhādī<lb n="10"/>rghaḥ <space type="pause"/> āp <space type="pause"/>
+                        ke pratyaya iti itvam <space type="pause"/> anugatā nāsikā yeṣv iti vigrahaḥ
+                            <space type="pause"/> sva<lb n="11"/>ro hrasva iti yogavibhāgān
+                        nāsikāśabdasya hrasvaḥ <space type="pause"/> yad vā anuśabdo mukhā<lb n="12"
+                        />pekṣayā paścādarthe <space type="pause"/> anu paścān nāsikāsthānam
+                        uccāraṇaṃ yeṣām ity anunāsi<lb n="13"/>kāḥ <space type="pause"/> pūrvaṃ
+                        mukhasthānam uccāraṇaṃ paścā nāsikāsthānam <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.13-2" style="stream2">bambhaṇyata ityādi <lb n="14"/>etad ato
+                        nta ity atra sādhayiṣyatīti na sādhyate evam anyatrāpi jñeyaṃ <space
+                            type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.13-3" style="stream2">sūtre ṇanamā <lb n="15"/>eva nirdeṣṭum
+                        ucitāḥ <space type="pause"/> na tu nañau prayojanādarśanād iti <space
+                            type="pause"/> nety āha <space type="pause"/>ṅañayo<lb n="16"/>r ityādi
+                            <space type="pause"/> prāṅbhyām ity atra prapūrvaḥ anca gati
+                        prakarṣeṇāñcati pūjayatīti <lb n="17"/>kvip <space type="pause"/> akruncer
+                        iti niṣedhārambhasāmarthyād anidanubandhānām ity anuṣaṅga<lb n="18"/>lopo na
+                        bhavatīti bhyām <space type="pause"/> saṃyogāntalopo na bhavati <space
+                            type="pause"/> tiryaṅṅ ityādinirdeśāt <lb n="19"/>tena cavargadṛgādīnāṃ
+                        ceti <space type="pause"/> casya gatve <space type="pause"/> vargye vargānta
+                        iti nasya<del unit="char" extent="1"/><add place="right-margin">ṅakāre
+                            vargānte</add> kṛte vargā<lb n="20"/>nte ca saṃyogā<add
+                            place="left-margin">nta</add>sya lopaḥ <space type="pause"/> vargānte
+                        kṛte dhuṭāṃ tṛtīya iti gasya tṛtīyābhāvaḥ <space type="pause"/> ṅa<lb n="21"
+                        />kārasyānunāsikatvena dhuḍvyañjam ity anena dhuṭtvābhāvāt <space
+                            type="pause"/> anyathā so pi syā<lb n="22"/>t <space type="pause"/>
+                        ñakārodāharaṇam āha <space type="pause"/> yācñetyādi <space type="pause"/>
+                        yāca yā <space type="pause"/> yaja de <space type="pause"/> tavargaś ca ṭa<lb
+                            n="23"/>vargeti vargānto ñakāraḥ <space type="pause"/> anunāsikatvena
+                        ñakārasya dhuḍvyañjanam ity anena dhu<lb n="24"/>ṭtvābhāvāc cajoḥ vargāv ity
+                        anena prāptayoḥ kakāragakārayor abhāvaḥ <space type="pause"/> nanu ca<lb
+                            n="25"/>vargasya kir asavarṇe iti niṣedhasāmarthyāc cajoẖ kagāv ity
+                        anena katvaṃ na bhavi<lb n="26"/>ṣyatīti cet satyaṃ <space type="pause"/> ya
+                        evaṃ vijñātuṃ na śaknoti tam uddiśya katvābhāvaḥ <space type="pause"/>
+                            prayoja<lb n="27"/>nā<del>bhāva</del>yopanyāsīti na kaścid doṣaḥ <space
+                            type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.13-4" style="stream2">nāsikyasyeti <space type="pause"/>
+                        nāsikāyāṃ bhavaḥ <lb n="28"/>iti yaḥ <space type="pause"/>
+                                araṃstetyād<subst><del>au</del><add>ā</add></subst>v iti ramu
+                        krīḍāyām <space type="pause"/> adyatanī ta <space type="pause"/> aḍāgamaḥ
+                            <space type="pause"/> si<lb n="29"/>c <space type="pause"/> dhuṭaś ca
+                        dhuṭīti sico lopo na bhavati || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
+                            ||</hi></l>
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

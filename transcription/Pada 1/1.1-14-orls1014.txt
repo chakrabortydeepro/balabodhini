@@ -1057,6 +1057,58 @@
 
 
 
+
+                    <l style="sūtra" xml:id="KS-1.1.13">|| <hi rend="rubricated">anunāsikā ||
+                            ||</hi></l>
+
+                    <p xml:id="BBP-1.1.13-1" style="stream2"><pb facs="pdf p.20 right" n="19r"/><lb
+                            n="1"/>ṇasa kauṭilye <space type="pause"/> nasata iti vuṇtṛcāv iti vuṇ
+                            <space type="pause"/> yad vā <space type="pause"/> ṇāsṛśabde dantyāntaḥ
+                            <lb n="2"/>nāsate śabdaṃ karotīti vuṇ <space type="pause"/> akādeśaḥ
+                            <space type="pause"/> upadhādīrghaḥ <space type="pause"/> āp <space
+                            type="pause"/> ke pratyaya i<lb n="3"/>tītvaṃ | anugatā nāsikā yeṣv iti
+                        vigrahaḥ | svaro hrasva iti yogavibhāgā<lb n="4"/>n nāsikāśabdasya hrasvaḥ
+                            <space type="pause"/> yad vā <space type="pause"/> anuśabdo mukhāpekṣayā
+                        paścādarthe | a<lb n="5"/>nu paścān nāsikāsthānam uccāraṇaṃ yeṣām ity
+                        anunāsikāḥ <space type="pause"/> pūrvaṃ mukha<lb n="6"/>sthānam uccāraṇaṃ
+                        paścān nāsikāsthānam |</p>
+
+                    <p xml:id="BBP-1.1.13-2" style="stream2">bambhaṇyate ityādi | etad ato nta i<lb
+                            n="7"/>ty atra sādhayiṣyatīti na sādhyate | evam anyatrāpi jñeyam |</p>
+
+                    <p xml:id="BBP-1.1.13-3" style="stream2">sūtre ṇanamā e<lb n="8"/>va nirdiṣṭum
+                        ucitāḥ | na tu nañau <space type="pause"/> prayojanādarśanād iti nety āha |
+                            nañayo<lb n="9"/>r ityādi <space type="pause"/> prāṅbhyām ity atreti |
+                        prapūrvaḥ ancu gati pū prakarṣeṇāñcati pūja<lb n="10"/>tīti kvip <space
+                            type="pause"/> akruncer iti niṣedhārambhasāmarthyād anidanubandhānām ity
+                            anu<lb n="11"/>ṣaṅgalopo na bhavati <space type="pause"/> bhyām <space
+                            type="pause"/> soyāgāntalopo na bhavati <space type="pause"/> tiryaṅṅ
+                            ityādinirdeśā<lb n="12"/>t <space type="pause"/> tena cavargadṛgādīnāṃ
+                        ceti casya gatve vargye vargānta iti nasya ṅakāre vargā<lb n="13"/>nte ca
+                        kṛte saṃyogāntasya lopaḥ <space type="pause"/> vargānte kṛte dhuṭāṃ tṛtīya
+                        iti ṅasya sthāne <lb n="14"/>gasya tṛtīyābhāvaḥ | ṅakārasyānunāsikatvena
+                        dhuḍvyañjanam ity anena dhuṭtvābhāvā<lb n="15"/>t | anyathā so pi syāt
+                            <space type="pause"/> ñakārodāharaṇam āha <space type="pause"/>
+                        <del unit="char" extent="5"/> yā<subst><del>ñce</del><add
+                                place="left-margin">cñe</add></subst>tyādi | yācṛ yā | yaja de |
+                        tavargaś ca ṭavargeti vargānto ñakāraḥ | anu<lb n="6"/>nāsikatvena ñakārasya
+                        dhuḍvyañjanam ity anena dhuṭtvā'bhāvāc cajoẖ ka<lb n="7"/>gāv ity anena
+                        prāptayoḥ kakāragakārayor abhāvaḥ | nanu cavargasya kir asa<lb n="8"/>varṇa
+                        iti niṣedhasāmarthyāc cajoẖ kagāv ity anena katvaṃ na bhaviṣyatīti <lb n="9"
+                        />cet satyaṃ | ya evaṃ vaktuṃ na śaknoti <space type="pause"/> tam uddiśya
+                        katvābhāvaḥ <space type="pause"/> prayojanāyopanyā<lb n="10"/>sīti na kaścid
+                        doṣaḥ |</p>
+
+                    <p xml:id="BBP-1.1.13-4" style="stream2"> nāsikyasyeti | nāsikāyāṃ bhava iti yaḥ
+                            a<lb n="11"/>raṃstetyādāv iti <space type="pause"/> ramu krīḍā <space
+                            type="pause"/> adyatanī ta <space type="pause"/> addhātvādiḥ <space
+                            type="pause"/> sic <lb n="12"/>dhuṭaś ca dhuṭīti sico lopo na bhavati || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā
+                        ||</hi></l>
+
+
+
                 </div>
                 <!-- end of chapter 1 of book 1-->
             </div>

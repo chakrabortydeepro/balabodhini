@@ -619,11 +619,11 @@
 
                     <p xml:id="BB-1.1.12-1" style="stream1">aghoṣā iti pañcamyantaṃ sambadhyate
                             <space type="pause"/> aghoṣebhyo <lb n="2"/>ye nye vyañjanasaṃjñakā
-                        varṇās te ghoṣavatsaṃjñā bhavanti <space type="pause"/> ga gha ṅa <lb n="3"/>ja
-                        jha ña <space type="pause"/> ḍa ḍha ṇa <space type="pause"/> da dha na ba
-                        bha ma ya ra la va ha <space type="pause"/> prayojanaṃ <space type="pause"/>
-                            akā<lb n="4"/>ro dīrghaṃ ghoṣavatītyādi <space type="pause"/> devābhyām
-                            <space type="pause"/></p>
+                        varṇās te ghoṣavatsaṃjñā bhavanti <space type="pause"/> ga gha ṅa <lb n="3"
+                        />ja jha ña <space type="pause"/> ḍa ḍha ṇa <space type="pause"/> da dha na
+                        ba bha ma ya ra la va ha <space type="pause"/> prayojanaṃ <space
+                            type="pause"/> akā<lb n="4"/>ro dīrghaṃ ghoṣavatītyādi <space
+                            type="pause"/> devābhyām <space type="pause"/></p>
 
                     <p xml:id="BB-1.1.12-2" style="stream1">visarjanīyasya saty a<lb n="5"/>pi
                         vyañjanatve varṇasamāmnāya iti jñāpakād ghoṣavatsaṃjñā nā<lb n="6"/>sti |
@@ -636,6 +636,23 @@
 
                     <l style="sūtra" xml:id="KS-1.1.13"><hi rend="rubricated">anunā<lb n="10"/>sikā
                             ṅañaṇanamāḥ ||</hi></l>
+
+                    <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanamā varṇā anunāsika<lb n="11"
+                        />saṃjñā bhavanti <space type="pause"/> prayojanam ato nto nusvāro
+                            nunāsikāntasye<lb n="12"/>tyādi <space type="pause"/> bambhaṇyate <space
+                            type="pause"/> tantanyate <space type="pause"/> yaṃyamyate || </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1"><hi rend="rubricated">ṅañayor
+                            anunāsika</hi><lb n="13"/>tve dhuṭtvābhāvāt prāṅbhyām ity atra dhuṭāṃ
+                        tṛtīyo nāsti | yācñā <lb n="14"/>yajña ityādau cajoẖ kagau dhuḍ
+                        ghānubandhayor iti kagau na <lb n="15"/>bhavataḥ <space type="pause"/>
+                        <hi rend="rubricated">anugato nāsikām anunāsika iti</hi> saṃjñārtha<pb
+                            facs="pdf p.8 right" n="7r"/><lb n="1"/>paryālocanayā
+                            nāsikyasyā'nusvārasyā'nunāsi<lb n="2"/>katvād asati dhuṭtve
+                        'raṃstetyādau sijjopābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">antasthā yaralavāḥ
+                            ||</hi></l>
 
                 </div>
                 <!-- end of Chapter 1 of Book 1 -->

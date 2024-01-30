@@ -576,10 +576,10 @@
                     <p xml:id="BB-1.1.13-2" style="stream1"><lb n="4"/>ṅañayor anunāsikatve<g
                             ref="#sharada-separator"/> dhuṭtvābhāvā<g ref="#sharada-separator"/>t
                         praṅbhyām ity atra <lb n="5"/>dhuṭāṃ tṛtīyo nāsti | yācñā yajña ityādau,
-                        cajoẖ ka<lb n="6"/>gau dhuḍghānubandhayor iti | kagau na bhavataḥ <space
+                        cajoẖ ka<lb n="6"/>gau dhuḍ ghānubandhayor iti | kagau na bhavataḥ <space
                             type="pause"/> anugato <lb n="7"/>nāsikām anunāsika iti |
                             saṃjñārthaparyālocana<lb n="8"/>yā nāsikyasyā'nusvārasyāpy
-                        a'nunāsikatvād a'sa<lb n="9"/>dhuṭtve raṃstetyādau, sijlopābhāvaḥ || </p>
+                        a'nunāsikatvād a'sa<lb n="9"/>ti dhuṭtve raṃstetyādau, sijlopābhāvaḥ || </p>
 
 
                     <l style="sūtra" xml:id="KS-1.1.14">
