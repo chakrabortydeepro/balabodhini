@@ -645,7 +645,9 @@
                     <p xml:id="BB-1.1.13-2" style="stream1"><hi rend="rubricated">ṅañayor
                             anunāsika</hi><lb n="13"/>tve dhuṭtvābhāvāt prāṅbhyām ity atra dhuṭāṃ
                         tṛtīyo nāsti | yācñā <lb n="14"/>yajña ityādau cajoẖ kagau dhuḍ
-                        ghānubandhayor iti kagau na <lb n="15"/>bhavataḥ <space type="pause"/>
+                        ghānubandhayor iti kagau na <lb n="15"/>bhavataḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">
                         <hi rend="rubricated">anugato nāsikām anunāsika iti</hi> saṃjñārtha<pb
                             facs="pdf p.8 right" n="7r"/><lb n="1"/>paryālocanayā
                             nāsikyasyā'nusvārasyā'nunāsi<lb n="2"/>katvād asati dhuṭtve

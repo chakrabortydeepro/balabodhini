@@ -453,11 +453,13 @@
                     <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvāt
                             prā<lb n="9"/>ṅbhyām_ ity atra <space type="pause"/> dhuṭāṃ tṛtīyo nāsti
                             <space type="pause"/> yācñā yajña ityādau cajoẖ kagau dhuḍ
-                        ghānubaṃdhayor iti cajoḥ kagau na bhavataḥ <space type="pause"/> anugato
-                            nāsikā<pb facs="pdf p.12" n="5v"/><lb n="1"/>m anunāsika iti
-                            saṃjñārthaparyālocanayā<pc> </pc>nunāsikyasyānusvārasyāpy anunāsikatvād
-                        asati dhuṭtve araṃstetyādau sijlopābhāvaḥ </p>
-                    
+                        ghānubaṃdhayor iti cajoḥ kagau na bhavataḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikā<pb facs="pdf p.12" n="5v"
+                            /><lb n="1"/>m anunāsika iti saṃjñārthaparyālocanayā<pc
+                        > </pc>nunāsikyasyānusvārasyāpy anunāsikatvād asati dhuṭtve araṃstetyādau
+                        sijlopābhāvaḥ </p>
+
 
                     <l style="sūtra" xml:id="KS-1.1.14"><lb n="2"/>aṃtasthā yaralavāḥ <space
                             type="pause"/></l>

@@ -645,6 +645,30 @@
                     <l style="sūtra" xml:id="KS-1.1.13">||<hi rend="rubricated">anunāsikā ṅa<lb
                                 n="3"/>ñaṇanamāḥ</hi> ||</l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanamā varṇāḥ anunāsikasaṃjñā
+                        bhavanti prayo<lb ana="4"/>janam a<g ref="#sharada-separator"/>'to nto
+                        nusvāro nunāsikāntasyetyādi | bambhaṇyate | tantanyate | caṅkramya<lb n="5"
+                        />te | yaṃyamyate || </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena<g
+                            ref="#sharada-separator"/> dhuṭtvā<g ref="#sharada-separator"/>bhāvāt <g
+                            ref="#sharada-separator"/> prāṅbhyām ity atra<g ref="#sharada-separator"
+                            /><g ref="#sharada-separator"/> dhuṭāṃ tṛ<lb n="6"/>tīyo nāsti || yācñā
+                            yajña<g ref="#sharada-separator"/> ityādau<g ref="#sharada-separator"
+                            /><g ref="#sharada-separator"/> cajoẖ kagau dhuḍ ghānubandhayor iti<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/> cajo<lb n="7"/>ẖ
+                        kagau na bhavataḥ ||</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām a'nunāsika<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/> iti
+                            saṃjñārthaparyāloca<lb n="8"/>nayā<g ref="#sharada-separator"/>
+                        <del>nu</del>nāsikyasyā'nusvārasyāpy anunāsikatvād a<g
+                            ref="#sharada-separator"/>'sati dhuṭtve<g ref="#sharada-separator"/>
+                            araṃste<g ref="#sharada-separator"/><lb n="9"/>tyādau sijlopābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
+                            ||</hi></l>
+
 
                 </div>
                 <!-- end of Pāda 1 -->

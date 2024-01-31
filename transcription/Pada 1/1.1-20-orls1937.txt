@@ -346,6 +346,16 @@
 
                     <l style="sūtra" xml:id="KS-1.1.13"/>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1"/>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1"/>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1"/>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"/>
+                                       
+
+
 
                 </div>
                 <!-- end of Pāda 1 -->

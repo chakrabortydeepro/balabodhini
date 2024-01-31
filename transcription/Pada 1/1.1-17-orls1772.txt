@@ -645,6 +645,25 @@
                     <l style="sūtra" xml:id="KS-1.1.13"><hi rend="rubricated">anunāsikā ṅañaṇa<lb
                                 n="4"/>namāḥ ||</hi></l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanamā varṇā anunāsikasaṃjñā bha<lb
+                            n="5"/>vanti <space type="pause"/> ṅa ña ṇa na ma <space type="pause"/>
+                        prayojanam <space type="pause"/> ato nto nusvāro nu<lb n="6"
+                        />nāsikāntasyetyādi <space type="pause"/> bambhaṇyate tantanyate yaṃyamyate </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1"><lb n="7"/>ṅañayor anunāsikatvena
+                        dhuṭtvābhāvāt prāṅbhyām ity atra <lb n="8"/>dhuṭāṃ tṛtīya iti tṛtīyo nāsti
+                            <space type="pause"/> yācñā <space type="pause"/> yajña <lb n="9"
+                        />ityādau <space type="pause"/> cajoẖ kagau dhuḍ ghānubandhayor iti cajoḥ
+                            <lb n="10"/>kagau na bhavataḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsika <lb n="11"
+                        />iti <space type="pause"/> saṃjñārthaparyālocanayā nāsikyasyānusvā<lb
+                            n="12"/>rasyānunāsikatvād asati dhuṭtve araṃstetyādau <lb n="13"/>dhuṭaś
+                        ca dhuṭīti sijlopābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">antasthā yarala<lb
+                                n="14"/>vāḥ </hi><space type="pause"/></l>
+
 
                 </div>
                 <!-- end of Pāda 1 -->

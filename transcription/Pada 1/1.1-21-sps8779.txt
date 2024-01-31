@@ -811,6 +811,27 @@
                     <l style="sūtra" xml:id="KS-1.1.13"><hi rend="rubricated">anunāsikā ṅañaṇanamāḥ
                             ||</hi></l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1"><pb facs="pdf p.7 left" n="5v"/><lb
+                            n="1"/>ṅañaṇanamā varṇā anunāsikasaṃjñā bhavanti <space type="pause"/>
+                        prayojanam a<lb n="2"/>to nto nusvāro nunāsikāntasyetyādi <space
+                            type="pause"/> bambhaṇyate <space type="pause"/> tantanyate <space
+                            type="pause"/> yaṃ<lb n="3"/>yamyate <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsika<del>ā</del>ntvena
+                        dhuṭtvābhāvāt prāṅbhyām ity a<lb n="4"/>tra dhuṭāṃ tṛtīyo nāsti <space
+                            type="pause"/> yācñā yajña ityādau cajoẖ kagau <lb n="5"/>dhuḍ
+                        ghānubandhayor iti kagau na bhavataḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anu<lb n="6"/>nāsika iti
+                            saṃjñārthaparyālocanayānunāsikyasyānu<lb n="7"/>svārasyāpy anunāsikatvād
+                        asati dhuṭtve araṃstetyādau sijlo<lb n="8"/>pābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">antasthā yaralavāḥ
+                        </hi> ||</l>
+
+
+
+
                 </div>
                 <!-- end of saṃjñāpāda -->
 

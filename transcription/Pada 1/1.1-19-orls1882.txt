@@ -652,6 +652,22 @@
 
                     <l style="sūtra" xml:id="KS-1.1.13">|| anunāsikā <lb n="6"/>ṅañaṇanamāḥ ||</l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">|| ṅañaṇanamā varṇā anunāsikasaṃjñā <lb
+                            n="7"/>bhavanti | ṅa ña ṇa na ma | prayojanaṃ | ato nto nusvāro
+                            'nunāsikānta<lb n="8"/>syetyādiṣu | bambhaṇyate | tantanyate |
+                        yaṃyamyate | </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsi<lb n="9"/>katvena
+                        dhuṭtvābhāvāt prāṅbhyām ity atra dhuṭāṃ tṛtīyo nāsti | yācñā | ya<lb n="10"
+                        />jña ityādau cajoẖ kagau dhuḍ ghānubandhayor iti kagau na bhavataḥ |</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1"><del>a</del><lb n="11"/>anugato nāsikām
+                        anunāsika iti saṃjñārthaparyālocanayā <del>'nu</del><lb n="12"
+                        />nāsikyasyānusvārasyāpy anunāsikatvā<g ref="#sharada-separator"/>d asati
+                        dhuṭtve | araṃstetyā<lb n="13"/>dau, dhuṭaś ca dhuṭīti sijlopābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| antasthā yaralavāḥ ||</l>
+
 
                 </div>
                 <!-- end of Pāda 1 -->

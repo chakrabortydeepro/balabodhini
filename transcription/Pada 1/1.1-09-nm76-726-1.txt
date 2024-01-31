@@ -333,12 +333,15 @@
                     <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanamā varṇā anunāsikasaṃjñā
                         bhavanti | ṅa ña ṇa na ma <lb n="9"/>prayojanam_ ato nto nusvāro
                         nunāsikāntasyetyādi | bambhaṇyate tantanyate <lb n="10"/><gap
-                            reason="damage"/></p>
+                            reason="damage" unit="char" extent="4"/></p>
 
-                    <p xml:id="BB-1.1.13-2" style="stream1"><gap reason="damage"/>tvena
-                        dhuṭtvābhāvāt_ prāṅbhyām ity atra dhuṭāṃ tṛ<lb n="11"/><gap reason="damage"
-                        />cñā yajña ityādau cajoẖ kagau dhuḍ ghānubandha<lb n="12"/><gap
-                            reason="damage"/>nugato nāsikām anu<gap reason="damage"/></p>
+                    <p xml:id="BB-1.1.13-2" style="stream1"><gap reason="damage" unit="char"
+                            extent="8"/>tvena dhuṭtvābhāvāt_ prāṅbhyām ity atra dhuṭāṃ tṛ<lb n="11"
+                            /><gap reason="damage"/>cñā yajña ityādau cajoẖ kagau dhuḍ
+                            ghānubandha<lb n="12"/><gap reason="damage"/></p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1"><gap reason="damage"/>nugato nāsikām
+                            anu<gap reason="damage"/></p>
 
                     <l style="sūtra" xml:id="KS-1.1.14"/>
 

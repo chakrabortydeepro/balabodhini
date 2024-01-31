@@ -515,10 +515,12 @@
                     <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatve dhuṭtvābhā<lb n="7"
                         />vāt prāṅbhyām ity atra dhuṭāṃ tṛtīya iti tṛtīyo <del>nā</del><lb n="8"
                         />nāsti <space type="pause"/> yācñā yajña ityādau | cajoḥ kagau <lb n="9"
-                        />dhuḍ ghānubandhayor iti cajoẖ kagau na bhavataḥ || <lb n="10"/>anugato
-                                nāsikā<subst><del> sā</del><add>m a</add></subst>nunāsikā iti sa<lb
-                            n="11"/>jñārthaparyālocanayā nāsikasyānusārasyā<lb n="11"/>nunāsikatvād
-                        asati dhuṭtve araṃsta ityādau <lb n="12"/>dhuṭaś ca dhuṭīti sijjapābhāvaḥ || </p>
+                        />dhuḍ ghānubandhayor iti cajoẖ kagau na bhavataḥ ||</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1"><lb n="10"/>anugato nāsikā<subst><del>
+                                sā</del><add>m a</add></subst>nunāsikā iti sa<lb n="11"
+                        />jñārthaparyālocanayā nāsikasyānusārasyā<lb n="11"/>nunāsikatvād asati
+                        dhuṭtve araṃsta ityādau <lb n="12"/>dhuṭaś ca dhuṭīti sijjapābhāvaḥ || </p>
 
                     <l style="sūtra" xml:id="KS-1.1.14">|| a<lb n="13"/>ntasthā yaralavāḥ ||</l>
 

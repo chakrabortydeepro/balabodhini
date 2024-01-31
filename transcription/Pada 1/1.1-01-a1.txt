@@ -2752,6 +2752,20 @@
                         <hi>anunāsikā ṅañaṇanamāḥ ||1.1.13||</hi>
                     </l>
 
+                    <!-- Vṛtti -->
+
+                    <p xml:id="BB-1.1.13-1" style="stream1"><label>BB 1.1.13</label>ṅañaṇanamā varṇā
+                        anunāsikasaṃjñā bhavanti | ṅa ña ṇa na ma | prayojanam, ato 'nto 'nusvāro
+                        'nunāsikāntasyetyādi | bambhaṇyate | tantanyate | yaṃyamyate | </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvāt
+                        prāṅbhyām ity atra dhuṭāṃ tṛtīya iti tṛtīyo nāsti | yācñā, yajña ityādau
+                        cajoẖ kagau dhuḍ ghānubandhayor iti cajoḥ kagau na bhavataḥ |</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsika iti
+                        saṃjñārthaparyālocanayā nāsikyasyānusvārasyāpy anunāsikatvād asati dhuṭtve
+                        'raṃstetyādau sijlopābhāvaḥ || </p>
+
                     <!-- Nyāsa -->
 
                     <p xml:id="BBP-1.1.13-1" style="stream2"><label>BBP 1.1.13</label>ṇasa kauṭilye

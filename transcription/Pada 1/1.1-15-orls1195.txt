@@ -489,6 +489,25 @@
                     <l style="sūtra" xml:id="KS-1.1.13">|| anunāsikā ṅañaṇana<lb n="2"/>māḥ ||</l>
 
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">ṅañaṇanamā varṇā anunāsikasaṃjñā bha<lb
+                            n="3"/>vanti | ṅa ña ṇa na ma | anunāsikasaṃjñayā kva <lb n="4"
+                        />prayojanam || ato nto nusvāro nunāsikāntasyetyā<lb n="5"/>di ||
+                        bambhaṇyate | tantanyate | yaṃyamyate | </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayo<lb n="6"/>r anunāsikatvena,
+                        dhuṭtvābhāvāt prāṅbhyām ity atra, dhu<lb n="7"/>ṭāṃ tṛtīya iti, tṛtīyo nāsti
+                        || yācñā, yajña <lb n="8"/>ityādau, cajoḥ kagau dhuḍ ghānubandhayor iti,
+                        cajoḥ <lb n="9"/>kagau na bhavataḥ ||</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsi<lb n="10"/>ka
+                        iti, saṃjñārthaparyālocanayā nāsikyasyā<lb n="11"/>nusvārasyānunāsikatvā<g
+                            ref="#sharada-separator"/>d a<unclear reason="illegible">sati
+                            dhuṭtve</unclear> raṃstetyā<lb n="12"/>dau, dhuṭaś ca dhuṭe<unclear>ti
+                            si</unclear>jlopābhāvaḥ || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| antasthā yaralavāḥ ||</l>
+
+
                 </div>
                 <!-- end of Pāda 1 -->
             </div>

@@ -577,7 +577,9 @@
                             ref="#sharada-separator"/> dhuṭtvābhāvā<g ref="#sharada-separator"/>t
                         praṅbhyām ity atra <lb n="5"/>dhuṭāṃ tṛtīyo nāsti | yācñā yajña ityādau,
                         cajoẖ ka<lb n="6"/>gau dhuḍ ghānubandhayor iti | kagau na bhavataḥ <space
-                            type="pause"/> anugato <lb n="7"/>nāsikām anunāsika iti |
+                            type="pause"/></p>
+                    
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato <lb n="7"/>nāsikām anunāsika iti |
                             saṃjñārthaparyālocana<lb n="8"/>yā nāsikyasyā'nusvārasyāpy
                         a'nunāsikatvād a'sa<lb n="9"/>ti dhuṭtve raṃstetyādau, sijlopābhāvaḥ || </p>
 

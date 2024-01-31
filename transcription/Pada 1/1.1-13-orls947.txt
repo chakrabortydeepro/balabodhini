@@ -601,6 +601,26 @@
                     <l style="sūtra" xml:id="KS-1.1.13">|| <hi rend="rubricated">anunāsikā ṅañaṇa<lb
                                 n="11"/>namāḥ || ||</hi></l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1">||
+                            <subst><del>na</del><add>ṅa</add></subst>ñaṇanamā varṇā anunāsi<lb
+                            n="12"/>kasaṃjñā bhavanti <space type="pause"/> prayojana'm ato nto
+                        'nusvāro 'nu<pb facs="pdf p.10 right" n="10r"/><lb n="1"/>nāsikāntasyetyādi
+                        | baṃbhaṇyate | tantanyate | yaṃ<lb n="2"/>yamyate | </p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor a<g ref="#sharada-separator"
+                        />'nunāsikatve dhuṭtvābhāvā<lb n="3"/>t prā<subst><del><unclear unit="char"
+                                    extent="1"/></del><add place="above">ṅbhyā</add></subst>m ity
+                        atra dhuṭāṃ tṛtīya iti tṛtīyo nāsti | yācñā yajña <lb n="4"/>ityādau cajoḥ
+                        kagau dhuḍ ghānubandhayor iti <add place="right-margin">cajoḥ</add>
+                        <add place="right-margin">ka</add>gau <lb n="5"/>na bhavataḥ |</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsika <lb n="6"/>iti
+                        saṃjñārthaparyālocanayā nāsikyasyā<g ref="#sharada-separator"/>'nu<lb n="7"
+                            />svārasyā<g ref="#sharada-separator"/>'py a'nunāsikatvād asati dhuṭtve
+                            araṃ<lb n="8"/>stetyādau sijlopābhāvaḥ || ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">|| antasthā yara<lb
+                                n="9"/>lavāḥ ||</hi></l>
 
 
                     <milestone unit="53r7"/>

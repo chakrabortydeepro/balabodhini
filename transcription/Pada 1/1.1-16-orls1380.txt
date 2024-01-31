@@ -548,6 +548,26 @@
                     <l style="sūtra" xml:id="KS-1.1.13">|| <lb n="7"/><hi rend="rubricated"
                             >anunāsikā ṅañaṇanamāḥ </hi><g ref="#sharada-section-mark-1"/></l>
 
+                    <p xml:id="BB-1.1.13-1" style="stream1"><g ref="#sharada-section-mark-1"/>
+                            ṅañaṇanama<pc> </pc>varṇāḥ anu<lb n="8"/>nāsikasaṃjñā bhavanti | ṅa ña
+                        ṇa na ma | prayojana,m ato nto nusvāro <lb n="9"/>nunāsikāntasyetyādi |
+                        bambhaṇyate | tantanyate | yaṃyamyate | ca<lb n="10"/>ṅkramyate |</p>
+
+                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvāt
+                        prāṅbhyām ity atra dhuṭāṃ <lb n="11"/>tṛtīyo nāsti | yācñā, yajña ityādau,
+                        cajo kagau dhuḍ ghānuba<lb n="12"/>ndhayor iti kagau na bhavataḥ |</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsika i<lb n="13"
+                        />ti saṃjñārthaparyālocanayā nāsikyasyānusvārasyāpy anunāsi<lb n="14"
+                        />katvā,d asati dhuṭtve, araṃstetyādau sijlopābhāvaḥ <g
+                            ref="#sharada-section-mark-1"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><g ref="#sharada-section-mark-1"/><lb n="15"
+                            />anta<hi rend="rubricated">sthā yaralavāḥ <g
+                                ref="#sharada-section-mark-1"/><g ref="#sharada-section-mark-1"
+                            /></hi>
+                    </l>
+
                 </div>
                 <!-- end of Pāda 1 -->
             </div>
