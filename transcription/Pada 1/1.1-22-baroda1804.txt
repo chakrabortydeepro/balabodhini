@@ -524,6 +524,28 @@
 
                     <l style="sūtra" xml:id="KS-1.1.14">|| a<lb n="13"/>ntasthā yaralavāḥ ||</l>
 
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā anta<lb n="14"
+                        />sthāsaṃjñā bhavanti <space type="pause"/> ya ra la va | prayojanaṃ
+                            sapara<lb n="15"/>svarāyās saṃprasāraṇam anthasthāyā ityādiṣu | ijyate
+                            <pb n="8r"/><lb n="1"/>gṛhyate <space type="pause"/> upyate <space
+                            type="pause"/></p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāntasthātvād glāna i<lb n="2"
+                                    />tyād<subst><del>ā<unclear>va</unclear></del><add>au</add></subst>v
+                            ā<del unit="char" extent="1"/>to ntasthāsaṃyuktād iti niṣṭhā<lb n="3"
+                        />natvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">ūṣmāṇaś śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śa<lb n="4"/>ṣasahā varṇā ūṣmasaṃjñā
+                        bhavanti <space type="pause"/> vakṣya<lb n="5"/>mānayā śiṭsaṃjñayā
+                        vyavahārād ūṣmasaṃ<lb n="6"/>jñāyāḥ prayojanaṃ nāsti iti yogārambho <lb
+                            n="7"/>pārthakaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">|| aḥ iti visarjanīyaḥ || </l>
+
 
                 </div>
                 <!-- end of pāda 1-->

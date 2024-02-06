@@ -2252,6 +2252,25 @@
 
                     <l style="sūtra" xml:id="KS-1.1.14"> antasthā yaralavāḥ ||</l>
 
+                    <p xml:id="BBP-1.1.14-1" style="stream2">ṣṭhā gati <space type="pause"/>
+                        antapūrvaḥ <space type="pause"/> ante tiṣṭhatī<lb n="10"/>ti nāmni sthaś
+                        ceti ḍaḥ <space type="pause"/> striyām ādāp <space type="pause"/>
+                        varṇaviṣayo py antasthāśabdaḥ strī<lb n="11"/>liṅgaḥ svabhāvāt <space
+                            type="pause"/> yathā kalattraṃ striyām api napuṃsake |</p>
+
+                    <p xml:id="BBP-1.1.14-2" style="stream2">lakārasyānta<lb n="12"/>sthātve
+                        prayojanam āha | lakārasyeti <space type="pause"/> yadi lakārasyāntasthātvaṃ
+                        na syāt ta<lb n="13"/>dā glai harṣakṣaye ity asya sandhyakṣarāntānām ākāre
+                        kṛte | āto ntasthāsaṃyu<lb n="14"/>ktād iti niṣṭhātakārasya natvaṃ syād ity
+                        arthaḥ | atha vā, lilāvayiṣatī<lb n="15"/>ty
+                                atrovarṇajāntantasthetītvā<del><unclear>rī</unclear></del>pravṛttir
+                        lakārasyāntasthātve prayojanam | <lb n="16"/>lūñ lunantaṃ prayoktum
+                        icchatīti hetāv in | vṛddhiḥ san | iṭ_ guṇaḥ <lb n="17"/>ini kṛtaṃ sthānivad
+                        iti lū dvirvacanam <space type="pause"/> uvarṇajāntasthety uvarṇasyetvaṃ
+                        ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.15"><lb n="18"/>|| ūṣmāṇaḥ śaṣasahāḥ ||</l>
+
                 </div>
                 <!-- end of chapter 1 of book 1-->
 

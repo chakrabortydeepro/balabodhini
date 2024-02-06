@@ -1091,21 +1091,42 @@
                             <space type="pause"/> ñakārodāharaṇam āha <space type="pause"/>
                         <del unit="char" extent="5"/> yā<subst><del>ñce</del><add
                                 place="left-margin">cñe</add></subst>tyādi | yācṛ yā | yaja de |
-                        tavargaś ca ṭavargeti vargānto ñakāraḥ | anu<lb n="6"/>nāsikatvena ñakārasya
-                        dhuḍvyañjanam ity anena dhuṭtvā'bhāvāc cajoẖ ka<lb n="7"/>gāv ity anena
-                        prāptayoḥ kakāragakārayor abhāvaḥ | nanu cavargasya kir asa<lb n="8"/>varṇa
-                        iti niṣedhasāmarthyāc cajoẖ kagāv ity anena katvaṃ na bhaviṣyatīti <lb n="9"
-                        />cet satyaṃ | ya evaṃ vaktuṃ na śaknoti <space type="pause"/> tam uddiśya
-                        katvābhāvaḥ <space type="pause"/> prayojanāyopanyā<lb n="10"/>sīti na kaścid
-                        doṣaḥ |</p>
+                        tavargaś ca ṭavargeti vargānto ñakāraḥ | anu<lb n="16"/>nāsikatvena
+                        ñakārasya dhuḍvyañjanam ity anena dhuṭtvā'bhāvāc cajoẖ ka<lb n="17"/>gāv ity
+                        anena prāptayoḥ kakāragakārayor abhāvaḥ | nanu cavargasya kir asa<lb n="18"
+                        />varṇa iti niṣedhasāmarthyāc cajoẖ kagāv ity anena katvaṃ na bhaviṣyatīti
+                            <lb n="19"/>cet satyaṃ | ya evaṃ vaktuṃ na śaknoti <space type="pause"/>
+                        tam uddiśya katvābhāvaḥ <space type="pause"/> prayojanāyopanyā<lb n="20"
+                        />sīti na kaścid doṣaḥ |</p>
 
                     <p xml:id="BBP-1.1.13-4" style="stream2"> nāsikyasyeti | nāsikāyāṃ bhava iti yaḥ
-                            a<lb n="11"/>raṃstetyādāv iti <space type="pause"/> ramu krīḍā <space
+                            a<lb n="21"/>raṃstetyādāv iti <space type="pause"/> ramu krīḍā <space
                             type="pause"/> adyatanī ta <space type="pause"/> addhātvādiḥ <space
-                            type="pause"/> sic <lb n="12"/>dhuṭaś ca dhuṭīti sico lopo na bhavati || </p>
+                            type="pause"/> sic <lb n="22"/>dhuṭaś ca dhuṭīti sico lopo na bhavati || </p>
+
 
                     <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā
                         ||</hi></l>
+
+                    <p xml:id="BBP-1.1.14-1" style="stream2">ṣṭhā gati <lb n="23"/>antapūrvaḥ |
+                        svasya svasya sthānasya ante tiṣṭhati <space type="pause"/> nāmni sthaś ceti
+                        ḍaḥ | <lb n="24"/>striyām ādāp <space type="pause"/> varṇaviṣayo py
+                        antasthāśabdaḥ strīliṅgaḥ svabhāvāt <pb facs="pdf p.21 left" n="19r"/><lb
+                            n="1"/>yathā kalattraṃ striyām api napuṃsake <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.14-2" style="stream2">la<del unit="char" extent="1"
+                        />kārasyāntasthātve prayojanam ā<lb n="2"/>ha <space type="pause"/>
+                        lakārasyeti | yadi lakārasyāntasthātvaṃ na syāt tadā glai harṣakṣaye i<lb
+                            n="3"/>ty asya sandhyakṣarāntānām ākāre kṛte āto ntasthāsaṃyuktād iti
+                            ni<lb n="4"/>ṣṭhātakārasya natvaṃ syād ity arthaḥ | atha vā
+                        lilāvayiṣatīty atrovarṇasya <lb n="5"/>jāntasthetītvapravṛttir
+                        lakārasyāntasthātve prayojanam <space type="pause"/> lūñ <space type="pause"
+                        /> luna<lb n="6"/>ntaṃ prayoktum icchatīti hetāv in_ vṛddhiḥ san_ iṭ_ guṇaḥ_
+                        ini <lb n="7"/>kṛtaṃ sthānivad iti lū dvirvacanam | uvarṇasya jāntastheti
+                            uvarṇa<lb n="7"/>syetvam ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.15">
+                        <hi rend="rubricated">ūṣmā ||</hi></l>
 
 
 

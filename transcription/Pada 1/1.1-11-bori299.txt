@@ -708,13 +708,36 @@
                     <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvā<lb
                             n="13"/>t prāṅbhyām ity atra dhuṭāṃ tṛtīyo nāsti | yācñā <lb n="14"
                         />yajña ityādau cajoẖ kagau dhuḍ ghānubandha<lb n="15"/>yo<del>nāsti</del>r
-                        iti kagau na bhavataḥ <space type="pause"/> anuga<lb n="16"/>to nāsikām
-                        anunāsika iti saṃjñārtha<lb n="17"/>paryālocanayānunāsinyasyānusvāra<pb
-                            n="8v"/><lb n="1"/>syāpy anunāsikatvād asati dhuṭtve araṃstetyādau <lb
-                            n="2"/>sijlopābhāvaḥ || </p>
+                        iti kagau na bhavataḥ <space type="pause"/></p>
 
-                    <l style="sūtra" xml:id="KS-1.1.14">||<hi rend="rubricated">antasthā yaralavāḥ
+                    <p xml:id="BB-1.1.13-3" style="stream1">anuga<lb n="16"/>to nāsikām anunāsika
+                        iti saṃjñārtha<lb n="17"/>paryālocanayānunāsinyasyānusvāra<pb n="8v"/><lb
+                            n="1"/>syāpy anunāsikatvād asati dhuṭtve araṃstetyādau <lb n="2"
+                        />sijlopābhāvaḥ || </p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
                         </hi>||</l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1"><lb n="3"/>yaralavā varṇā antasthasaṃjñā
+                        bhavanti || pra<lb n="4"/>yojanaṃ saparasvarāyāḥ samprasāraṇam anthasthā<lb
+                            n="5"/>yā ityādi || ijyate <space type="pause"/> gṛhyate <space
+                            type="pause"/> upyate |</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"> la<lb n="6"/>kārasyāntasthātvād glāna
+                        ityādāv āto ntasthā<lb n="7"/>saṃyuktād iti niṣṭhānatvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15"> ūṣmā<lb n="8"/>ṇaś śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃ<lb n="9"/>jñā
+                        bhavanti || vakṣyamāṇayā śiṭsaṃjñayā<g ref="#sharada-separator"/> vyava<lb
+                            n="10"/>hārād ūṣmasaṃjñāyāḫ prayojanaṃ nāstīty a<lb n="11"/>pārthako
+                        yogaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><hi rend="rubricated">aḥ iti
+                            visarjanīyaḥ</hi> ||</l>
 
 
                 </div>

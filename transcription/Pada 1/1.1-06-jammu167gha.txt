@@ -464,6 +464,27 @@
                     <l style="sūtra" xml:id="KS-1.1.14"><lb n="2"/>aṃtasthā yaralavāḥ <space
                             type="pause"/></l>
 
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralava<pc> </pc>varṇṇā aṃtasthāsaṃjñā
+                        bhavaṃti <space type="pause"/> pra<add place="above">yo</add>janaṃ
+                        saparasvarāyāḥ saṃprasāraṇam aṃthasthāyā ityādi <space type="pause"/> ijyate
+                            <space type="pause"/> gṛhyate <space type="pause"/> upya<lb n="3"/>te
+                            <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"> lakārasyāṃtasthatvād glāna ityādau āto
+                        ṃtasthāsaṃyuktād iti niṣṭhānatvaṃ <space type="pause"/></p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15"> ūṣmāṇaḥ śaṣasahāḥ <space type="pause"/></l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇṇā ūṣmasaṃjñā <lb n="4"
+                        />bhavaṃti <space type="pause"/> vakṣyamāṇayā <space type="pause"/>
+                        śiṭsaṃjñayā vyavahārād ūṣmāsaṃjñāyāḥ prayojanaṃ nāstīty apārthako yogaḥ
+                            <space type="pause"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">aḥ iti visarjanīyaḥ <space type="pause"
+                        /></l>
+
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

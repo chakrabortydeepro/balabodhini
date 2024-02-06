@@ -578,20 +578,36 @@
                         praṅbhyām ity atra <lb n="5"/>dhuṭāṃ tṛtīyo nāsti | yācñā yajña ityādau,
                         cajoẖ ka<lb n="6"/>gau dhuḍ ghānubandhayor iti | kagau na bhavataḥ <space
                             type="pause"/></p>
-                    
-                    <p xml:id="BB-1.1.13-3" style="stream1">anugato <lb n="7"/>nāsikām anunāsika iti |
-                            saṃjñārthaparyālocana<lb n="8"/>yā nāsikyasyā'nusvārasyāpy
-                        a'nunāsikatvād a'sa<lb n="9"/>ti dhuṭtve raṃstetyādau, sijlopābhāvaḥ || </p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato <lb n="7"/>nāsikām anunāsika iti
+                        | saṃjñārthaparyālocana<lb n="8"/>yā nāsikyasyā'nusvārasyāpy a'nunāsikatvād
+                            a'sa<lb n="9"/>ti dhuṭtve raṃstetyādau, sijlopābhāvaḥ || </p>
 
 
                     <l style="sūtra" xml:id="KS-1.1.14">
-                        <hi rend="rubricated">anta<lb n="10"/>sthā yaralavāḥ ||</hi></l>
+                        <hi rend="rubricated">anta<lb n="10"/>sthā yaralavāḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthāsaṃjñā <lb n="10"
+                        />bhavanti | prayojanaṃ saparasvarāyāḥ samprasāra<lb n="11"/>ṇam anthasthāyā
+                        ityādi | ijyate <space type="pause"/> gṛhyate <space type="pause"/> upyate
+                        |</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"><lb n="12"/>lakārasyā'ntasthātvā<g
+                            ref="#sharada-separator"/>d glāna ityādā'v āto ntasthāsaṃ<lb n="13"
+                        />yuktād iti niṣṭhānatvam ||</p>
+
 
                     <l style="sūtra" xml:id="KS-1.1.15">
-                        <hi rend="rubricated">ūṣmāṇāḥ śa<lb n="15"/>ṣasahāḥ ||</hi></l>
+                        <hi rend="rubricated">ūṣmāṇāḥ śa<lb n="15"/>ṣasahāḥ </hi>||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhava<lb
+                            n="16"/>nti <space type="pause"/> vakṣyamāṇayā śiṭsaṃjñayā vyavahārād
+                            ū'ṣma<lb n="17"/>saṃjñāyāḥ prayojanaṃ nāstīty apārthako yogāra<lb n="18"
+                        />mbhaḥ ||</p>
+
 
                     <l style="sūtra" xml:id="KS-1.1.16">
-                        <hi rend="rubricated">aḥ iti visarjanīyaḥ ||</hi></l>
+                        <hi rend="rubricated">aḥ iti visarja</hi>nīyaḥ ||</l>
 
                     <l style="sūtra" xml:id="KS-1.1.17">
                         <hi rend="rubricated">ẖka iti jihvāmūlīyaḥ ||</hi></l>

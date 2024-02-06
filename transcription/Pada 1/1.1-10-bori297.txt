@@ -354,12 +354,34 @@
                     <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatve dhuṭtvābhāvāt
                         prāṅbhyām ity atra dhuṭāṃ tṛ<lb n="16"/>tīya iti tṛtīyo nāsti | yācñā yajña
                         ityādau cajoẖ kagau dhuḍ ghā<lb n="17"/>nubandhayor iti cajoẖ kagau na
-                        bhavataḥ || anugato nāsikām anunā<lb n="18"/>sika iti
-                        saṃjñārthaparyālocanayā nāsikyasyānusvārasyānunā<lb n="19"/>sikatvād asati
-                        dhuṭtve araṃstetyādau dhuṭaś ca dhuṭīti sijlopābhā<gap reason="damage"/></p>
+                        bhavataḥ ||</p>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunā<lb n="18"/>sika
+                        iti saṃjñārthaparyālocanayā nāsikyasyānusvārasyānunā<lb n="19"/>sikatvād
+                        asati dhuṭtve araṃstetyādau dhuṭaś ca dhuṭīti sijlopābhā<gap reason="damage"
+                        /></p>
+
+
 
                     <l style="sūtra" xml:id="KS-1.1.14"><pb n="5v"/><lb n="1"/>antasthā yaralavāḥ
                         ||</l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthāsaṃjñā bhavanti |
+                            pra<lb n="2"/>yojanaṃ saparasvarāyās samprasāraṇam anthasthāyā ityādi |
+                        ijyate <lb n="3"/> gṛhyate <space type="pause"/> upyate |</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"> lakārasyāntasthātvād glāna ityādau āto
+                            ntasthāsaṃyu<lb n="4"/>ktād iti niṣṭhānatvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">|| ūṣmāṇaś śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasa<lb n="5"/>hā varṇā ūṣmasaṃjñā
+                        bhavanti | vakṣyamāṇayā śiṭsaṃjñayā vyavahārā<lb n="6"/>d ūṣmasaṃjñāyāḥ
+                        prayojanaṃ nāstīty yogārambho pārthakaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><lb n="7"/>aḥ iti visarjanīyaḥ ||</l>
 
 
                 </div>

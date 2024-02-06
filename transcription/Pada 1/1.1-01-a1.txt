@@ -2652,14 +2652,15 @@
                         <list type="translation">
                             <item corresp="#BB-1.1.12-1-t">The word <foreign>aghoṣāḥ</foreign>,
                                 “voiceless sounds,” is syntactically connected with the ablative
-                                ending. Consonant sounds, excluding the voiceless ones, are termed
-                                as voiced (<foreign>ghoṣavant</foreign>): <foreign>g, gh, ṅ, j, jh,
-                                    ñ, ḍ, ḍh, ṇ, d, dh, n, b, bh, m, y, r, l, v</foreign> and
+                                ending. Other than the voiceless ones, the speech sounds which are
+                                termed consonants are termed as voiced
+                                (<foreign>ghoṣavant</foreign>): <foreign>g, gh, ṅ, j, jh, ñ, ḍ, ḍh,
+                                    ṇ, d, dh, n, b, bh, m, y, r, l, v</foreign> and
                                     <foreign>h</foreign>. The application is in rules like
                                         <foreign><hi>akāro dīrghaṃ ghoṣavati
                                 (2.1.14)</hi></foreign>, “the sound <foreign>a</foreign> of a
                                 nominal stem is lengthened when followed by a voiced sound
-                                    (<foreign>ghoṣavant</foreign>) of an ending.” E.g.
+                                    (<foreign>ghoṣavant</foreign>) of a nominal ending.” E.g.
                                     <foreign>vṛkṣābhyām</foreign> (&#60; <foreign>vṛkṣa-</foreign> +
                                     <foreign>-bhyām</foreign>) “by / for / from both of the trees”.
                             </item>
@@ -2678,21 +2679,21 @@
                     <ab corresp="#BB-1.1.12-2" type="apparatus">
                         <list type="translation">
                             <item corresp="#BB-1.1.12-2-t">Even though <foreign>ḥ</foreign> is a
-                                consonant, it is not designated as voiced, as indicated in the word
-                                    <foreign>varṇasamāmnāyaḥ (1.1.1)</foreign>. If it were, there
-                                should have been lengthening (of <foreign>a</foreign> that would
-                                result in *<foreign>varṇasamāmnāyāḥ</foreign>) according to the rule
-                                        <foreign><hi>akāro dīrgham ghoṣavati
-                                (2.1.14)</hi></foreign>, “the sound a of a nominal stem is
+                                consonant, it is not designated as voiced, as implicitly indicated
+                                in the word <foreign>varṇasamāmnāyaḥ (1.1.1)</foreign>. If it were,
+                                there should have been lengthening (of <foreign>a</foreign> that
+                                would result in *<foreign>varṇasamāmnāyāḥ</foreign>) according to
+                                the rule <foreign><hi>akāro dīrgham ghoṣavati
+                                    (2.1.14)</hi></foreign>, “the sound a of a nominal stem is
                                 lengthened when followed by a voiced sound
                                     (<foreign>ghoṣavant</foreign>) of an ending”. It is also the
                                 case with <foreign>ẖ</foreign> and <foreign>ḫ</foreign> because of
-                                the domain-external condition (<foreign>bahiraṅgatva</foreign>) as
+                                the base-external condition (<foreign>bahiraṅgatva</foreign>) as
                                 being invalid (<foreign>asiddha</foreign>) (with regard to the
                                 stem-bounded <foreign>a</foreign>-lengthening rule) following the
-                                maxim <foreign>asiddhaṃ bahiraṅgam antaraṅge</foreign>, “a
-                                domain-externally conditioned rule (<foreign>bahiraṅga</foreign>)
-                                cannot feed a domain-internally conditioned rule
+                                maxim <foreign>asiddhaṃ bahiraṅgam antaraṅge</foreign>, “a rule
+                                conditioned base-externally (<foreign>bahiraṅga</foreign>) cannot
+                                feed a rule conditioned base-internally
                                     (<foreign>antaraṅga</foreign>). And <foreign>ṃ</foreign> is
                                 (also voiceless) due to the absence of a purpose. There is no ending
                                 beginning with <foreign>ṃ</foreign> that would trigger lengthening.
@@ -2748,23 +2749,68 @@
 
                     <!-- Sūtra -->
 
-                    <l style="sūtra" xml:id="KS-1.1.13">
-                        <hi>anunāsikā ṅañaṇanamāḥ ||1.1.13||</hi>
+                    <l style="sūtra" xml:id="KS-1.1.13"><label>KS 1.1.13</label>
+                        <anchor n="KS-1.1.13-t"/><hi>anunāsikā ṅañaṇanamāḥ ||1.1.13||</hi>
                     </l>
+
+                    <ab corresp="#KS-1.1.13" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.13-t"><foreign>Ṅ, ñ, ṇ, n</foreign> and
+                                    <foreign>m</foreign> are the nasals
+                                    (<foreign>anunāsika</foreign>). </item>
+                        </list>
+                    </ab>
 
                     <!-- Vṛtti -->
 
-                    <p xml:id="BB-1.1.13-1" style="stream1"><label>BB 1.1.13</label>ṅañaṇanamā varṇā
-                        anunāsikasaṃjñā bhavanti | ṅa ña ṇa na ma | prayojanam, ato 'nto 'nusvāro
-                        'nunāsikāntasyetyādi | bambhaṇyate | tantanyate | yaṃyamyate | </p>
+                    <p xml:id="BB-1.1.13-1" style="stream1"><label>BB 1.1.13</label><anchor
+                            n="BB-1.1.13-1-t"/>ṅañaṇanamā varṇā anunāsikasaṃjñā bhavanti | ṅa ña ṇa
+                        na ma | prayojanam, <hi>ato 'nto 'nusvāro 'nunāsikāntasye</hi>tyādi
+                            <metamark function="source">[Kā.Sū. 3.3.31]</metamark>| bambhaṇyate |
+                        tantanyate | yaṃyamyate | </p>
 
-                    <p xml:id="BB-1.1.13-2" style="stream1">ṅañayor anunāsikatvena dhuṭtvābhāvāt
-                        prāṅbhyām ity atra dhuṭāṃ tṛtīya iti tṛtīyo nāsti | yācñā, yajña ityādau
-                        cajoẖ kagau dhuḍ ghānubandhayor iti cajoḥ kagau na bhavataḥ |</p>
+                    <ab corresp="#BB-1.1.13-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.13-1-t">The speech sounds <foreign>ṅ, ñ, ṇ,
+                                    n</foreign> and <foreign>m</foreign> are the nasals
+                                    (<foreign>anunāsika</foreign>): <foreign>ṅ, ñ, ṇ, n,
+                                m</foreign>. The application is in rules like <foreign><hi>ato 'nto
+                                        'nusvāro 'nunāsikāntasya (3.3.31)</hi></foreign>, “when a
+                                verb root ending in a nasal is followed by the frequentative suffix
+                                    (<foreign>cekrīyita</foreign>), <foreign>ṃ</foreign> occurs
+                                after the sound <foreign>a</foreign> of the reduplicant
+                                    (<foreign>abhyāsa</foreign>).” E.g.
+                                    <foreign>bambhaṇyate</foreign>
+                                    (&#60;<foreign>baṃbhaṇyate</foreign>) “speaks again and again”,
+                                    <foreign>tantanyate</foreign>
+                                    (&#60;<foreign>taṃtanyate</foreign>) “extends again and again”,
+                                    <foreign>yaṃyamyate</foreign> “controls again and again”.
+                            </item>
+                        </list>
+                    </ab>
 
-                    <p xml:id="BB-1.1.13-3" style="stream1">anugato nāsikām anunāsika iti
-                        saṃjñārthaparyālocanayā nāsikyasyānusvārasyāpy anunāsikatvād asati dhuṭtve
-                        'raṃstetyādau sijlopābhāvaḥ || </p>
+                    <p xml:id="BB-1.1.13-2" style="stream1"><anchor n="BB-1.1.13-2-t"/>ṅañayor
+                        anunāsikatvena dhuṭtvābhāvāt prāṅbhyām ity atra <hi>dhuṭāṃ tṛtīya</hi>
+                        <metamark function="source">[Kā.Sū. 2.3.60]</metamark>iti tṛtīyo nāsti |
+                        yācñā, yajña ityādau <hi>cajoẖ kagau dhuḍ ghānubandhayor i</hi>ti <metamark
+                            function="source">[Kā.Sū. 4.6.56]</metamark>cajoḥ kagau na bhavataḥ
+                        |</p>
+
+                    <ab corresp="#BB-1.1.13-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.13-2-t"/>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.13-3" style="stream1"><anchor n="BB-1.1.13-3-t"/>anugato
+                        nāsikām anunāsika iti saṃjñārthaparyālocanayā nāsikyasyānusvārasyāpy
+                        anunāsikatvād asati dhuṭtve, araṃstetyādau sijlopābhāvaḥ || </p>
+
+                    <ab corresp="#BB-1.1.13-3" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.13-3-t"/>
+                        </list>
+                    </ab>
 
                     <!-- Nyāsa -->
 
@@ -2776,30 +2822,54 @@
                         sthānam uccāraṇaṃ yeṣām ity anunāsikāḥ | pūrvaṃ mukhasthānam uccāraṇaṃ
                         paścān nāsikāsthānam |</p>
 
-                    <p xml:id="BBP-1.1.13-2" style="stream2">bambhaṇyata ityādi | etad ato 'nta ity
-                        atra sādhayiṣyatīti na sādhyate | evam anyatrāpi jñeyam |</p>
+                    <p xml:id="BBP-1.1.13-2" style="stream2"><ref target="#BB-1.1.13-1"
+                            >bambhaṇyata</ref> ityādi | etad <hi>ato 'nta</hi>
+                        <metamark function="source">[Kā.Sū. 3.3.31]</metamark>ity atra
+                        sādhayiṣyatīti na sādhyate | evam anyatrāpi jñeyam |</p>
 
                     <p xml:id="BBP-1.1.13-3" style="stream2">sūtre ṇanamā eva nirdeṣṭum ucitāḥ, na
-                        tu ṅañau prayojanādarśanād iti nety āha, ṅañayor ityādi | prāṅbhyām ity
-                        atreti | prapūrvaḥ anca gati prakarṣeṇāñcati pūjayatīti kvip | akkrāncer iti
+                        tu ṅañau prayojanādarśanād iti nety āha, <ref target="#BB-1.1.13-2">ṅañayor
+                            i</ref>tyādi | <ref target="#BB-1.1.13-2">prāṅbhyām i</ref>ty atreti |
+                        prapūrvaḥ anca gati prakarṣeṇāñcati pūjayatīti kvip | akkrāncer iti
                         niṣedhārambhasāmarthyād anidanubandhānām ity anuṣaṅgalopo na bhavati | bhyām
                         | saṃyogāntalopo na bhavati | tiryaṅṅ ityādinirdeśāt | tena cavargadṛgādīnāṃ
                         ceti casya gatve vargye vargānta iti nasya ṅakāre vargānte ca kṛte
                         saṃyogāntasya lopaḥ | vargānte kṛte dhuṭāṃ tṛtīya iti gasya tṛtīyābhāvaḥ |
                         ṅakārasyānunāsikatvena dhuḍvyañjanam ity anena dhuṭtvābhāvāt | anyathā so
-                        'pi syāt | ñakārodāharaṇam āha | yācñetyādi | yāca yā | yaja de | tavargaś
-                        ca ṭavargeti vargānto ñakāraḥ | anunāsikatvena ñakārasya dhuḍvyañjanam ity
-                        anena dhuṭtvābhāvāc cajoẖ kagāv ity anena prāptayoḥ kakāragakārayor abhāvaḥ
-                        | nanu cavargasya kir asavarṇa iti niṣedhasāmarthyāc cajoẖ kagāv ity anena
-                        katvaṃ na bhaviṣyatīti cet satyaṃ | ya evaṃ vijñātuṃ na śaknoti tam uddiśya
-                        katvābhāvaḥ | prayojanāyopanyāsīti na kaścid doṣaḥ |</p>
+                        'pi syāt | ñakārodāharaṇam āha | <ref target="#BB-1.1.13-2">yācñe</ref>tyādi
+                        | yāca yā | yaja de | tavargaś ca ṭavargeti vargānto ñakāraḥ |
+                        anunāsikatvena ñakārasya dhuḍvyañjanam ity anena dhuṭtvābhāvāc cajoẖ kagāv
+                        ity anena prāptayoḥ kakāragakārayor abhāvaḥ | nanu cavargasya kir asavarṇa
+                        iti niṣedhasāmarthyāc cajoẖ kagāv ity anena katvaṃ na bhaviṣyatīti cet
+                        satyaṃ | ya evaṃ vijñātuṃ na śaknoti tam uddiśya katvābhāvaḥ |
+                        prayojanāyopanyāsīti na kaścid doṣaḥ |</p>
 
-                    <p xml:id="BBP-1.1.13-4" style="stream2"> nāsikyasyeti | nāsikāyāṃ bhava iti yaḥ
-                        | araṃstetyādāv iti ramu krīḍāyām | adyatanī ta | aḍāgamaḥ | sic | dhuṭaś ca
-                        dhuṭīti sico lopo na bhavati || </p>
+                    <p xml:id="BBP-1.1.13-4" style="stream2">
+                        <ref target="#BB-1.1.13-3">nāsikyasye</ref>ti | nāsikāyāṃ bhava iti yaḥ |
+                            <ref target="#BB-1.1.13-3">araṃste</ref>tyādāv iti | ramu krīḍāyām |
+                        adyatanī ta | aḍāgamaḥ | sic | dhuṭaś ca dhuṭīti sico lopo na bhavati || </p>
 
-                    <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
-                            ||</hi></l>
+                    <!-- sūtra -->
+
+                    <l style="sūtra" xml:id="KS-1.1.14"><label>KS 1.1.14</label>
+                        <anchor n="KS-1.1.14-t"/><hi>antasthā yaralavāḥ ||</hi></l>
+
+                    <!-- vṛtti -->
+
+                    <!-- nyāsa -->
+
+                    <p xml:id="BBP-1.1.14-1" style="stream2"><label>BBP 1.1.14</label> ṣṭhā gati |
+                        antapūrvaḥ | ante tiṣṭhatīti nāmni sthaś ceti ḍaḥ | striyām ādāp |
+                        varṇaviṣayo py antasthāśabdaḥ strīliṅgaḥ svabhāvāt | yathā kalattraṃ striyām
+                        api napuṃsake |</p>
+
+                    <p xml:id="BBP-1.1.14-2" style="stream2">lakārasyāntasthātve prayojanam āha |
+                        lakārasyeti | yadi lakārasyāntasthātvaṃ na syāt tadā glai harṣakṣaye ity
+                        asya sandhyakṣarāntānām ākāre kṛte | āto ntasthāsaṃyuktād iti
+                        niṣṭhātakārasya natvaṃ syād ity arthaḥ | atha vā lilāvayiṣatīty atrovarṇasya
+                        jāntasthetītvāpravṛttir lakārasyāntasthātve prayojanam | lūñ | lunantaṃ
+                        prayoktum icchatīti hetāv in | vṛddhiḥ san | iṭ_ guṇaḥ | ini kṛtaṃ sthānivad
+                        iti lū dvirvacanam | uvarṇajāntasthety uvarṇasyetvam ||</p>
 
                     <l style="sūtra" xml:id="KS-1.1.15"> ||1.1.15|| ūṣmāṇāḥ śaṣasahāḥ ||</l>
 

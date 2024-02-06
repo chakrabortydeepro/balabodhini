@@ -486,6 +486,24 @@
 
                     <l style="sūtra" xml:id="KS-1.1.14">aṃtasthā yaralavāḥ ||</l>
 
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇāḥ aṃ<lb n="11"
+                        />tasthāsaṃjñā bhavaṃti | prayojanaṃ | saparasvarāyāṃ saṃprasāraṇam
+                        aṃthasthāyā ityādi | ijyate | upyate | gṛhyate |</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāṃtasthātvād glāna ityādāv āto
+                            ṃ<lb n="12"/>tasthāsaṃyuktād iti niṣṭhānatvam || ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15"> || ūṣmāṇaś śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhavaṃti |
+                        vakṣyamāṇayā śiṭsaṃjña<del/>yā vyavahārā<lb n="13"/>d ūṣmasaṃjñāyāḥ
+                        prayojanaṃ | nāstīty apārthako
+                            yog<subst><del>ḥ</del><add>ārambhaḥ</add></subst> || </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">|| aḥ iti visarjanīyaḥ || </l>
+
 
 
                 </div>
