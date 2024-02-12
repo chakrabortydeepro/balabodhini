@@ -668,6 +668,24 @@
 
                     <l style="sūtra" xml:id="KS-1.1.14">|| antasthā yaralavāḥ ||</l>
 
+                    <p xml:id="BB-1.1.14-1" style="stream1"><pb facs="pdf p.9 left" n="8"/><lb n="1"
+                        />yaralavā varṇā<space type="pause"/> antasthāsaṃjñā bhavanti | ya ra la va
+                        | prayojanaṃ | sapa<lb n="2"/>rasvarāyās samprasāraṇam antasthāyā ityādiṣu
+                        || ijyate | gṛhyate | <lb n="3"/>upyate |</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāntasthātvād glāna ityādau | āto
+                            ntasthāsaṃyuktā<lb n="4"/>d iti niṣṭhānatvam ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15"> || ūṣmāṇaś śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">|| śaṣa<lb n="5"/>sahā varṇāḥ ūṣmasaṃjñā
+                        bhavanti | śa ṣa sa ha | vakṣyamāṇayā śiṭsaṃ<lb n="6"/>jñayā vyavahārā<g
+                            ref="#sharada-separator"/>d ūṣmasaṃjñāyāḫ prayojanaṃ nāsti ity apārthako
+                        yaṃ <lb n="7"/>yogārambhaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">|| aḥ iti visarjanīyaḥ || </l>
+
 
                 </div>
                 <!-- end of Pāda 1 -->

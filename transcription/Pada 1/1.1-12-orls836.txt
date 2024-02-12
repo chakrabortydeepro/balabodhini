@@ -666,8 +666,31 @@
                             ref="#sharada-separator"/>'sati dhuṭtve<g ref="#sharada-separator"/>
                             araṃste<g ref="#sharada-separator"/><lb n="9"/>tyādau sijlopābhāvaḥ || </p>
 
+
                     <l style="sūtra" xml:id="KS-1.1.14">|| <hi rend="rubricated">antasthā yaralavāḥ
                             ||</hi></l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā anta<lb n="10"
+                        />sthāsaṃjñā bhavanti prayojanaṃ saparasvarāyās samprasāraṇam antasthāyā
+                            ityā<lb n="11"/>di ijyate gṛhyate upyate ||</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāntasthatvāt<g
+                            ref="#sharada-separator"/> glāna ityādau<g ref="#sharada-separator"/><g
+                            ref="#sharada-separator"/> āto ntasthā<lb n="12"/>saṃyuktād iti<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/> niṣṭhānatvam<g
+                            ref="#sharada-separator"/><g ref="#sharada-separator"/> ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">|| <hi rend="rubricated">ūṣmāṇaś
+                            śaṣasahāḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣma<lb n="13"/>saṃjñā
+                        bhavanti vakṣyamāṇayā śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḫ prayoja<lb n="14"
+                        />naṃ nāstīty apārthako yaṃ yogaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">|| <hi rend="rubricated">aḥ iti
+                            visarjanīyaḥ</hi> || </l>
 
 
                 </div>

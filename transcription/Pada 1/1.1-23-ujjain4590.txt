@@ -488,7 +488,7 @@
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇāḥ aṃ<lb n="11"
                         />tasthāsaṃjñā bhavaṃti | prayojanaṃ | saparasvarāyāṃ saṃprasāraṇam
-                        aṃthasthāyā ityādi | ijyate | upyate | gṛhyate |</p>
+                        aṃtasthāyā ityādi | ijyate | upyate | gṛhyate |</p>
 
                     <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāṃtasthātvād glāna ityādāv āto
                             ṃ<lb n="12"/>tasthāsaṃyuktād iti niṣṭhānatvam || ||</p>

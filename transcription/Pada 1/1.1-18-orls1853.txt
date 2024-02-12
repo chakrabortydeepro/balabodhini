@@ -588,7 +588,7 @@
                         <hi rend="rubricated">anta<lb n="10"/>sthā yaralavāḥ</hi> ||</l>
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthāsaṃjñā <lb n="10"
-                        />bhavanti | prayojanaṃ saparasvarāyāḥ samprasāra<lb n="11"/>ṇam anthasthāyā
+                        />bhavanti | prayojanaṃ saparasvarāyāḥ samprasāra<lb n="11"/>ṇam antasthāyā
                         ityādi | ijyate <space type="pause"/> gṛhyate <space type="pause"/> upyate
                         |</p>
 

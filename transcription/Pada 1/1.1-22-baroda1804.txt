@@ -526,7 +526,7 @@
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā anta<lb n="14"
                         />sthāsaṃjñā bhavanti <space type="pause"/> ya ra la va | prayojanaṃ
-                            sapara<lb n="15"/>svarāyās saṃprasāraṇam anthasthāyā ityādiṣu | ijyate
+                            sapara<lb n="15"/>svarāyās saṃprasāraṇam antasthāyā ityādiṣu | ijyate
                             <pb n="8r"/><lb n="1"/>gṛhyate <space type="pause"/> upyate <space
                             type="pause"/></p>
 

@@ -831,7 +831,7 @@
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā anta<lb n="9"/>sthāsaṃjñā
                         bhavanti <space type="pause"/> prayojanaṃ saparasvarāyāḥ samprasāraṇaṃ<lb
-                            n="10"/>m anthasthāyā ityādi <space type="pause"/> ijyate <space
+                            n="10"/>m antasthāyā ityādi <space type="pause"/> ijyate <space
                             type="pause"/> gṛhyate <space type="pause"/> upyate</p>
 
                     <p xml:id="BB-1.1.14-2" style="stream1">lakārasyānta<lb n="11"/>sthātvād glāna

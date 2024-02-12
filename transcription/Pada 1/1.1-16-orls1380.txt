@@ -568,6 +568,26 @@
                             /></hi>
                     </l>
 
+                    <p xml:id="BB-1.1.14-1" style="stream1"><g ref="#sharada-section-mark-1"
+                        />yaralavā varṇā antasthā<lb n="16"/>saṃjñā bhavanti | prayojanaṃ
+                        saparasvarāyās samprasāraṇam antasthāyā ityādi<del>ṣu</del> ijyate | upyate
+                        | gṛhyate | </p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyānta<pb facs="pdf p.6 right"
+                            n="6r"/><lb n="1"/>sthatvād glāna ityādāv āto ntasthāsaṃyuktād iti
+                            niṣṭhā<lb n="2"/>natvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15"> ūṣmāṇaḥ śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā <lb n="3"/>varṇā ūṣmasaṃjñā
+                        bhavanti <space type="pause"/> śa ṣa sa ha <space type="pause"/>
+                        vakṣyamāṇayā <lb n="4"/>śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḥ prayojanaṃ <lb
+                            n="5"/>nāstīty apārthako yaṃ yogārambhaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">aḥ iti visa<lb n="6"/>rjanīyaḥ || </l>
+
                 </div>
                 <!-- end of Pāda 1 -->
             </div>

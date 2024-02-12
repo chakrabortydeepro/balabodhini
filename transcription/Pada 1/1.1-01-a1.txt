@@ -2792,13 +2792,31 @@
                     <p xml:id="BB-1.1.13-2" style="stream1"><anchor n="BB-1.1.13-2-t"/>ṅañayor
                         anunāsikatvena dhuṭtvābhāvāt prāṅbhyām ity atra <hi>dhuṭāṃ tṛtīya</hi>
                         <metamark function="source">[Kā.Sū. 2.3.60]</metamark>iti tṛtīyo nāsti |
-                        yācñā, yajña ityādau <hi>cajoẖ kagau dhuḍ ghānubandhayor i</hi>ti <metamark
+                        yācñā, yajña ityādau <hi>cajoẖ kagau dhuḍghānubandhayor i</hi>ti <metamark
                             function="source">[Kā.Sū. 4.6.56]</metamark>cajoḥ kagau na bhavataḥ
                         |</p>
 
                     <ab corresp="#BB-1.1.13-2" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.13-2-t"/>
+                            <item corresp="#BB-1.1.13-2-t">Since <foreign>ṅ</foreign> and
+                                    <foreign>ñ</foreign> are nasals they are not obstruents
+                                    (<foreign>dhuṭ</foreign>); therefore, in the word
+                                    <foreign>prāṅbhyām</foreign> “by/for/from both of the eastern
+                                ones”, there is no voiced unaspirated plosive (at the place of
+                                    <foreign>ṅ</foreign>) following the rule <hi><foreign>dhuṭāṃ
+                                        tṛtīyā</foreign> (2.3.60)</hi> “obstruents followed by a
+                                voiced sound of an ending are replaced by the corresponding voiced
+                                unaspirated plosive (<foreign>tṛtīya</foreign>).” In words like
+                                    <foreign>yācñā</foreign> “begging” or <foreign>yajña</foreign>
+                                “sacrifice”, <foreign>c</foreign> and <foreign>j</foreign> are not
+                                substituted by <foreign>k</foreign> and <foreign>g</foreign>,
+                                respectively, according to the rule <hi><foreign>cajoẖ kagau
+                                        dhuḍghānubandhayoḥ</foreign> (4.6.56)</hi>,
+                                    “<foreign>c</foreign> and <foreign>j</foreign> are replaced by
+                                    <foreign>k</foreign> and <foreign>g</foreign> respectively when
+                                they are followed by a suffix which either begins with an obstruent
+                                or contains <foreign>GH</foreign> as an indicatory letter
+                                    (<foreign>anubandha</foreign>).”</item>
                         </list>
                     </ab>
 
@@ -2808,7 +2826,13 @@
 
                     <ab corresp="#BB-1.1.13-3" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.13-3-t"/>
+                            <item corresp="#BB-1.1.13-3-t">Considering the meaning of the term
+                                    <foreign>anunāsika</foreign> “nasal,” i.e. a nasal sound is that
+                                which acquires nose, <foreign>ṃ</foreign> being uttered through the
+                                nose (<foreign>nāsikya</foreign>) is also nasal. Thus, as it is not
+                                an obstruent there is no deletion of the suffix
+                                    <foreign>sIC</foreign> in words like <foreign>araṃsta</foreign>
+                                “made love”.</item>
                         </list>
                     </ab>
 
@@ -2818,7 +2842,6 @@
                         | nasata iti vuṇtṛcāv iti vuṇ | yad vā, ṇāsṛśabde dantyāntaḥ | nāsate śabdaṃ
                         karotīti vuṇ | akādeśaḥ | upadhādīrghaḥ | āp | ke pratyaya itītvam | anugatā
                         nāsikā yeṣv iti vigrahaḥ | svaro hrasva iti yogavibhāgān nāsikāśabdasya
-                        hrasvaḥ | yad vā, anuśado mukhāpekṣayā paścādarthe | anu paścān nāsikā
                         sthānam uccāraṇaṃ yeṣām ity anunāsikāḥ | pūrvaṃ mukhasthānam uccāraṇaṃ
                         paścān nāsikāsthānam |</p>
 
@@ -2847,14 +2870,42 @@
                     <p xml:id="BBP-1.1.13-4" style="stream2">
                         <ref target="#BB-1.1.13-3">nāsikyasye</ref>ti | nāsikāyāṃ bhava iti yaḥ |
                             <ref target="#BB-1.1.13-3">araṃste</ref>tyādāv iti | ramu krīḍāyām |
-                        adyatanī ta | aḍāgamaḥ | sic | dhuṭaś ca dhuṭīti sico lopo na bhavati || </p>
+                        adyatanī ta | aḍāgamaḥ | sic | <hi>dhuṭaś ca dhuṭī</hi>ti <metamark
+                            function="source">[Kā.Sū. 3.6.51]</metamark>sico lopo na bhavati || </p>
 
                     <!-- sūtra -->
 
                     <l style="sūtra" xml:id="KS-1.1.14"><label>KS 1.1.14</label>
-                        <anchor n="KS-1.1.14-t"/><hi>antasthā yaralavāḥ ||</hi></l>
+                        <anchor n="KS-1.1.14-t"/><hi>antasthā yaralavāḥ ||1.1.14||</hi></l>
+
+                    <ab corresp="#KS-1.1.14" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.14-t"/>
+                        </list>
+                    </ab>
 
                     <!-- vṛtti -->
+
+                    <p xml:id="BB-1.1.14-1" style="stream1"><label>BB 1.1.14</label>
+                        <anchor n="BB-1.1.14-1-t"/>yaralavā varṇā antasthāsaṃjñā bhavanti |
+                        prayojanaṃ saparasvarāyās samprasāraṇam antasthāyā ityādi | ijyate | gṛhyate
+                        | upyate </p>
+
+                    <ab corresp="#BB-1.1.14-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.14-1-t"/>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"><anchor n="BB-1.1.14-2-t"
+                        />lakārasyāntasthātvād glāna ityādāv āto ntasthāsaṃyuktād iti niṣṭhānatvam
+                        ||</p>
+
+                    <ab corresp="#BB-1.1.14-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.14-2-t"/>
+                        </list>
+                    </ab>
 
                     <!-- nyāsa -->
 
@@ -2871,7 +2922,14 @@
                         prayoktum icchatīti hetāv in | vṛddhiḥ san | iṭ_ guṇaḥ | ini kṛtaṃ sthānivad
                         iti lū dvirvacanam | uvarṇajāntasthety uvarṇasyetvam ||</p>
 
-                    <l style="sūtra" xml:id="KS-1.1.15"> ||1.1.15|| ūṣmāṇāḥ śaṣasahāḥ ||</l>
+                    <l style="sūtra" xml:id="KS-1.1.15"><label>KS 1.1.15</label>
+                        <anchor n="KS-1.1.15-t"/><hi>ūṣmāṇaś śaṣasahāḥ ||1.1.15||</hi></l>
+
+                    <ab corresp="#KS-1.1.15" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.15-t"/>
+                        </list>
+                    </ab>
 
                     <l style="sūtra" xml:id="KS-1.1.16"> ||1.1.16|| aḥ iti visarjanīyaḥ ||</l>
 

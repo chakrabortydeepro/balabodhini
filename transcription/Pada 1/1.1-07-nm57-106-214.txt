@@ -658,7 +658,7 @@
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthā<lb n="4"/>saṃjñā
                         bhavanti <space type="pause"/> prayojanaṃ saparasvarāyāḥ samprasā<lb n="5"
-                        />raṇam anthasthāyā ityādi | ijyate <space type="pause"/> gṛhyate <space
+                        />raṇam antasthāyā ityādi | ijyate <space type="pause"/> gṛhyate <space
                             type="pause"/> upyate </p>
 
                     <p xml:id="BB-1.1.14-2" style="stream1"><lb n="6"/>

@@ -367,7 +367,7 @@
                         ||</l>
 
                     <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthāsaṃjñā bhavanti |
-                            pra<lb n="2"/>yojanaṃ saparasvarāyās samprasāraṇam anthasthāyā ityādi |
+                            pra<lb n="2"/>yojanaṃ saparasvarāyās samprasāraṇam antasthāyā ityādi |
                         ijyate <lb n="3"/> gṛhyate <space type="pause"/> upyate |</p>
 
                     <p xml:id="BB-1.1.14-2" style="stream1"> lakārasyāntasthātvād glāna ityādau āto

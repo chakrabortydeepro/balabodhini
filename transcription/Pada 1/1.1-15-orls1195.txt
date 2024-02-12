@@ -505,7 +505,28 @@
                             dhuṭtve</unclear> raṃstetyā<lb n="12"/>dau, dhuṭaś ca dhuṭe<unclear>ti
                             si</unclear>jlopābhāvaḥ || </p>
 
-                    <l style="sūtra" xml:id="KS-1.1.14">|| antasthā yaralavāḥ ||</l>
+                    <l style="sūtra" xml:id="KS-1.1.14">|| anta<lb n="13"/>sthā yaralavāḥ ||</l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthāsaṃ<pb
+                            facs="pdf p.11 right" n="10r"/><lb n="1"/>jñā bhavanti <add
+                            place="above">ya ra la va</add>|| prayojanaṃ, saparasvarāyās sampra<lb
+                            n="2"/>sāraṇam antasthāyā ityādi || ijyate | gṛhyate | <lb n="3"
+                        />upyate ||</p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāntasthātvād glāna ityādau<g
+                            ref="#sharada-separator"/> āto nta<lb n="4"/>sthā<del>tvā</del>saṃyuktād
+                        iti niṣṭhānatvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">|| ūṣmā<lb n="5"/>ṇaḥ śaṣasahāḥ ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bha<lb n="6"
+                        />vanti || śa ṣa sa ha || vakṣyamā<subst><del>na</del><add place="above"
+                                >ṇa</add></subst>yā śiṭsaṃjñayā <lb n="7"/>vyavahārād ūṣmasaṃjñayā,
+                        prayojanaṃ || nāstīty a<lb n="8"/>pārthako yaṃ yogārambhaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">|| aḥ iti visarjanī<lb n="9"/>yaḥ || </l>
 
 
                 </div>

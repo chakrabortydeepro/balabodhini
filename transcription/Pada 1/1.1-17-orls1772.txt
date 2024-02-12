@@ -635,7 +635,7 @@
                         />vyañjatve <space type="pause"/> varṇasamāmnāya iti jñāpakā<lb n="10"/>d
                         ghoṣavatsaṃjñā nāsti <space type="pause"/> yadi syād akāro dī<lb n="11"
                         />rghaṃ ghoṣavatīti dīrghaḥ syāt <space type="pause"/> jihvāmū<lb n="12"
-                        />līyayopadhmānīyayor api bahiraṅgatve<pb facs="pdf p.11 right" n="10r"/><lb
+                        />līyayopadhmānīyayor api bahiraṅgatve<pb facs="pdf p.12 left" n="10v"/><lb
                             n="1"/>nāsiddhaṃ bahiraṅgam antaraṅga ity asiddhatvāt <space
                             type="pause"/> anusvā<lb n="2"/>rasya ca prayojanābhāvāt <space
                             type="pause"/> na hy anusvārādir vibhakti<lb n="3"/>r asti <space
@@ -661,8 +661,32 @@
                             n="12"/>rasyānunāsikatvād asati dhuṭtve araṃstetyādau <lb n="13"/>dhuṭaś
                         ca dhuṭīti sijlopābhāvaḥ || </p>
 
+
                     <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">antasthā yarala<lb
                                 n="14"/>vāḥ </hi><space type="pause"/></l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">yaralavā varṇā antasthā bhavanti <space
+                            type="pause"/> ya ra la va <lb n="15"/>prayojanam <space type="pause"/>
+                        saparasvarāyās samprasāraṇam anta<lb n="16"/>sthāyā ityādiṣu <space
+                            type="pause"/> ijyate <space type="pause"/> gṛhyate <space type="pause"
+                        /> upyate <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakā<pb facs="pdf p.12 right" n="11r"
+                            /><lb n="1"/>rasyāntasthātvād glānam ityādau āto ntasthāsaṃyuktād iti
+                            <lb n="2"/>niṣṭhānatvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">
+                        <hi rend="rubricated">ūṣmāṇaḥ śaṣasahāḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā <lb n="3"/>ūṣmasaṃjñā
+                        bhavanti <space type="pause"/> śa ṣa sa hā <space type="pause"/> vakṣyaṇayā
+                        śiṭsaṃjñayā <lb n="4"/>vyavahārād ūṣmasaṃjñāyāḥ prayojanam <space
+                            type="pause"/> nāstīty apā<lb n="5"/>rthako yogārambhaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><hi rend="rubricated">aḥ iti
+                            visarjanīyaḥ</hi> || </l>
 
 
                 </div>

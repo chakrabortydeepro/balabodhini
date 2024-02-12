@@ -720,7 +720,7 @@
                         </hi>||</l>
 
                     <p xml:id="BB-1.1.14-1" style="stream1"><lb n="3"/>yaralavā varṇā antasthasaṃjñā
-                        bhavanti || pra<lb n="4"/>yojanaṃ saparasvarāyāḥ samprasāraṇam anthasthā<lb
+                        bhavanti || pra<lb n="4"/>yojanaṃ saparasvarāyāḥ samprasāraṇam antasthā<lb
                             n="5"/>yā ityādi || ijyate <space type="pause"/> gṛhyate <space
                             type="pause"/> upyate |</p>
 

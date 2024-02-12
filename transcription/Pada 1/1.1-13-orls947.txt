@@ -620,7 +620,28 @@
                             araṃ<lb n="8"/>stetyādau sijlopābhāvaḥ || ||</p>
 
                     <l style="sūtra" xml:id="KS-1.1.14"><hi rend="rubricated">|| antasthā yara<lb
-                                n="9"/>lavāḥ ||</hi></l>
+                                n="9"/>lavāḥ || ||</hi></l>
+
+                    <p xml:id="BB-1.1.14-1" style="stream1">|| yaralavā varṇā antasthāsaṃjñā <lb
+                            n="10"/>bhavanti prayojanaṃ saparasvarāyās samprasāraṇa<lb n="11"/>m
+                        a'ntasthāyā ityādi <space type="pause"/> ijyate <space type="pause"/>
+                        gṛhyate <space type="pause"/> upyate </p>
+
+                    <p xml:id="BB-1.1.14-2" style="stream1"><lb n="12"/>lakārasyā'ntasthatvād glāna
+                        ityādau āto ntasthā<pb facs="pdf p.11 left" n="10v"/><lb n="1"/>saṃyuktād
+                        iti niṣṭhānatvam ||</p>
+
+
+
+                    <l style="sūtra" xml:id="KS-1.1.15">
+                        <hi rend="rubricated">ūṣmāṇaś śaṣa<lb n="2"/>sahāḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhavanti <lb
+                            n="3"/>vakṣyamāṇayā śiṭsaṃjñayā vyavahārād ūṣmasaṃ<lb n="3"/>jñāyāḥ
+                        prayojanaṃ nāsti ity a'pārthako <add place="above">yaṃ</add> yogārambhaḥ </p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><lb n="4"/><hi rend="rubricated">aḥ iti
+                            visarjanīyaḥ</hi> || </l>
 
 
                     <milestone unit="53r7"/>

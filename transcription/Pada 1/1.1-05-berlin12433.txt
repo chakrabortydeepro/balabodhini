@@ -3134,6 +3134,33 @@
                     <l style="sūtra" xml:id="KS-1.1.15">
                         <hi rend="rubricated">ūṣmā<lb n="7"/>ṇaḥ śaṣasahāḥ</hi> ||</l>
 
+                    <p xml:id="BBP-1.1.15-1" style="stream2">|| atra sarvata saṃjñākaraṇaṃ
+                            vyavahāra<del>saṃjña</del>kam iti <lb n="8"/>tadabhāvād asyāḥ saṃjñāyā
+                        vyarthatvam ity āha <space type="pause"/> vakṣyamāṇayetyādi <space
+                            type="pause"/> prayojanaṃ <lb n="9"/>nāstīti <space type="pause"/> nanu
+                        manor anūṣmaṇīti prayojanaṃ bhaviṣyatīti cen na <space type="pause"/> asya
+                            nirarthaka<lb n="10"/>tayā <space type="pause"/> ācāryeṇānurarthatvāt
+                            <space type="pause"/> tathā hi <space type="pause"/> anena sūtreṇa
+                        makāranakārayoḥ sthā<lb n="11"/>ne 'nusvāraḥ kriyate <space type="pause"/>
+                        sa ca padāntaviṣaye makāra<add place="right-margin">sthāne mo nusvāraṃ
+                            <lb/>vyañjane ity anena <lb/>sidhyati nakāra</add>sthāne tv anusvāro
+                        bhavān ramata <lb n="12"/>ityādau na dṛṣṭipadavīm adhirohati <space
+                            type="pause"/> apadāntaviṣaye pi makāranakārasthā<lb n="13"/>ne manor
+                        anusvāro dhuṭīty anenānusvāraḥ sidhyati <space type="pause"/> dhuṭi tu
+                        gamyate <space type="pause"/> manyate ity ā<lb n="14"/>dāv anusvāro neṣyate
+                            <space type="pause"/> anūṣmaṇīti ūṣmapratiṣedho nirarthakaḥ <space
+                            type="pause"/> ūṣmaṇy api puṃ<lb n="16"/>śarā ityādāv anusvārasya
+                        darśanāt <space type="pause"/> anye tu kumārājñayā śarvavarmaṇaḥ <lb n="17"
+                        />prasiddhasaṃjñānvākhyāne kṛtārambhatvāt tatprastāvāt tada<add
+                            place="right-margin">nta</add>rgatāpy ūṣmadharmayogā<lb n="18"/>d ūṣmāṇa
+                        ity ūṣmasaṃjñāpy anvākhyātā <space type="pause"/> evam anyāsām apy anvartho
+                        veditavya ityā<lb n="19"/>cakṣate <space type="pause"/> apagato rtho
+                        yasyāsāv apārthaḥ <space type="pause"/> tataḥ svārthe kaḥ <space
+                            type="pause"/> bahuvrīhiprabodho <lb n="20"/>nārtho vākaḥ ||</p>
+                    
+                    
+                    <l style="sūtra" xml:id="KS-1.1.16"> || <hi rend="rubricated">aḥ iti visarjanīyaḥ</hi> ||</l>
+
                 </div>
                 <!-- end of chapter 1 of book 1-->
 
