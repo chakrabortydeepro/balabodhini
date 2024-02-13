@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Srinagar ORL 1853</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Deepro Chakraborty PhD Dissertation</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>Srinagar</settlement>
+                            <region>Kashmir</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>Oriental Research Library</institution>
+                        <repository>Manuscripts Department</repository>
+                        <collection>Sanskrit Manuscripts</collection>
+                        <idno>1853</idno>
+                        <!--<idno type="NCC">Vol. 3, p. 317a</idno>-->
+                        <idno type="siglum">S<g rend="subscript">8</g></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>[description of manuscript]</summary>
+                        <msItem defective="true">
+                            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                            <author xml:lang="sa" role="author">Jagaddhara</author>
+                            <!--<author xml:lang="sa" role="commentator">[commentator]</author>-->
+                            <title xml:lang="sa">Bālabodhinī</title>
+                            <!--<title xml:lang="sa" type="commentary">[title of commentary]</title>-->
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <incipit source="folio 1v">oṃ svastiśrīgaṇeśāya namaḥ || namo gurave ||
+                                oṃ namaś śivāyaniśśeṣakleśapraśamaśāline
+                                triguṇagranthidurbhedabhavabandhavibhedine || || diśi diśy
+                                amṛtadravaṃ sravantyaḥ prathayantaḥ kṛtināṃ dṛśaḥ prasādam | viṣadaḥ
+                                prasaranti yasya gāvaḥ sa mahātmā jayati dvijādhirājaḥ ||</incipit>
+                            <rubric/>
+                            <explicit source="464">samāptā ceyaṃ bālabodhinīkātantravṛttiḥ
+                                ||<lb/>ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajāḥ <lb/>rjanayitrīṃ
+                                svarūpām ajo hy eko juṣamāṇo nu<lb/>śete jahāty enāṃ bhuktabhogām
+                                ajo nyaḥ ||</explicit>
+                            <textLang mainLang="sa-Shrd">Sanskrit in the Sharada script</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="pothi">
+                            <!-- @form can be "pothi", "book", scroll", etc. -->
+                            <supportDesc material="paper">
+                                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                                <extent>
+                                    <measure quantity="464" unit="folios"/>
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
+                                        <!-- @unit can be "cm" or "in" -->
+                                        <height>23.8</height>
+                                        <width>16.8</width>
+                                    </dimensions>
+                                    <!--<dimensions type="written" unit="cm">-->
+                                    <!-- dimensions of writing area -->
+                                    <!--<height>[height]</height>
+                                        <width>[width]</width>
+                                    </dimensions>-->
+                                </extent>
+                                <!-- the following <foliation> tags are examples -->
+                                <condition>good</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="sole" script="śāradā" medium="black ink">
+                                <p>Copied by the scribe</p>
+                            </handNote>
+                            <handNote scope="major" script="śāradā" medium="black ink">
+                                <p>either by the scribe or a second hand</p>
+                            </handNote>
+                            <!-- <handNote scope="minor" script="english" medium="pencil mark">
+                                <p>folio numbers by another hand</p>
+                            </handNote> -->
+                        </handDesc>
+                        <additions>
+                            <!-- the following additions are examples -->
+                            <p>contains marginal glosses</p>
+                        </additions>
+                        <!-- <bindingDesc>
+                            <p>[description of cover, binding, and/or stringholes]</p>
+                        </bindingDesc> -->
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate>not found</origDate>
+                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                            <origPlace xml:lang="en">Kashmir</origPlace>
+                        </origin>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2024-02-12" who="Deepro Chakraborty">Begins the document </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="sa-Latn">
+        <body>
+            <milestone facs="pdf p.95 left" n="93v10" unit="folio"/>
+            <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+            <div n="2" type="prakaraṇa">
+
+                <div n="2.4" type="pāda">
+                    <!-- end of chapter 6 of Book 1 -->
+
+                    <l style="sūtra" xml:id="KS-2.4.1"><lb n="10"/>avyavyībhāvād akārāntād
+                        vibhaktīnām am apañcamyāḥ </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.2"> vā tṛtīyāsaptamyoḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.3"><lb n="3"/><hi rend="rubricated">anyasmāl
+                            luk</hi> || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.4"><lb n="9"/><hi rend="rubricated">avyayāc
+                            ca</hi> || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.5">rūḍhā<hi rend="rubricated">nāṃ bahutve
+                            striyām a</hi><lb n="14"/>patyapratyayasya || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.6"><lb n="7"/><hi rend="rubricated"
+                            >gargayaskavidā</hi>dīnāṃ ca || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.7"> bhṛgvatryaṅgiraskutsavasiṣṭhagotame<lb n="6"
+                        />bhyaś ca || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.8"><hi rend="rubricated">yato paiti bhayam
+                            ādatte <lb n="18"/>vā tad apādānam</hi> || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.9"><lb n="20"/><hi rend="rubricated">īpsitaṃ ca
+                            rakṣārthānām</hi> || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.10"><hi rend="rubricated">yasmai ditsā rocate
+                                dhāra<lb n="16"/>yate vā tat sampradānam ||</hi>
+                    </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.11"><lb n="5"/><hi rend="rubricated">ya ādhāras
+                            tad adhikara</hi>ṇam || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.12"><hi rend="rubricated">yena kriyate tat
+                            karaṇa</hi>m || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.13"><hi rend="rubricated">yat kriyate tat karma
+                            || </hi></l>
+
+                    <l style="sūtra" xml:id="KS-2.4.14"><hi rend="rubricated">yaḥ karo<lb n="20"/>ti
+                            sa kartā || </hi></l>
+
+                    <l style="sūtra" xml:id="KS-2.4.15">kārayati yaḥ sa hetuś ca || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.16">teṣāṃ param ubhayaprāptau || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.17">prathamā vibhaktir liṅgārthavacane || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.18">āmantraṇe ca || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.19">śeṣāḥ
+                        karmakaraṇasampradānāpādānasvāmyādyadhikaraṇeṣu || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.20">paryapāṅyoge pañcamī || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.21">digitararte 'nyaiś ca || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.22">dvitīyainena || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.23">karmapravacanīyaiś ca || </l>
+
+
+                    <l style="sūtra" xml:id="KS-2.4.24">gatyarthakarmaṇi dvitīyācaturthyau ceṣṭāyām
+                        anadhvani || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.25">manyakarmaṇi cānādare 'prāṇini || </l>
+
+                    <l style="sūtra" xml:id="KS-2.4.26">namassvastisvāhāsvadhālaṃvaṣaḍyoge caturthī
+                        || </l>
+
+
+                    <p xml:id="BB-2.1-colophon"><hi rend="rubricated">iti pa<lb n="20"
+                            />ṇḍitajagaddharabhaṭṭaviracitāyāṃ bālabodhinyāṃ <pb
+                                facs="pdf p.115 left" n="113r"/><lb n="1"/>vṛttau kārakapādaś
+                            caturthaḥ </hi> ||</p>
+
+                    <milestone facs="pdf p.115 left" n="113v1" unit="folio"/>
+
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

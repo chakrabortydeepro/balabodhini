@@ -201,6 +201,12 @@
 
                     <l style="sūtra" xml:id="KS-1.6.8">saṃsāryaṃ yogasādhanam || </l>
 
+                    <p xml:id="BB-1.6-colophon"><hi rend="rubricated">iti śrīpaṇḍita<lb n="11"
+                                />bhaṭṭajagaddharavi<unclear reason="overwriting">hi</unclear>tāyāṃ
+                            bālabodhinyāṃ kā<lb n="12"/>tantralaghuvṛttau nipātapādaṣ ṣaṣṭhaḥ</hi> 6
+                        || <space unit="line" quantity="1"/>
+                        <lb n="13"/><hi rend="rubricated">sandhiprakaraṇaṃ samāptam</hi> ||</p>
+
                 </div>
                 <!-- end of chapter 6 of Book 1 -->
             </div>
