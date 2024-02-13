@@ -2271,6 +2271,30 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15"><lb n="18"/>|| ūṣmāṇaḥ śaṣasahāḥ ||</l>
 
+                    <p xml:id="BBP-1.1.15-1" style="stream2">atra sarvatra saṃjñākaraṇaṃ
+                            vyavahārapha<lb n="19"/>lakam iti tadabhāvād asyāḥ saṃjñāyā vyarthatvam
+                        ity āha | vakṣyamāṇa<lb n="20"/>yetyādi | prayojanaṃ nāstīti | nanu manor
+                        anūṣmaṇīti prayojanaṃ bhaviṣya<lb n="21"/>tīti cet <space type="pause"/> na
+                        | asya sūttrasya nirarthakatayā ācāryeṇānuraktatvāt || <lb n="22"/>tathā
+                        hi, anena sūtreṇa makāranakārayoḥ sthāne 'nusvāraḥ kriyate | sa <lb n="23"
+                        />ca padāntaviṣaye makārasthāne mo nusvāraṃ vyañjane ity anena sidhyati |
+                            nakā<lb n="24"/>rasthāne tv anusvāro bhavān ramata ityādau na
+                        dṛṣṭipadavīm adhirohati | <lb n="25"/>apadāntaviṣaye pi makāranakārasthāne
+                        manor anusvāro dhuṭīty anenā'<lb n="26"/>nusvāraḥ sidhyati | dhuṭi tu
+                        gamyate, manyata ity ādāv anusvāro neṣyate <space type="pause"/> anū<pb
+                            facs="pdf p.34" n="17r"/><lb n="1"/>ṣmaṇīti ūṣmapratiṣedho nirarthakaḥ
+                            <space type="pause"/> ūṣmaṇy api puṃśarā ityād<del>au</del>āv anusvā<lb
+                            n="2"/>rasya darśanāt ||</p>
+
+                    <p xml:id="BBP-1.1.15-2" style="stream2">anye tu kumārājñayā śarvavarmaṇaḥ
+                            prasiddhasaṃjñānvā<lb n="3"/>khyāne kṛtārambhatvāt tatprastāvāt
+                        tadantargatāpy ūṣmadharmayogād ūṣmāṇa ity ūṣma<lb n="4"/>saṃjñāpy anvākhyātā
+                        evam anyāsām apy anvartho veditavya ityācakṣate <space type="pause"/>
+                            apaga<lb n="5"/>to rtho yasyāsāv apārthaḥ <space type="pause"/> tataḥ
+                        svārthe kaḥ <space type="pause"/> bahuvrīhiprabodhonārtho vā kaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><lb n="6"/>|| || aḥ iti visarjanīyaḥ ||</l>
+
                 </div>
                 <!-- end of chapter 1 of book 1-->
 

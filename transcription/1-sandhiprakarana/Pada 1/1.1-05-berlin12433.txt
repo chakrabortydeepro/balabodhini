@@ -3150,16 +3150,19 @@
                         gamyate <space type="pause"/> manyate ity ā<lb n="14"/>dāv anusvāro neṣyate
                             <space type="pause"/> anūṣmaṇīti ūṣmapratiṣedho nirarthakaḥ <space
                             type="pause"/> ūṣmaṇy api puṃ<lb n="16"/>śarā ityādāv anusvārasya
-                        darśanāt <space type="pause"/> anye tu kumārājñayā śarvavarmaṇaḥ <lb n="17"
-                        />prasiddhasaṃjñānvākhyāne kṛtārambhatvāt tatprastāvāt tada<add
+                        darśanāt <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.15-2" style="stream2">anye tu kumārājñayā śarvavarmaṇaḥ <lb
+                            n="17"/>prasiddhasaṃjñānvākhyāne kṛtārambhatvāt tatprastāvāt tada<add
                             place="right-margin">nta</add>rgatāpy ūṣmadharmayogā<lb n="18"/>d ūṣmāṇa
                         ity ūṣmasaṃjñāpy anvākhyātā <space type="pause"/> evam anyāsām apy anvartho
                         veditavya ityā<lb n="19"/>cakṣate <space type="pause"/> apagato rtho
                         yasyāsāv apārthaḥ <space type="pause"/> tataḥ svārthe kaḥ <space
-                            type="pause"/> bahuvrīhiprabodho <lb n="20"/>nārtho vākaḥ ||</p>
-                    
-                    
-                    <l style="sūtra" xml:id="KS-1.1.16"> || <hi rend="rubricated">aḥ iti visarjanīyaḥ</hi> ||</l>
+                            type="pause"/> bahuvrīhiprabodho<lb n="20"/>nārtho vā kaḥ ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.16"> || <hi rend="rubricated">aḥ iti
+                            visarjanīyaḥ</hi> ||</l>
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

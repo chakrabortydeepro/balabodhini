@@ -155,33 +155,63 @@
                     <l style="sūtra" xml:id="KS-2.4.14"><hi rend="rubricated">yaḥ karo<lb n="20"/>ti
                             sa kartā || </hi></l>
 
-                    <l style="sūtra" xml:id="KS-2.4.15">kārayati yaḥ sa hetuś ca || </l>
+                    <l style="sūtra" xml:id="KS-2.4.15"><hi rend="rubricated">kārayati yaḥ sa hetuś
+                            ca</hi> || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.16">teṣāṃ param ubhayaprāptau || </l>
+                    <l style="sūtra" xml:id="KS-2.4.16"><hi rend="rubricated">teṣāṃ param ubhaya<lb
+                                n="12"/>prāptau</hi> || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.17">prathamā vibhaktir liṅgārthavacane || </l>
+                    <l style="sūtra" xml:id="KS-2.4.17"><hi rend="rubricated">prathamā vibhaktir
+                            liṅgā</hi><lb n="8"/>rthavacane || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.18">āmantraṇe ca || </l>
+                    <l style="sūtra" xml:id="KS-2.4.18"><hi rend="rubricated"
+                                    >āmantr<subst><del>i</del><add>a</add></subst>ṇe</hi> ca || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.19">śeṣāḥ
-                        karmakaraṇasampradānāpādānasvāmyādyadhikaraṇeṣu || </l>
+                    <l style="sūtra" xml:id="KS-2.4.19"><hi rend="rubricated">śeṣāḥ
+                            karmakaraṇasampradānāpādānasvāmyādya</hi>dhi<lb n="7"/>karaṇeṣu || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.20">paryapāṅyoge pañcamī || </l>
+                    <l style="sūtra" xml:id="KS-2.4.20"><hi rend="rubricated">paryapāṅyoge
+                            pañca</hi>mī || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.21">digitararte 'nyaiś ca || </l>
+                    <l style="sūtra" xml:id="KS-2.4.21"><hi rend="rubricated">digitararte nyai</hi>ś
+                        ca || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.22">dvitīyainena || </l>
+                    <l style="sūtra" xml:id="KS-2.4.22"><hi rend="rubricated">dvitīyainena</hi> || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.23">karmapravacanīyaiś ca || </l>
+                    <l style="sūtra" xml:id="KS-2.4.23"><hi rend="rubricated">karmapravaca<lb n="13"
+                            />nīyaiś ca</hi> || </l>
 
 
-                    <l style="sūtra" xml:id="KS-2.4.24">gatyarthakarmaṇi dvitīyācaturthyau ceṣṭāyām
-                        anadhvani || </l>
+                    <l style="sūtra" xml:id="KS-2.4.24"><hi rend="rubricated">gatyarthakarmaṇi
+                            dvitīyācaturthyau ceṣṭā</hi><lb n="17"/>yām anadhvani || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.25">manyakarmaṇi cānādare 'prāṇini || </l>
+                    <l style="sūtra" xml:id="KS-2.4.25"><lb n="6"/><hi rend="rubricated"
+                            >manyakarmaṇi cānādare</hi> prāṇini || </l>
 
-                    <l style="sūtra" xml:id="KS-2.4.26">namassvastisvāhāsvadhālaṃvaṣaḍyoge caturthī
-                        || </l>
+                    <l style="sūtra" xml:id="KS-2.4.26"><hi rend="rubricated"
+                                >namaḥsvastisvāhāsvadhā<lb n="3"/>laṃvaṣaḍyoge caturthī</hi> || </l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.27"><hi rend="rubricated">tumārthāś ca bhāvavā<lb n="15"/>cinaḥ</hi> ||</l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.28"><lb n="8"/><hi rend="rubricated">tṛtīyā sahayoge</hi> ||</l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.29"><hi rend="rubricated">hetvarthe ||</hi></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.30"><hi rend="rubricated">kutsite ṅge ||</hi></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.31"><hi rend="rubricated">viśeṣaṇe ||</hi></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.32"><hi rend="rubricated">kartari ca ||</hi></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.33"></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.34"></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.35"></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.36"></l>
+                    
+                    <l style="sūtra" xml:id="KS-2.4.37"></l>
 
 
                     <p xml:id="BB-2.1-colophon"><hi rend="rubricated">iti pa<lb n="20"

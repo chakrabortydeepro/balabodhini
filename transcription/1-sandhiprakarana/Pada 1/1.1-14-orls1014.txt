@@ -1111,7 +1111,7 @@
                     <p xml:id="BBP-1.1.14-1" style="stream2">ṣṭhā gati <lb n="23"/>antapūrvaḥ |
                         svasya svasya sthānasya ante tiṣṭhati <space type="pause"/> nāmni sthaś ceti
                         ḍaḥ | <lb n="24"/>striyām ādāp <space type="pause"/> varṇaviṣayo py
-                        antasthāśabdaḥ strīliṅgaḥ svabhāvāt <pb facs="pdf p.21 left" n="19r"/><lb
+                        antasthāśabdaḥ strīliṅgaḥ svabhāvāt <pb facs="pdf p.21 left" n="19v"/><lb
                             n="1"/>yathā kalattraṃ striyām api napuṃsake <space type="pause"/></p>
 
                     <p xml:id="BBP-1.1.14-2" style="stream2">la<del unit="char" extent="1"
@@ -1128,6 +1128,37 @@
                     <l style="sūtra" xml:id="KS-1.1.15">
                         <hi rend="rubricated">ūṣmā ||</hi></l>
 
+                    <p xml:id="BBP-1.1.15-1" style="stream2"> atra <add place="above">sarvatra</add>
+                        saṃjñākaraṇaṃ vyavahāraphalakam iti <lb n="8"/>tadabhāvād asyāḥ saṃjñāyā
+                        vyarthatvam ity āha | vakṣyamāṇayetyādi <space type="pause"/> prayo<lb n="9"
+                        />janaṃ nāstīti | nanu manor anūṣmaṇīti prayojanaṃ bhaviṣyatīti cet <space
+                            type="pause"/> na <lb n="10"/>asya sūtrasya
+                        nirarthakatayā''cāryeṇānurarthatvāt <space type="pause"/> tathā hi <space
+                            type="pause"/> anena <lb n="11"/>sūtreṇa makāranakārayoḥ sthāne nusvāraḥ
+                        kriyate <space type="pause"/> sa ca padānta<lb n="12"/>viṣaye makārasthāne
+                        mo nusvāraṃ vyañjane ity anena sidhyati | na<lb n="13"/>kārasthāne tv
+                        anusvāro bhavān ramata ityādau na dṛṣṭipadavīm adhi<lb n="14"/>rohati |
+                        apadāntaviṣaye pi makāranakārasthāne manor anu<lb n="15"/>svāro dhuṭīty
+                        anenānusvāraḥ sidhyati | adhuṭi tu gamyate, manyata <lb n="16"/>ity ādāv
+                        anusvāro neṣyate | anūṣmaṇīti ūṣmapratiṣedho nira<lb n="17"/>rthakaḥ <space
+                            type="pause"/> ūṣmaṇy api puṃśara ityādāv anusvāra<pc> </pc>darśanāt
+                        |</p>
+
+                    <p xml:id="BBP-1.1.15-2" style="stream2">anye tu, <lb n="18"/>kumārājñayā
+                                śa<subst><del>rma</del><add place="above">rva</add></subst>varmaṇaḥ
+                        prasiddhasaṃjñānvākhyāne kṛtārambha<lb n="19"/>tvāt tatprastāvāt
+                            tadantarga<add place="above">tā</add>py ūṣmadharmayogād ūṣmāṇa ity
+                            ūṣmasaṃjñā<lb n="20"/>py anvākhyātā | evam anyāsām apy anvartho
+                                vedita<del><unclear reason="crossed out">vya</unclear></del>vya
+                            ityācakṣa<lb n="21"/>te | apagato rthāt prayojanād a'pārthaḥ <note
+                            type="gloss" place="below">apārtha eva apārthakaḥ <space type="pause"/>
+                            svārthe kaḥ | yad vā <space type="pause"/> apagato rtho yasyāsāv
+                                apārtha<unclear reason="background_noise">kaḥ</unclear></note><space
+                            type="pause"/> tataḥ svārthe kaḥ | bahuvrīhi<pb facs="pdf p.21 right"
+                            n="20r"/><lb n="1"/>prabodhanārtho vā kaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.16">
+                        <hi rend="rubricated">aḥ iti</hi> ||</l>
 
 
                 </div>
