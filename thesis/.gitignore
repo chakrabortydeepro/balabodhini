@@ -19,7 +19,7 @@
 *ind
 lexical.*
 *.log
-manuscripts.*
+*.lot
 *.mst
 *.orig
 *.out
