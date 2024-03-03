@@ -2491,7 +2491,7 @@
                             tamādaya</hi>
                         <metamark function="source">[Kā.Sū. 2.6.40]</metamark>iti śas | sa ca
                         vīpsāyāṃ tadantāc cāsmāt sāmānyenotpannasya sipratyayasya <hi>avyayāc
-                            cet</hi>i <metamark function="source">[Kā.Sū. 2.4.4]</metamark> luk
+                            ce</hi>ti <metamark function="source">[Kā.Sū. 2.4.4]</metamark> luk
                         |</p>
 
                     <p xml:id="BBP-1.1.10-2" style="stream2">nanu pūrvavastuparāmarśitayā
@@ -2547,7 +2547,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.11">
                         <label>KS 1.1.11</label><anchor n="KS-1.1.11-t"/><hi>vargāṇāṃ
-                            prathamadvitīyāḥ śaṣasāś cāghoṣāḥ ||1.1.11|| </hi></l>
+                            prathamadvitīyāś śaṣasāś cāghoṣāḥ ||1.1.11|| </hi></l>
 
                     <ab corresp="#KS-1.1.11" type="apparatus">
                         <list type="translation">
@@ -2772,7 +2772,7 @@
                     <ab corresp="#BB-1.1.13-1" type="apparatus">
                         <list type="translation">
                             <item corresp="#BB-1.1.13-1-t">The speech sounds <foreign>ṅ, ñ, ṇ,
-                                    n</foreign> and <foreign>m</foreign> are the nasals
+                                    n</foreign> and <foreign>m</foreign> are termed nasals
                                     (<foreign>anunāsika</foreign>): <foreign>ṅ, ñ, ṇ, n,
                                 m</foreign>. The application is in rules like <foreign><hi>ato 'nto
                                         'nusvāro 'nunāsikāntasya (3.3.31)</hi></foreign>, “when a
@@ -2829,10 +2829,10 @@
                             <item corresp="#BB-1.1.13-3-t">Considering the meaning of the term
                                     <foreign>anunāsika</foreign> “nasal,” i.e. a nasal sound is that
                                 which acquires nose, <foreign>ṃ</foreign> being uttered through the
-                                nose (<foreign>nāsikya</foreign>) is also nasal. Thus, as it is not
-                                an obstruent there is no deletion of the suffix
-                                    <foreign>sIC</foreign> in words like <foreign>araṃsta</foreign>
-                                “made love”.</item>
+                                nose (<foreign>nāsikya</foreign>) is also nasal. Thus, since it
+                                    (<foreign>ṃ</foreign>) is not an obstruent, there is no deletion
+                                of the suffix <foreign>sIC</foreign> in words like
+                                    <foreign>araṃsta</foreign> “made love”.</item>
                         </list>
                     </ab>
 
@@ -2880,7 +2880,9 @@
 
                     <ab corresp="#KS-1.1.14" type="apparatus">
                         <list type="translation">
-                            <item corresp="#KS-1.1.14-t"/>
+                            <item corresp="#KS-1.1.14-t">The approximants
+                                    (<foreign>antasthā</foreign>) are <foreign>y, r, l</foreign> and
+                                    <foreign>v</foreign>. </item>
                         </list>
                     </ab>
 
@@ -2888,22 +2890,43 @@
 
                     <p xml:id="BB-1.1.14-1" style="stream1"><label>BB 1.1.14</label>
                         <anchor n="BB-1.1.14-1-t"/>yaralavā varṇā antasthāsaṃjñā bhavanti |
-                        prayojanaṃ saparasvarāyās samprasāraṇam antasthāyā ityādi | ijyate | gṛhyate
-                        | upyate </p>
+                        prayojanaṃ, <hi>saparasvarāyās samprasāraṇam antasthāyā</hi>
+                        <metamark function="source">[Kā.Sū. 3.4.1]</metamark> ityādi | ijyate |
+                        gṛhyate | upyate |</p>
 
                     <ab corresp="#BB-1.1.14-1" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.14-1-t"/>
+                            <item corresp="#BB-1.1.14-1-t">The speech sounds <foreign>y, r,
+                                    l</foreign> and <foreign>v</foreign> are termed approximants
+                                    (<foreign>antasthā</foreign>). The application is in rules like
+                                        <foreign><hi>saparasvarāyās samprasāraṇam antasthāyāḥ
+                                        (3.4.1)</hi></foreign>, “vocalization
+                                    (<foreign>samprasāraṇa</foreign>) of an approximant (i.e.
+                                replacement with the corresponding vowel) takes place (in the
+                                segment) together with the following vowel”. E.g.
+                                    <foreign>ijyate</foreign> (&#60; √<foreign>yaj</foreign>) “is
+                                being worshiped”, <foreign>gṛhyate</foreign> (&#60;
+                                    √<foreign>grah</foreign>) “is being taken”,
+                                    <foreign>upyate</foreign> (&#60; √<foreign>vap</foreign>) “is
+                                being sown”. </item>
                         </list>
                     </ab>
 
                     <p xml:id="BB-1.1.14-2" style="stream1"><anchor n="BB-1.1.14-2-t"
-                        />lakārasyāntasthātvād glāna ityādāv āto ntasthāsaṃyuktād iti niṣṭhānatvam
+                        />lakārasyāntasthātvād glāna ityādā<hi>v āto 'ntasthāsaṃyuktād i</hi>ti
+                            <metamark function="source">[Kā.Sū. 4.6.103]</metamark>niṣṭhānatvam
                         ||</p>
 
                     <ab corresp="#BB-1.1.14-2" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.14-2-t"/>
+                            <item corresp="#BB-1.1.14-2-t">Because <foreign>l</foreign> is an
+                                approximant, the past participial suffix <foreign>na</foreign>
+                                occurs in words like <foreign>glāna</foreign> “wearied” according to
+                                the rule <hi><foreign>āto 'ntasthāsaṃyuktāt
+                                (4.6.103)</foreign></hi>, “when immediately preceded by
+                                    <foreign>ā</foreign> that is conjoined with an approximant, the
+                                past participial suffix <foreign>ta</foreign> turns into
+                                    <foreign>na</foreign>.”</item>
                         </list>
                     </ab>
 
@@ -2927,18 +2950,25 @@
 
                     <ab corresp="#KS-1.1.15" type="apparatus">
                         <list type="translation">
-                            <item corresp="#KS-1.1.15-t"/>
+                            <item corresp="#KS-1.1.15-t">The fricatives (<foreign>ūṣman</foreign>)
+                                are <foreign>ś, ṣ, s</foreign> and <foreign>h</foreign>. </item>
                         </list>
                     </ab>
 
                     <p xml:id="BB-1.1.15" style="stream1"><label>BB 1.1.15</label>
                         <anchor n="KS-1.1.15-t"/>śaṣasahā varṇā ūṣmasaṃjñā bhavanti | vakṣyamāṇayā
-                        śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḥ prayojanaṃ nāstīty apārthako
-                        yogārambhaḥ ||</p>
+                        śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḥ prayojanaṃ nāstīti yogārambho
+                        'pārthakaḥ ||</p>
 
                     <ab corresp="#BB-1.1.15" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.15-t"/>
+                            <item corresp="#BB-1.1.15-t">The speech sounds <foreign>ś, ṣ,
+                                    s</foreign> and <foreign>h</foreign> are termed fricatives
+                                    (<foreign>ūṣman</foreign>). Because of the use of the term
+                                    <foreign>śiṭ</foreign> “spirant” that will eventually be
+                                defined, there is no application of the term fricative
+                                    (<foreign>ūṣman</foreign>). Thus, stating this rule is useless.
+                            </item>
                         </list>
                     </ab>
 
@@ -2962,6 +2992,18 @@
                         svārthe kaḥ | bahuvrīhiprabodhanārtho vā kaḥ ||</p>
 
                     <l style="sūtra" xml:id="KS-1.1.16"> ||1.1.16|| aḥ iti visarjanīyaḥ ||</l>
+
+                    <ab corresp="#KS-1.1.16" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#KS-1.1.15-t"/>
+                        </list>
+                    </ab>
+
+                    <ab corresp="#BB-1.1.15" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.15-t"/>
+                        </list>
+                    </ab>
 
                     <l style="sūtra" xml:id="KS-1.1.17"> ||1.1.17|| ẖka iti jihvāmūlīyaḥ ||</l>
 

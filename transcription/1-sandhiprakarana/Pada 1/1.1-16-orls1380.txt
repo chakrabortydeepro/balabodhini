@@ -581,7 +581,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15"> ūṣmāṇaḥ śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā <lb n="3"/>varṇā ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā <lb n="3"/>varṇā ūṣmasaṃjñā
                         bhavanti <space type="pause"/> śa ṣa sa ha <space type="pause"/>
                         vakṣyamāṇayā <lb n="4"/>śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḥ prayojanaṃ <lb
                             n="5"/>nāstīty apārthako yaṃ yogārambhaḥ ||</p>

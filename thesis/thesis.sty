@@ -1,11 +1,59 @@
+%    \begin{environment}{hyperref}
+	%Here we load hyperref and set the colours
+	%we want for hyperlinking.
+	%
+	% We put it at this position \emph{after} loading 
+	% the index/glossaries package, \verb|xelatex-indexing|,
+	% to avoid clashes.  See the documentation to
+	% \verb|indextools| on this topic of priority. 
+	%    \begin{macrocode}
+		\usepackage[
+		final=true, % so it doesn't get turned off by “draft”
+		linkcolor = indigo(dye),
+		anchorcolor = indigo(dye),
+		citecolor = indigo(dye),
+		filecolor = indigo(dye),
+		urlcolor = indigo(dye),
+		menucolor = indigo(dye),
+		%  pagecolor = indigo(dye),
+		]{hyperref}  
+		%    \end{macrocode}
+	%    \end{environment}
+%
+%\begin{macro}{xelatex-glossaries}
+%    Load \verb|xelatex-glossaries| \emph{after} \verb|hyperref|, so that
+%    indexed words in the main text get linked to the glossary.
+%    \begin{macrocode}
+%	\usepackage{xelatex-glossaries}
+	%    \end{macrocode}    
+%\end{macro}
+% \subsection{Load the xcolor package here, just before the document begins}
+% \begin{macro}{xcolor}
+	%    \begin{macrocode}
+		\usepackage{xcolor} % why here?  Move it to the sty file?
+		%    \end{macrocode}
+	% \end{macro}
+%
+% \begin{macro}{\definecolor}
+	% And define our desired colours for hyperref above, 
+	% with the help of \url{http://latexcolor.com/}.  
+	%
+	% This needs to be stated here, not earlier,
+	% because \verb|\definecolour| is depends on the xcolor package loaded
+	% in the main incremental\_SS\_Translation.tex file.
+	%    \begin{macrocode}
+		%\definecolor{darkbrown}{rgb}{0.4, 0.26, 0.13} 
+		\definecolor{indigo(dye)}{rgb}{0.0, 0.25, 0.42}
+		%    \end{macrocode}
+	%  \end{macro}
+
+
+%\section{Geometry}
 \usepackage[left=1.5in,right=1.5in,top=1.0in,bottom=1.0in,
 footskip=0.25in]{geometry}
 
-\usepackage{lipsum} % For dummy text
-\usepackage[titletoc]{appendix}
-\usepackage{biblatex}
 
-
+%\section{Preamble pages}
 % Sets up page numbering for pages prior to the many body
 \def\preamblepagenumbering{
 	\renewcommand{\thepage}{\roman{page}}
@@ -17,7 +65,23 @@ footskip=0.25in]{geometry}
 	\setcounter{page}{1} % sets number counter back to 1
 	\pagestyle{plain} 
 }
-
 % Set numbering depth to include subsubsections
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
+
+\usepackage{lipsum} % For dummy text
+\usepackage[titletoc]{appendix}
+
+%\section{Languages and Fonts}
+%\begin{polyglossia}
+\usepackage{polyglossia}
+\setmainfont{Times New Roman}
+%\end{polyglossia}
+
+
+%\section{Bibliography}
+\usepackage[style=authoryear, backend=biber]{biblatex}
+\usepackage{glossaries}
+\makeglossaries
+\loadglsentries{mss}
+

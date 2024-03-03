@@ -377,9 +377,9 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15">|| ūṣmāṇaś śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasa<lb n="5"/>hā varṇā ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasa<lb n="5"/>hā varṇā ūṣmasaṃjñā
                         bhavanti | vakṣyamāṇayā śiṭsaṃjñayā vyavahārā<lb n="6"/>d ūṣmasaṃjñāyāḥ
-                        prayojanaṃ nāstīty yogārambho pārthakaḥ ||</p>
+                        prayojanaṃ nāstīti yogārambho pārthakaḥ ||</p>
 
                     <l style="sūtra" xml:id="KS-1.1.16"><lb n="7"/>aḥ iti visarjanīyaḥ ||</l>
 

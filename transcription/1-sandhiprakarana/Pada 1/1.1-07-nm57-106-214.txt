@@ -669,11 +669,47 @@
                             śaṣasahāḥ</hi>
                     </l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1"><lb n="8"/>śaṣasahā varṇā ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1"><lb n="8"/>śaṣasahā varṇā ūṣmasaṃjñā
                         bhavanti | vakṣyamāṇayā <lb n="9"/>śiṭsaṃjñayā vyavahārād ū'ṣmasaṃjñāyāḥ
                         prayojanaṃ <lb n="10"/>nāstīty apārthako yogārambhaḥ ||</p>
 
-                    <l style="sūtra" xml:id="KS-1.1.16">aḥ iti visarjanī<lb n="11"/>yaḥ || </l>
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><hi rend="rubricated">aḥ iti
+                            visarjanī</hi><lb n="11"/>yaḥ || </l>
+
+                    <p xml:id="BB-1.1.16" style="stream1">akārāt paraḥ kaṇṭhya ūṣmā
+                            visarjanīyasaṃ<lb n="12"/>jño bhavati <space type="pause"/> prayojanaṃ
+                            <space type="pause"/> visarjanīyaś ce che vā śam i<lb n="13"/>tyādi |
+                        kaś cauraḥ yaś channaḥ <space type="pause"/> caturṇām apy ayogavāhānāṃ <lb
+                            n="14"/>svarūpanirdeśārtha iti śabdaḥ <space type="pause"/>
+                        uccāraṇārthās tv akapāḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.17"><lb n="15"/><hi rend="rubricated">ẖka iti
+                            jihvāmū</hi>līyaḥ ||</l>
+
+                    <p xml:id="BB-1.1.17" style="stream1">kakārāt pūrvo varṇo jihvā<lb n="16"
+                        />mūlabhavaḥ ūṣmā jihvāmūlīya<del>ṃ <unclear reason="crossed out">bhavetyādi
+                                kaṇṭhyo</unclear></del><pb facs="pdf p.9" n="7v"/><lb n="1"/>saṃjño
+                        bhavati <space type="pause"/> prayojanaṃ kakhayor jihvāmūlīyaṃ na vetyādi
+                            <space type="pause"/> kaẖ kopī <lb n="2"/>yaẖ khinnaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.18"><hi rend="rubricated">ḫpa ity
+                            upadhmānīyaḥ</hi> ||</l>
+
+                    <p xml:id="BB-1.1.18" style="stream1">pakārāt pūrva oṣṭhya ūṣmā upa<lb n="3"
+                        />dhmānīyasaṃjño bhavati <space type="pause"/> prayojanaṃ paphayor
+                        upadhmānīyaṃ na veti <lb n="4"/>kaḫ pāti yaḫ phalati <del rend="erased"
+                                ><unclear>|| paḫ ity upadhmānīyaḥ</unclear></del>||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.19"><hi rend="rubricated">aṃ ity anusvāraḥ
+                            ||</hi> ||</l>
+
+                    <p xml:id="BB-1.1.19" style="stream1">akārāt para ānunāsikyo nusvārasaṃjño
+                        bhavati <space type="pause"/> prayojanaṃ <lb n="6"/>mo nusvāraṃ vyañjane
+                        ityādi tvaṃ ramyaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.20">pūrvaparayor arthopala<lb n="7"/>bdhau padam
+                        ||</l>
 
                 </div>
                 <!-- end of Chapter 1 of Book 1 -->

@@ -539,7 +539,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15">ūṣmāṇaś śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śa<lb n="4"/>ṣasahā varṇā ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1">śa<lb n="4"/>ṣasahā varṇā ūṣmasaṃjñā
                         bhavanti <space type="pause"/> vakṣya<lb n="5"/>mānayā śiṭsaṃjñayā
                         vyavahārād ūṣmasaṃ<lb n="6"/>jñāyāḥ prayojanaṃ nāsti iti yogārambho <lb
                             n="7"/>pārthakaḥ ||</p>

@@ -679,7 +679,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15"> || ūṣmāṇaś śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">|| śaṣa<lb n="5"/>sahā varṇāḥ ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1">|| śaṣa<lb n="5"/>sahā varṇāḥ ūṣmasaṃjñā
                         bhavanti | śa ṣa sa ha | vakṣyamāṇayā śiṭsaṃ<lb n="6"/>jñayā vyavahārā<g
                             ref="#sharada-separator"/>d ūṣmasaṃjñāyāḫ prayojanaṃ nāsti ity apārthako
                         yaṃ <lb n="7"/>yogārambhaḥ ||</p>

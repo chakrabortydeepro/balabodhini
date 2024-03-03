@@ -1,7 +1,7 @@
 \documentclass[12pt]{report}
 \usepackage{thesis}
 
-\addbibresource{thesis.bib}
+\addbibresource{deepro.bib}
 
 \title{Bālabodhinī}
 \author{Deepro Chakraborty}
@@ -23,10 +23,19 @@
 	\include{chapters/7-edition/1-4.tex}
 	\include{chapters/7-edition/1-5.tex}
 	\include{chapters/7-edition/1-6.tex}
-	\printbibliography
+	
 	\begin{appendices}
 		\include{appendices/appendix-1.tex}
-		\include{appendices/appendix-2.tex}
+		\include{appendices/appendix-2.tex}		
 	\end{appendices}
+
+	\printglossary[title={List of Manuscripts Used}]
+	\input{mss.tex}
+
+%\defbibheading{primary}{}
+%\printbiblist[keyword=primary,heading=bibintoc,title={Primary Sources}]{shorthand}
+
+\defbibheading{cat}{}
+\printbiblist[keyword=cat,heading=bibintoc,title={Manuscript Catalogues}]{shorthand}
 		
 \end{document}

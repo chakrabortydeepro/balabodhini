@@ -353,7 +353,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15"/>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1"><gap reason="damage"/><pb facs="pdf p.6"
+                    <p xml:id="BB-1.1.15" style="stream1"><gap reason="damage"/><pb facs="pdf p.6"
                             n="5v"/><lb n="1"/>saṃjñāyāḥ prayojanaṃ nāstīti yogārambhaḥ apārthakaḥ
                             <gap reason="damage"/></p>
 

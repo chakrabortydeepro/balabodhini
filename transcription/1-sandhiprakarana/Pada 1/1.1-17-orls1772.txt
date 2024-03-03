@@ -680,7 +680,7 @@
                     <l style="sūtra" xml:id="KS-1.1.15">
                         <hi rend="rubricated">ūṣmāṇaḥ śaṣasahāḥ</hi> ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā <lb n="3"/>ūṣmasaṃjñā
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā <lb n="3"/>ūṣmasaṃjñā
                         bhavanti <space type="pause"/> śa ṣa sa hā <space type="pause"/> vakṣyaṇayā
                         śiṭsaṃjñayā <lb n="4"/>vyavahārād ūṣmasaṃjñāyāḥ prayojanam <space
                             type="pause"/> nāstīty apā<lb n="5"/>rthako yogārambhaḥ ||</p>

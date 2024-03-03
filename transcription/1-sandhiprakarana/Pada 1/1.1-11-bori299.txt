@@ -731,7 +731,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15"> ūṣmā<lb n="8"/>ṇaś śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃ<lb n="9"/>jñā
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā ūṣmasaṃ<lb n="9"/>jñā
                         bhavanti || vakṣyamāṇayā śiṭsaṃjñayā<g ref="#sharada-separator"/> vyava<lb
                             n="10"/>hārād ūṣmasaṃjñāyāḫ prayojanaṃ nāstīty a<lb n="11"/>pārthako
                         yogaḥ ||</p>

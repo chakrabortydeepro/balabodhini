@@ -521,7 +521,7 @@
 
                     <l style="sūtra" xml:id="KS-1.1.15">|| ūṣmā<lb n="5"/>ṇaḥ śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bha<lb n="6"
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bha<lb n="6"
                         />vanti || śa ṣa sa ha || vakṣyamā<subst><del>na</del><add place="above"
                                 >ṇa</add></subst>yā śiṭsaṃjñayā <lb n="7"/>vyavahārād ūṣmasaṃjñayā,
                         prayojanaṃ || nāstīty a<lb n="8"/>pārthako yaṃ yogārambhaḥ ||</p>

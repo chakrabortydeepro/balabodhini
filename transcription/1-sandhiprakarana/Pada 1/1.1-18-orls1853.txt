@@ -600,7 +600,7 @@
                     <l style="sūtra" xml:id="KS-1.1.15">
                         <hi rend="rubricated">ūṣmāṇāḥ śa<lb n="15"/>ṣasahāḥ </hi>||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhava<lb
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhava<lb
                             n="16"/>nti <space type="pause"/> vakṣyamāṇayā śiṭsaṃjñayā vyavahārād
                             ū'ṣma<lb n="17"/>saṃjñāyāḥ prayojanaṃ nāstīty apārthako yogāra<lb n="18"
                         />mbhaḥ ||</p>

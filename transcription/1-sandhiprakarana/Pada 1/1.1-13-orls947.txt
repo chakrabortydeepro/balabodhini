@@ -636,7 +636,7 @@
                     <l style="sūtra" xml:id="KS-1.1.15">
                         <hi rend="rubricated">ūṣmāṇaś śaṣa<lb n="2"/>sahāḥ</hi> ||</l>
 
-                    <p xml:id="BB-1.1.15-1" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhavanti <lb
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhavanti <lb
                             n="3"/>vakṣyamāṇayā śiṭsaṃjñayā vyavahārād ūṣmasaṃ<lb n="3"/>jñāyāḥ
                         prayojanaṃ nāsti ity a'pārthako <add place="above">yaṃ</add> yogārambhaḥ </p>
 
