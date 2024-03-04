@@ -214,7 +214,7 @@
                         <caesura/>
                          tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
                         <caesura/>
-                        <lb n="24"/>kaśmīrādhipatiḥ kṛpājalanidhir vikhyātakīrtiś citaṃ
+                        <lb n="24"/>kaśmīrādhipatiḥ kṛpājalanidhir vikhyātakīrtiś ciraṃ
                         <caesura/>
                          jīyād dhaidaraśāhisūnur anaghaḥ kandarpa<lb n="25"/>darpāpahaḥ 11 ||</l>
 

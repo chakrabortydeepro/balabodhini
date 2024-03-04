@@ -250,7 +250,7 @@
                         <lb n="6"/>tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
                         <caesura/>
                          kaśmīrādhipatiḥ <lb n="7"/>kṛpājalanidhi <add place="below">|</add> r
-                        vikhyātakīrti <add place="below">|</add> ś citaṃ
+                        vikhyātakīrti <add place="below">|</add> ś ciraṃ
                         <caesura/>
                          jīyāt haidaraśāhisūnu <note type="gloss" place="above">hassanaḥ</note> r
                         anaghaḥ ka<lb n="8"/>ndarpadarpāpahaḥ || </l>
