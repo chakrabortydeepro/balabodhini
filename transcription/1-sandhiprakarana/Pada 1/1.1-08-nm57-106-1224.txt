@@ -210,7 +210,7 @@
                                 a</add></subst>vati mayā tanyate grantha eṣaḥ 10 ||</l>
 
                     <l xml:id="BBP-1.1.1.1.11">sarvakṣmā<lb n="23"
-                        />patimaulihāritanuvaprājyasvarājyaḥ paraṃ
+                    />patimauli<pc> </pc>hāritanuva<pc> </pc>prājyasvarājyaḥ paraṃ
                         <caesura/>
                          tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
                         <caesura/>

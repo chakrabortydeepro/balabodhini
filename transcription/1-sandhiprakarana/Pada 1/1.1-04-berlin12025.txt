@@ -212,8 +212,8 @@
                          bhūjānau <pb n="2r"/><lb n="1"/>hassanākhye bhuvam avati mayā tanyate
                         grantha eṣaḥ 10 </l>
 
-                    <l xml:id="BBP-1.1.1.1.11">sarvakṣmāpatimauli<lb n="2"
-                        />hāritanavaprājyasvarājyaḥ paraṃ
+                    <l xml:id="BBP-1.1.1.1.11">sarvakṣmāpatimauli<pc> </pc><lb n="2"
+                    />hārita<pc> </pc>nava<pc> </pc>prājyasvarājyaḥ paraṃ
                         <caesura/>
                          tattvātattvavicārakāridhiṣaṇo gā<lb n="3"/>mbhīryaśauryānvitaḥ
                         <caesura/>

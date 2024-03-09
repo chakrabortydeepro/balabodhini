@@ -267,7 +267,7 @@
                          bhūjānau hassanākhye bhuvam avati mayā tanyate grantha eṣaḥ || 10 ||</l>
 
                     <l xml:id="BBP-1.1.1.1.11" style="stream2"><label>BBP
-                        1.1.1.1.11</label>sarvakṣmāpatimaulihāritanavaprājyasvarājyaḥ paraṃ
+                        1.1.1.1.11</label>sarvakṣmāpatimaulir āhitanavaprājyasvarājyaḥ paraṃ
                         <caesura/>
                          tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ |
                         <caesura/>

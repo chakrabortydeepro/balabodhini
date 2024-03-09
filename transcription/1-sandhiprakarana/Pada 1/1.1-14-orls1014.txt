@@ -226,8 +226,8 @@
                         10 |</l>
 
                     <l xml:id="BBP-1.1.1.1.11">sarvakṣmāpatimauli<subst><del>r āhi</del><add
-                                place="right-margin">r āhi</add></subst>tanavaprājyaḥ svarājyaḥ <lb
-                            n="27"/>paraṃ
+                                place="right-margin">r āhi</add></subst>ta<pc> </pc>nava<pc
+                        > </pc>prājyaḥ svarājyaḥ <lb n="27"/>paraṃ
                         <caesura/>
                          tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
                         <caesura/>

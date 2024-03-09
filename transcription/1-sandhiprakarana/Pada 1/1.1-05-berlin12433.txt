@@ -222,7 +222,7 @@
                          bhūjānau hassanākhye bhuvam avati mayā tanyate grantha eṣaḥ </l>
 
                     <l xml:id="BBP-1.1.1.1.11">
-                        <lb n="3"/>sarvakṣmāpatimaulihāritanavaprājyasvarājyaḥ paraṃ
+                        <lb n="3"/>sarvakṣmāpatimauli<pc> </pc>hārita<pc> </pc>nava<pc> </pc>prājyasvarājyaḥ paraṃ
                         <caesura/>
                          tattvātattvavicāra<lb n="4"/>kāridhiṣaṇo gāmbhīryaśauryānvitaḥ ||
                         <caesura/>

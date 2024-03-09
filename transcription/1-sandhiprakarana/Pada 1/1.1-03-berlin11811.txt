@@ -244,8 +244,8 @@
                             place="below">|</add>
                         <lb n="5"/>tanyate grantha eṣaḥ || </l>
 
-                    <l xml:id="BBP-1.1.1.1.11"> sarvakṣmāpatimauli <add place="below">|'</add> r
-                        āhitanavaprājyasvarājyaḥ paraṃ
+                    <l xml:id="BBP-1.1.1.1.11"> sarvakṣmāpatimauli<g ref="#sharada-separator"/>'r
+                        āhita<pc> </pc>nava<pc> </pc>prājyasvarājyaḥ paraṃ
                         <caesura/>
                         <lb n="6"/>tattvātattvavicārakāridhiṣaṇo gāmbhīryaśauryānvitaḥ
                         <caesura/>
