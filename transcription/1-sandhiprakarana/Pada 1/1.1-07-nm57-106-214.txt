@@ -680,9 +680,11 @@
                     <p xml:id="BB-1.1.16" style="stream1">akārāt paraḥ kaṇṭhya ūṣmā
                             visarjanīyasaṃ<lb n="12"/>jño bhavati <space type="pause"/> prayojanaṃ
                             <space type="pause"/> visarjanīyaś ce che vā śam i<lb n="13"/>tyādi |
-                        kaś cauraḥ yaś channaḥ <space type="pause"/> caturṇām apy ayogavāhānāṃ <lb
-                            n="14"/>svarūpanirdeśārtha iti śabdaḥ <space type="pause"/>
-                        uccāraṇārthās tv akapāḥ ||</p>
+                        kaś cauraḥ yaś channaḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.16-2" style="stream1">caturṇām apy ayogavāhānāṃ <lb n="14"
+                        />svarūpanirdeśārtha itiśabdaḥ <space type="pause"/> uccāraṇārthās tv
+                        akapāḥ ||</p>
 
                     <l style="sūtra" xml:id="KS-1.1.17"><lb n="15"/><hi rend="rubricated">ẖka iti
                             jihvāmū</hi>līyaḥ ||</l>

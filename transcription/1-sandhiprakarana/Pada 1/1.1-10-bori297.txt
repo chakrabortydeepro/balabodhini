@@ -383,6 +383,34 @@
 
                     <l style="sūtra" xml:id="KS-1.1.16"><lb n="7"/>aḥ iti visarjanīyaḥ ||</l>
 
+                    <p xml:id="BB-1.1.16" style="stream1">|| akārāt paraẖ kaṇṭhya ūṣmā visarjanī<lb
+                            n="8"/>yasaṃjño bhavati | prayojanaṃ visarjanīyaś ce che vā śam ityādi |
+                            <lb n="9"/>kaś cauraḥ <space type="pause"/> yaś channaḥ |</p>
+
+                    <p xml:id="BB-1.1.16-2" style="stream1"> caturṇām apy ayogavāhānāṃ
+                        svarūpanirdeśārtha <lb n="10"/>itiśabdaḥ | uccāraṇārthās tv akapāḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.17">|| ẖka iti jihvāmūlī<lb n="11"/>yaḥ ||</l>
+
+                    <p xml:id="BB-1.1.17" style="stream1">kakārāt pūrvo varṇo jihvāmūlabhava ūṣmā
+                            jihvāmūlīyasaṃ<lb n="12"/>jño bhavati | <unclear>yavākṣatir</unclear>
+                        jihvāmūlīya iti lipikarāḥ | <lb n="13"/>prayojanaṃ kakhayor jihvāmūlīyaṃ na
+                        vetyādi | kaẖ kopī yaẖ khinnaḥ <lb n="14"/>||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.18">ḫpa ity upadhmānīyaḥ ||</l>
+
+                    <p xml:id="BB-1.1.18" style="stream1">|| pakārāt pūrva oṣṭhya ūṣmā upadhmā<lb
+                            n="15"/>nīyasaṃjño bhavati <unclear>ha</unclear>stikavāṭasadṛśa
+                        upadhmānīya iti lipi<lb n="16"/>karāḥ | kaḫ pāti yaḫ phalati ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.19">aṃ ity anusvāraḥ || </l>
+
+                    <p xml:id="BB-1.1.19" style="stream1">|| akārā<lb n="17"/>t paro nāsikya
+                        ūṣmānusvārasaṃjño bhavati | prayojanaṃ mo nusvāraṃ vya<lb n="18"/>ñjane
+                        ityādi || tvaṃ ramyaḥ ||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.20">|| pūrvaparayor arthopalabdhau padam </l>
+
 
                 </div>
                 <!-- end of pāda 1 -->

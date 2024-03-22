@@ -222,7 +222,8 @@
                          bhūjānau hassanākhye bhuvam avati mayā tanyate grantha eṣaḥ </l>
 
                     <l xml:id="BBP-1.1.1.1.11">
-                        <lb n="3"/>sarvakṣmāpatimauli<pc> </pc>hārita<pc> </pc>nava<pc> </pc>prājyasvarājyaḥ paraṃ
+                        <lb n="3"/>sarvakṣmāpatimauli<pc> </pc>hārita<pc> </pc>nava<pc
+                        > </pc>prājyasvarājyaḥ paraṃ
                         <caesura/>
                          tattvātattvavicāra<lb n="4"/>kāridhiṣaṇo gāmbhīryaśauryānvitaḥ ||
                         <caesura/>
@@ -3163,6 +3164,74 @@
 
                     <l style="sūtra" xml:id="KS-1.1.16"> || <hi rend="rubricated">aḥ iti
                             visarjanīyaḥ</hi> ||</l>
+
+
+                    <p xml:id="BBP-1.1.16-1" style="stream2">aparo lopya iti sa<lb n="21"/>ndhir na
+                        vihitaḥ <space type="pause"/> saṃjñibhaṅgaprasaṅgāt <space type="pause"/> aṃ
+                        aḥ iti varṇānāṃ madhye sthitasya <lb n="22"
+                        />bindudvayāntasyākārasyānukriyamānatvād anukāryeṇārthenārthavattvād
+                            utpanna<lb n="23"/>sya prathamaikavacanasyādilopo ntalopaś cetyādinā
+                        lopaḥ <space type="pause"/> vipūrvāt sṛjoḥ <lb n="24"/>visṛjyate viramyate
+                        iti tavyānīyāv ity anena karmaṇy anīyaḥ <space type="pause"/> sa
+                            copalakṣa<lb n="25"/>ṇaṃ <space type="pause"/>
+                        tenānyakarmapratyayāntenāpi visṛjitāṃ saṃjñā sidhyati visṛṣṭo vi<lb n="26"
+                        />sargaḥ iti </p>
+
+                    <p xml:id="BBP-1.1.16-2" style="stream2">yadi ākārasahitasyaiva biṃdudvayasyeyaṃ
+                        saṃjñā, tadā ābhobhyām e<lb n="27"/>vam eva svare ityādi vyarthaṃ syād ity
+                        ata āha <space type="pause"/> akārāt para iti <space type="pause"/>
+                            havisarjanī<lb n="28"/>yāv urasyāv iti ekeṣāṃ mataṃ nirasyann āha <space
+                            type="pause"/> kaṇṭhyā iti kaṇṭhe bhavaḥ kaṇṭha<lb n="29"/>sthāna ity
+                        arthaḥ <space type="pause"/> ūṣmeti ūṣmadharmayogād ūṣmā kaś caura iti
+                            <space type="pause"/> cura steye a<unclear reason="overinking"
+                            >c</unclear>
+                        <lb n="30"/>guṇaḥ <space type="pause"/> prajñāditvāt svārthe aṇ <space
+                            type="pause"/> yaś channa iti vādānte<del>i</del>ty atra channaśabdo
+                            nipā<lb n="31"/>titaḥ </p>
+
+                    <p xml:id="BBP-1.1.16-3" style="stream2"><pb facs="pdf p.40" n="17v"/><lb n="1"
+                        />nanu yady akārāt parasya kaṇṭhyasyoṣmaṇo visarjanīyatvam uktaṃ <space
+                            type="pause"/> tadā <space type="pause"/> sūtroktasyā<lb n="2"/>kārasya
+                        parihāraḥ katham ity ata āha <space type="pause"/> caturṇām apīti <space
+                            type="pause"/> apiśabdo vadhā<lb n="3"/>raṇe <space type="pause"/> sa ca
+                        bhinnakramaḥ svarūpanirdeśārtha ity asmād anantaraṃ boddhavyaḥ <space
+                            type="pause"/>
+                    </p>
+
+                    <p xml:id="BBP-1.1.16-4" style="stream2">ayogavā<lb n="4"/>hānām iti <space
+                            type="pause"/> ayogavāhasaṃjñakānāṃ visarjanīyopadhmānīyānusvā<lb n="5"
+                        />rāṇām ity arthaḥ <space type="pause"/> uktaṃ ca <space type="pause"/>
+                        <lg type="quote">
+                            <l>anusvāro visargaś ca kalāpāṭhaplutā yamāḥ <space type="pause"/></l>
+                            <l>jihvā<lb n="6"/>mūlam upadhmā ca ṣoḍaśaite parāśrayāḥ </l>
+                            <l>ayogavāhā vijñeyā āśrayasthā<lb n="7"
+                                        />nabhāg<subst><del>ina</del><add>ata</add></subst></l>
+                        </lg>
+                         iti <space type="pause"/> yad vā <space type="pause"/> anaikārthatvād
+                        dhātūnāṃ yogaśabdo viyoge vartate <space type="pause"/> yogo <lb n="8"
+                        />nyaśabdā'sambandhaḥ <space type="pause"/> ayogo nyavarṇasambandhaḥ <space
+                            type="pause"/> tenoccāra<add hand="later" place="right-margin"
+                        >ṇa</add>yogyatāṃ vadantīty ayoga<lb n="9"/>vāhāḥ <space type="pause"/> anye
+                        tu pratyāhāralakṣaṇena pāṭhenāsambaddhā ayogavāhā ity āhuḥ </p>
+
+                    <p xml:id="BBP-1.1.16-5" style="stream2"><lb n="10"/>svarūpanirdeśārtha iti
+                            <space type="pause"/> visarjanīyādīnām akārādirahitaṃ bindudvayā<lb
+                            n="11"/>di yat svarūpaṃ tasya nirdeśo vyākhyānaṃ tatprayojanaka iti
+                        śabdo veditavyaḥ <space type="pause"/> anyathā <lb n="12"/>itiśabdasya
+                        prayojanābhāvād ānarthakyaṃ prasajyetety arthaḥ <space type="pause"/> yady
+                        evam akārāda<lb n="13"/>yaḥ kiṃ vyarthā iti nety ata āha <space type="pause"
+                        /> uccāraṇārthas tv iti <space type="pause"/> uccāraṇam arthaḥ prayojana<lb
+                            n="14"/>m eṣām iti vigrahaḥ <space type="pause"/> uccāraṇaṃ
+                        varṇanirmāṇam <space type="pause"/> yena vinā yad uccārayituṃ <lb n="15"/>na
+                        śakyate sa tasyoccāraṇārthaḥ ity akārādikam antareṇa visarjanīyāder u<lb
+                            n="16"/>ccārayitum aśakyatvād akārādir uccāraṇārthatām āsādayatīty
+                        arthaḥ <space type="pause"/> tuśa<lb n="17"/>bdo vadhāraṇe tenoccāraṇārthā
+                        eva akārādayaḥ saṃjñāsaṃbandhabhājo na bhavantī<lb n="18"/>ti yāvat <space
+                            type="pause"/> punar arthe vā ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.17">|| <hi rend="rubricated">ẖka iti
+                            jihvāmūlīyaḥ</hi> ||</l>
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

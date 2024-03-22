@@ -1160,6 +1160,65 @@
                     <l style="sūtra" xml:id="KS-1.1.16">
                         <hi rend="rubricated">aḥ iti</hi> ||</l>
 
+                    <p xml:id="BBP-1.1.16-1" style="stream2">aparo lopya iti sandhir na <lb n="2"
+                        />vihitā | saṃjñibhaṅgaprasaṅgāt <space type="pause"/> aṃ aḥ iti varṇānāṃ
+                        madhye sthita<lb n="3"/>sya bindudvayāntasyākārasyānukriyamāṇatvād
+                            anukāryeṇārthenā<lb n="4"/>rthavattvād utpannasya
+                        prathamaikavacanasyādilopo ntalopaś cetyādinā lopaḥ <lb n="5"/>vipūrvāt
+                        sṛjoḥ visṛjyate viramyate iti tavyānīyāv ity anena ka<lb n="6"/>rmaṇy anīyaḥ
+                        | sa copalakṣaṇaṃ <space type="pause"/> tenānyakarmapratyayāntenāpi visṛ<lb
+                            n="7"/>jitā<add place="above">nā</add>pi saṃjñā sidhyati visṛṣṭo
+                        visargaḥ iti |</p>
+
+                    <p xml:id="BBP-1.1.16-2" style="stream2"><lb n="8"/>yadi ākārasahitasyaiva
+                        bindudvayasyeyaṃ saṃjñā, tadā ābho<lb n="9"/>bhyām evam eva svare ityādi
+                        vyarthaṃ syād ity ata āha | akārāt para i<lb n="10"/>ti | havisarjanīyāv
+                        urasyāv ekeṣām iti mataṃ nirasyann āha | <lb n="11"/>kaṇṭhyā iti | kaṇṭhe
+                        bhavaḥ kaṇṭhasthāna ity arthaḥ | ūṣmeti | ūṣmadharmayo<lb n="12"/>gād ūṣmā |
+                        kaś caura iti | cura steye | pacāditvād ac <space type="pause"/> guṇaḥ |
+                            pra<lb n="13"/>jñāditvāt svārthe aṇ | yaś channa iti |
+                                vādānte<del><unclear unit="char" extent="2"/></del>ty atra <lb
+                            n="14"/>cchannaśabdo nipātitaḥ <space type="pause"/></p>
+
+                    <p xml:id="BBP-1.1.16-3" style="stream2">nanu yady akārāt parasya kaṇṭhya<lb
+                            n="15"/>syoṣmaṇo visarjanīyatvam uktaṃ tadā sūtroktasyākārasya pa<lb
+                            n="16"/>rihāraḥ katham ity ata āha | caturṇām apīti | apiśabdo <lb
+                            n="17"/>vadhāraṇe | sa ca bhinnakramaḥ | svarūpanirdeśārtha ity asmā<lb
+                            n="18"/>d anantaraṃ boddhavyaḥ | </p>
+
+                    <p xml:id="BBP-1.1.16-4" style="stream2">ayogavāhānām iti | ayogavāha<lb n="19"
+                        />saṃjñakānāṃ visarjanīyajihvāmūlīyopadhmānīyānu<lb n="20"/>svārāṇām ity
+                        arthaḥ | tad uktam,
+                        <lg type="quote">
+                            <l>anusvāro visargaś ca kalāpā<lb n="21"/>ṭhaplutā yamāḥ |</l>
+                            <l>jihvāmūlam upadhmā ca ṣoḍaśaite parāśra<pb facs="pdf p.22 right"
+                                    n="21r"/><lb n="1"/>yāḥ |</l>
+                            <l>ayogavāhā vijñeyā āśrayasthānabhāgata</l>
+                        </lg>
+                         iti | <lb n="2"/>yad vā <space type="pause"/> anekārthatvād dhātūnāṃ
+                                yoga<del><unclear unit="char" extent="1"/></del>śabdo viyoge vartate
+                        | <lb n="3"/>yogo nyaśabdāsambandhaḥ <space type="pause"/> ayogo
+                        'nyavarṇasambandhaḥ | tenoccāraṇa<lb n="4"/>yogyatāṃ vadantīty ayogavāhāḥ
+                            <space type="pause"/> anye tu pratyāhāralakṣaṇena <lb n="5"/>pāṭhena
+                        asambaddhā ayogavāhā ity āhuḥ |</p>
+
+                    <p xml:id="BBP-1.1.16-5" style="stream2">svarūpanirde<lb n="6"/>śārtha iti |
+                        visarjanīyādīnām akārādirahitaṃ bi<lb n="7"/>ndudvayādi yat svarūpaṃ tasya
+                        nirdeśo vyākhyānaṃ | tatprayojana<lb n="8"/>ka iti śabdo veditavyaḥ |
+                        anyathā itiśabdasya pra<lb n="9"/>yojanābhāvād ānarthakyaṃ prasajyetety
+                        arthaḥ | yady evam akārā<lb n="10"/>dayaḥ kiṃ vyarthā iti nety ata āha |
+                        uccāraṇārthas tv iti | u<lb n="11"/>ccāraṇam arthaḥ prayojanam eṣām iti
+                        vigrahaḥ | uccāraṇaṃ <lb n="12"/>varṇanirmāṇam <space type="pause"/> yena
+                        vinā yad uccārayituṃ na śakyate sa <lb n="13"/>tasyoccāraṇārtha ity
+                        akārādikam antareṇa visarjanī<lb n="14"/>yāder uccārayitum aśakyatvād
+                        akārādir uccāraṇā<lb n="14"/>rthatām āsādayatīty arthaḥ | tuśabdo vadhāraṇe
+                        | tenoccāra<lb n="15"/>ṇārthā eva akārādayaḥ | saṃjñāsaṃbandhabhājo na
+                            bhava<lb n="16"/>ntīti yāvat | punar arthe vā ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.17">|| <hi rend="rubricated">ẖka iti
+                            jihvāmūlīyaḥ</hi> ||</l>
+
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

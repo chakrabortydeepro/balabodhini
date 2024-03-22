@@ -2956,7 +2956,7 @@
                     </ab>
 
                     <p xml:id="BB-1.1.15" style="stream1"><label>BB 1.1.15</label>
-                        <anchor n="KS-1.1.15-t"/>śaṣasahā varṇā ūṣmasaṃjñā bhavanti | vakṣyamāṇayā
+                        <anchor n="BB-1.1.15-t"/>śaṣasahā varṇā ūṣmasaṃjñā bhavanti | vakṣyamāṇayā
                         śiṭsaṃjñayā vyavahārād ūṣmasaṃjñāyāḥ prayojanaṃ nāstīti yogārambho
                         'pārthakaḥ ||</p>
 
@@ -2991,21 +2991,110 @@
                         anvartho veditavya ityācakṣate | apagato rtho yasyāsāv apārthaḥ | tataḥ
                         svārthe kaḥ | bahuvrīhiprabodhanārtho vā kaḥ ||</p>
 
-                    <l style="sūtra" xml:id="KS-1.1.16"> ||1.1.16|| aḥ iti visarjanīyaḥ ||</l>
+                    <!-- sūtra -->
+
+                    <l style="sūtra" xml:id="KS-1.1.16"><label>KS 1.1.16</label>
+                        <anchor n="KS-1.1.16-t"/>
+                        <hi>aḥ iti visarjanīyaḥ ||1.1.16||</hi>
+                    </l>
 
                     <ab corresp="#KS-1.1.16" type="apparatus">
                         <list type="translation">
-                            <item corresp="#KS-1.1.15-t"/>
+                            <item corresp="#KS-1.1.16-t"><foreign>(a)ḥ</foreign> is (called)
+                                    <foreign>visarjanīya</foreign>.</item>
                         </list>
                     </ab>
+
+                    <!-- vṛtti -->
+
+                    <p xml:id="BB-1.1.16-1" style="stream1"><label>BB 1.1.16</label>
+                        <anchor n="BB-1.1.16-1-t"/>akārāt paraḥ kaṇṭhya ūṣmā visarjanīyasaṃjño
+                        bhavati | prayojanaṃ, <hi>visarjanīyaś ce che vā śam i</hi>tyādi <metamark
+                            function="source">[Kā.Sū. 1.5.1]</metamark> | kaś cauraḥ, yaś channaḥ
+                        |</p>
+
+                    <ab corresp="#BB-1.1.16-1" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.16-1-t">The guttural fricative following the
+                                sound <foreign>a</foreign> (in the sūtra) is termed
+                                    <foreign>visarjanīya</foreign>. The application is in rules such
+                                as <foreign><hi>visarjanīyaś ce che vā śam (1.5.1)</hi></foreign>,
+                                    “<foreign>visarjanīya</foreign>, when followed by
+                                    <foreign>c</foreign> or <foreign>ch</foreign>, turns into
+                                <foreign>ś</foreign>.” E.g. <foreign>kaś cauraḥ (&#60; kaḥ + cauraḥ), yaś
+                                    channaḥ (&#60; yaḥ + channaḥ)</foreign>, “Who is the thief? The one who is hidden.”
+                            </item>
+                        </list>
+                    </ab>
+
+                    <p xml:id="BB-1.1.16-2" style="stream1"><anchor n="BB-1.1.16-1-t"/>caturṇām apy
+                        ayogavāhānāṃ svarūpanirdeśārtha itiśabdaḥ | uccāraṇārthās tv akapāḥ ||</p>
+
+                    <ab corresp="#BB-1.1.16-2" type="apparatus">
+                        <list type="translation">
+                            <item corresp="#BB-1.1.16-2-t">The word <foreign>iti</foreign> serves to
+                                indicate the actual form of all four dependent
+                                    (<foreign>ayogavāha</foreign>) sounds. <foreign>A</foreign>,
+                                    <foreign>ka</foreign> and <foreign>pa</foreign> are, however,
+                                supplied for the purpose of pronunciation.</item>
+                        </list>
+                    </ab>
+
+
+                    <!-- nyāsa -->
+
+                    <p xml:id="BBP-1.1.16-1" style="stream2"><label>BBP 1.1.16</label> aparo lopya
+                        iti sandhir na vihitaḥ | saṃjñibhaṅgaprasaṅgāt | aṃ aḥ iti varṇānāṃ madhye
+                        sthitasya bindudvayāntasyākārasyānukriyamāṇatvād anukāryeṇārthenārthavattvād
+                        utpannasya prathamaikavacanasyādilopo 'ntalopaś cetyādinā lopaḥ | vipūrvāt
+                        sṛjoḥ visṛjyate viramyate iti tavyānīyāv ity anena karmaṇy anīyaḥ | sa
+                        copalakṣaṇam | tenānyakarmapratyayāntenāpi visṛjitā saṃjñā sidhyati visṛṣṭo
+                        visargaḥ iti |</p>
+
+                    <p xml:id="BBP-1.1.16-2" style="stream2">yadi ākārasahitasyaiva bindudvayasyeyaṃ
+                        saṃjñā, tadā ābhobhyām evam eva svare ityādi vyarthaṃ syād ity ata āha,
+                        akārāt para iti | havisarjanīyāv urasyāv ekeṣām iti mataṃ nirasyann āha,
+                        kaṇṭhyā iti | kaṇṭhe bhavaḥ kaṇṭhasthāna ity arthaḥ | ūṣmeti |
+                        ūṣmadharmayogād ūṣmā | kaś caura iti | cura steye | pacāditvād ac | guṇaḥ |
+                        prajñāditvāt svārthe aṇ | yaś channa iti | vādāntety atra cchannaśabdo
+                        nipātitaḥ |</p>
+
+                    <p xml:id="BBP-1.1.16-3" style="stream2">nanu yady akārāt parasya
+                        kaṇṭhyasyoṣmaṇo visarjanīyatvam uktaṃ, tadā sūtroktasyākārasya parihāraḥ
+                        katham ity ata āha, caturṇām apīti | apiśabdo 'vadhāraṇe | sa ca
+                        bhinnakramaḥ svarūpanirdeśārtha ity asmād anantaraṃ boddhavyaḥ | </p>
+
+                    <p xml:id="BBP-1.1.16-4" style="stream2">ayogavāhānām iti | ayogavāhasaṃjñakānāṃ
+                        visarjanīyajihvāmūlīyopadhmānīyānusvārāṇām ity arthaḥ | tad uktam,
+                        <lg type="quote">
+                            <l>anusvāro visargaś ca kalāpāṭhaplutā yamāḥ |</l>
+                            <l>jihvāmūlam upadhmā ca ṣoḍaśaite parāśrayāḥ |</l>
+                            <l>ayogavāhā vijñeyā āśrayasthānabhāgata</l>
+                        </lg>
+                         iti | yad vā, anekārthatvād dhātūnāṃ yogaśabdo viyoge vartate | yogo
+                        'nyaśabdāsambandhaḥ | ayogo 'nyavarṇasambandhaḥ | tenoccāraṇayogyatāṃ
+                        vadantīty ayogavāhāḥ | anye tu pratyāhāralakṣaṇena pāṭhenāsambaddhā
+                        ayogavāhā ity āhuḥ |</p>
+
+                    <p xml:id="BBP-1.1.16-5" style="stream2">svarūpanirdeśārtha iti |
+                        visarjanīyādīnām akārādirahitaṃ bindudvayādi yat svarūpaṃ tasya nirdeśo
+                        vyākhyānam | tatprayojanaka iti śabdo veditavyaḥ | anyathā, itiśabdasya
+                        prayojanābhāvād ānarthakyaṃ prasajyetety arthaḥ | yady evam akārādayaḥ kiṃ
+                        vyarthā iti nety ata āha, uccāraṇārthas tv iti | uccāraṇam arthaḥ prayojanam
+                        eṣām iti vigrahaḥ | uccāraṇaṃ varṇanirmāṇam | yena vinā yad uccārayituṃ na
+                        śakyate, sa tasyoccāraṇārtha ity akārādikam antareṇa visarjanīyāder
+                        uccārayitum aśakyatvād akārādir uccāraṇārthatām āsādayatīty arthaḥ | tuśabdo
+                        'vadhāraṇe | tenoccāraṇārthā eva akārādayaḥ | saṃjñāsaṃbandhabhājo na
+                        bhavantīti yāvat | punar arthe vā ||</p>
+
+
+                    <l style="sūtra" xml:id="KS-1.1.17"> ||1.1.17|| ẖka iti jihvāmūlīyaḥ ||</l>
 
                     <ab corresp="#BB-1.1.15" type="apparatus">
                         <list type="translation">
-                            <item corresp="#BB-1.1.15-t"/>
+                            <item corresp="#BB-1.1.17-t"/>
                         </list>
                     </ab>
-
-                    <l style="sūtra" xml:id="KS-1.1.17"> ||1.1.17|| ẖka iti jihvāmūlīyaḥ ||</l>
 
                     <l style="sūtra" xml:id="KS-1.1.18"> ||1.1.18|| ḫpa iti upadhmānīyaḥ ||</l>
 

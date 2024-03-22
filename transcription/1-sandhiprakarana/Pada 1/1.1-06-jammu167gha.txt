@@ -485,6 +485,41 @@
                     <l style="sūtra" xml:id="KS-1.1.16">aḥ iti visarjanīyaḥ <space type="pause"
                         /></l>
 
+                    <p xml:id="BB-1.1.16-1" style="stream1">akārā<lb n="5"/>t paraḥ kaṇṭha ūṣmā
+                        visarjanīyasaṃjñā bhavati <space type="pause"/> prayojanaṃ visarjanīyaś ce
+                        che vā śam ityādi <space type="pause"/> kaś cauraḥ <space type="pause"/> yaś
+                        channaḥ <space type="pause"/></p>
+
+                    <p xml:id="BB-1.1.16-2" style="stream1">caturṇṇām apy ayogavāhānāṃ <lb n="6"
+                        />svarūpanirdeśārtha itiśabdaḥ <space type="pause"/> uccāraṇārthās tv
+                        akapāḥ <space type="pause"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.17">ṣka iti jihvāmūlīyaḥ <space type="pause"
+                        /></l>
+
+                    <p xml:id="BB-1.1.17" style="stream1">kakārāt pūrvo varṇo jihvāmūlabhava ūṣmā
+                                jihvāmūl<subst><del>i</del><add>ī</add></subst><lb n="7"/>yasaṃjño
+                        bhavati <space type="pause"/> prayojanaṃ <space type="pause"/> kakhayor
+                        jihvāmūlīyaṃ na vetyādi <space type="pause"/> kaḥ kopī <space type="pause"/>
+                        yaḥ khinnaḥ <add place="below">||</add></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.18">ṣpa ity upadhmānīyaḥ <space type="pause"
+                        /></l>
+
+                    <p xml:id="BB-1.1.18" style="stream1">pakārāt pūrva oṣṭhya ūṣmā <lb n="8"
+                        />upadhmānīyasaṃjño bhavati <space type="pause"/> prayojanaṃ paphayor
+                        upadhmānīyaṃ na vetyādi <space type="pause"/> kaḥ pāti <space type="pause"/>
+                        kaḥ pāti <space type="pause"/> kaṣ phalati <space type="pause"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.19">aṃ ity anusvāraḥ <space type="pause"/></l>
+
+                    <p xml:id="BB-1.1.19" style="stream1">akā<lb n="9"/>rāt paro nāsikya ūṣmā
+                        anusvārasaṃjño bhavati <space type="pause"/> prayojanaṃ mo nusvāraṃ vyaṃjana
+                        ityādi <space type="pause"/> tvaṃ ramyaḥ <space type="pause"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.20">pūrvaparayor arthopalabdhau padaṃ <space
+                            type="pause"/></l>
+
 
                 </div>
                 <!-- end of chapter 1 of book 1-->

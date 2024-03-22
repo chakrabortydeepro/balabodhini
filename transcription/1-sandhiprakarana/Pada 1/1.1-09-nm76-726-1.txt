@@ -345,20 +345,48 @@
 
                     <l style="sūtra" xml:id="KS-1.1.14"/>
 
-                    <p xml:id="BB-1.1.14-1" style="stream1"/>
+                    <p xml:id="BB-1.1.14-1" style="stream1"><pb facs="pdf p.6" n="5v"/><lb n="5"
+                        />yaralavā varṇā antasthāsaṃjñā bhavanti | prayojanam, saparasvarāyās
+                            samprasāraṇa<lb n="6"/>m antasthāyā ityādi ijyate gṛhyate upyate </p>
 
-                    <p xml:id="BB-1.1.14-2" style="stream1"/>
+                    <p xml:id="BB-1.1.14-2" style="stream1">lakārasyāntasthatvāt_ glāna ityādā<lb
+                            n="7"/>v āto ntasthāsaṃyuktād iti niṣṭhānatvam ||</p>
 
 
 
-                    <l style="sūtra" xml:id="KS-1.1.15"/>
+                    <l style="sūtra" xml:id="KS-1.1.15">uṣmāṇaḥ śaṣasahāḥ ||</l>
 
-                    <p xml:id="BB-1.1.15" style="stream1"><gap reason="damage"/><pb facs="pdf p.6"
-                            n="5v"/><lb n="1"/>saṃjñāyāḥ prayojanaṃ nāstīti yogārambhaḥ apārthakaḥ
-                            <gap reason="damage"/></p>
+                    <p xml:id="BB-1.1.15" style="stream1">śaṣasahā varṇā ūṣmasaṃjñā bhavanti
+                        vakṣyamāṇayā śiṭsaṃjñayā vyavahārāt_ ūṣma<lb n="1"/>saṃjñāyāḥ prayojanaṃ
+                        nāstīti yogārambhaḥ apārthakaḥ <gap reason="damage"/></p>
 
                     <l style="sūtra" xml:id="KS-1.1.16"><gap reason="damage"/><lb n="2"/>sarjanīyaḥ
                         || </l>
+
+                    <p xml:id="BB-1.1.16" style="stream1">akārāt paraẖ kaṇṭhya ūṣmā
+                        visarjanīyasaṃjño bhavati | prayoja<lb n="3"/>naṃ visarjanīyaś ce che vā śam
+                        ityādi | kaś cauraḥ, yaś channaḥ |</p>
+
+                    <p xml:id="BB-1.1.16-2" style="stream1"> caturṇām apy a<lb n="4"/>yogavā<unclear
+                            reason="damage">hānāṃ svarūpanirdeśārtha itiśabdaḥ</unclear> |
+                            uccāraṇārthā<g ref="#sharada-separator"/>s tv a<g
+                            ref="#sharada-separator"/>kapāḥ <note place="right-margin"
+                            >bhavanti</note>||</p>
+
+                    <l style="sūtra" xml:id="KS-1.1.17"/>
+
+                    <p xml:id="BB-1.1.17" style="stream1"><gap reason="damage"/>rṇo jihvāmūlabhava
+                            ūṣ<gap reason="damage"/></p>
+
+                    <l style="sūtra" xml:id="KS-1.1.18"/>
+
+                    <p xml:id="BB-1.1.18" style="stream1"/>
+
+                    <l style="sūtra" xml:id="KS-1.1.19"/>
+
+                    <p xml:id="BB-1.1.19" style="stream1"/>
+
+                    <l style="sūtra" xml:id="KS-1.1.20"/>
 
 
                 </div>
